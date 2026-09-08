@@ -1,0 +1,983 @@
+exchange,instrument_type,symbol,name,isin,security_id,series,data_symbol,yahoo_symbol,validation_method,data_rows,last_date,validation_error
+BSE,STOCK,20MICRONS,20 Microns,,533022,B,20MICRONS.BO,,,0,,20MICRONS.BO: Yahoo returned no data | 533022.BO: Yahoo returned no data
+BSE,STOCK,AAKAAR,Aakaar Medical Technologies,,213454,NS,AAKAAR.BO,,,0,,AAKAAR.BO: Yahoo returned no data | 213454.BO: Yahoo returned no data
+BSE,STOCK,AAKASH,Aakash Exploration Services,,208537,NS,AAKASH.BO,,,0,,AAKASH.BO: Yahoo returned no data | 208537.BO: Yahoo returned no data
+BSE,STOCK,AARADHYA,AARADHYA DISPOSAL INDUS L,,213636,NS,AARADHYA.BO,,,0,,AARADHYA.BO: Yahoo returned no data | 213636.BO: Yahoo returned no data
+BSE,STOCK,AARON,Aaron Industries,,203282,NS,AARON.BO,,,0,,AARON.BO: Yahoo returned no data | 203282.BO: Yahoo returned no data
+BSE,STOCK,AARVI,Aarvi Encon,,544850,B,AARVI.BO,,,0,,AARVI.BO: Only 22 rows; minimum is 30 | 544850.BO: Yahoo returned no data
+BSE,STOCK,AATMAJ,Aatmaj Healthcare,,210436,NS,AATMAJ.BO,,,0,,AATMAJ.BO: Yahoo returned no data | 210436.BO: Yahoo returned no data
+BSE,STOCK,ABB,ABB,,500002,A,ABB.BO,,,0,,ABB.BO: Only 2 rows; minimum is 30 | 500002.BO: Yahoo returned no data
+BSE,STOCK,ABH,ABH Healthcare,,216562,NT,ABH.BO,,,0,,ABH.BO: Yahoo returned no data | 216562.BO: Yahoo returned no data
+BSE,STOCK,ABHAPOWER,Abha Power and Steel,,212231,NS,ABHAPOWER.BO,,,0,,ABHAPOWER.BO: Yahoo returned no data | 212231.BO: Yahoo returned no data
+BSE,STOCK,ABSMARINE,ABS Marine Services,,211582,NS,ABSMARINE.BO,,,0,,ABSMARINE.BO: Yahoo returned no data | 211582.BO: Yahoo returned no data
+BSE,STOCK,ACC,ACC,,500410,A,ACC.BO,,,0,,ACC.BO: Only 2 rows; minimum is 30 | 500410.BO: Yahoo returned no data
+BSE,STOCK,ACCENTMIC,Accent Microcell,,210915,NS,ACCENTMIC.BO,,,0,,ACCENTMIC.BO: Yahoo returned no data | 210915.BO: Yahoo returned no data
+BSE,STOCK,ACCORD,Accord Synergy,,206183,NT,ACCORD.BO,,,0,,ACCORD.BO: Yahoo returned no data | 206183.BO: Yahoo returned no data
+BSE,STOCK,ACCPL,Accretion Pharmaceuticals,,213326,NT,ACCPL.BO,,,0,,ACCPL.BO: Yahoo returned no data | 213326.BO: Yahoo returned no data
+BSE,STOCK,ACEINTEG,Ace Integrated Solutions,,205354,NS,ACEINTEG.BO,,,0,,ACEINTEG.BO: Yahoo returned no data | 205354.BO: Yahoo returned no data
+BSE,STOCK,ACETEC,Acetech E-Commerce,,215870,NS,ACETEC.BO,,,0,,ACETEC.BO: Yahoo returned no data | 215870.BO: Yahoo returned no data
+BSE,STOCK,ACFL,Apex Capital & Finance,,541133,XT,ACFL.BO,,,0,,ACFL.BO: Yahoo returned no data | 541133.BO: Only 1 rows; minimum is 30
+BSE,STOCK,ACTIVEINFR,Active Infrastructures,,213173,NS,ACTIVEINFR.BO,,,0,,ACTIVEINFR.BO: Yahoo returned no data | 213173.BO: Yahoo returned no data
+BSE,STOCK,ADDICTIVE,Addictive Learning Technology,,211066,NS,ADDICTIVE.BO,,,0,,ADDICTIVE.BO: Yahoo returned no data | 211066.BO: Yahoo returned no data
+BSE,STOCK,ADISOFT,Adisoft Technologies,,216223,NS,ADISOFT.BO,,,0,,ADISOFT.BO: Yahoo returned no data | 216223.BO: Yahoo returned no data
+BSE,STOCK,ADVANCETL,Advance Technoforge,,544843,M,ADVANCETL.BO,,,0,,ADVANCETL.BO: Only 25 rows; minimum is 30 | 544843.BO: Yahoo returned no data
+BSE,STOCK,ADVMULT,Advance Multitech,,526331,XT,ADVMULT.BO,,,0,,ADVMULT.BO: Yahoo returned no data | 526331.BO: Yahoo returned no data
+BSE,STOCK,AEGEUS,Aegeus Technologies,,544858,M,AEGEUS.BO,,,0,,AEGEUS.BO: Only 19 rows; minimum is 30 | 544858.BO: Yahoo returned no data
+BSE,STOCK,AERON,Aeron Composite,,211937,NS,AERON.BO,,,0,,AERON.BO: Yahoo returned no data | 211937.BO: Yahoo returned no data
+BSE,STOCK,AESTHETIK,Aesthetik Engineers,,211871,NS,AESTHETIK.BO,,,0,,AESTHETIK.BO: Yahoo returned no data | 211871.BO: Yahoo returned no data
+BSE,STOCK,AGARWALFT,Agarwal Float Glass,,209495,NS,AGARWALFT.BO,,,0,,AGARWALFT.BO: Yahoo returned no data | 209495.BO: Yahoo returned no data
+BSE,STOCK,AGARWALTUF,Agarwal Toughened Glass,,212234,NS,AGARWALTUF.BO,,,0,,AGARWALTUF.BO: Yahoo returned no data | 212234.BO: Yahoo returned no data
+BSE,STOCK,AGNI,Agni Green Power,,208980,NS,AGNI.BO,,,0,,AGNI.BO: Yahoo returned no data | 208980.BO: Yahoo returned no data
+BSE,STOCK,AGROPHOS,Agro Phos,,202972,NS,AGROPHOS.BO,,,0,,AGROPHOS.BO: Yahoo returned no data | 202972.BO: Yahoo returned no data
+BSE,STOCK,AGUL,AG Universal,,210301,NS,AGUL.BO,,,0,,AGUL.BO: Yahoo returned no data | 210301.BO: Yahoo returned no data
+BSE,STOCK,AGVENTURES,AG Ventures,,506579,X,AGVENTURES.BO,,,0,,AGVENTURES.BO: Only 1 rows; minimum is 30 | 506579.BO: Yahoo returned no data
+BSE,STOCK,AHIMSA,Ahimsa Industries,,206241,NT,AHIMSA.BO,,,0,,AHIMSA.BO: Yahoo returned no data | 206241.BO: Yahoo returned no data
+BSE,STOCK,AHLADA,Ahlada Engineers,,202065,NS,AHLADA.BO,,,0,,AHLADA.BO: Yahoo returned no data | 202065.BO: Yahoo returned no data
+BSE,STOCK,AIAENG,AIA Engineering,,532683,A,AIAENG.BO,,,0,,AIAENG.BO: Only 2 rows; minimum is 30 | 532683.BO: Yahoo returned no data
+BSE,STOCK,AILIMITED,Abhishek Integrations,,208056,NS,AILIMITED.BO,,,0,,AILIMITED.BO: Yahoo returned no data | 208056.BO: Yahoo returned no data
+BSE,STOCK,AIMTRON,Aimtron Electronics,,211636,NS,AIMTRON.BO,,,0,,AIMTRON.BO: Yahoo returned no data | 211636.BO: Yahoo returned no data
+BSE,STOCK,AIROLAM,Airo Lam,,203532,NS,AIROLAM.BO,,,0,,AIROLAM.BO: Yahoo returned no data | 203532.BO: Yahoo returned no data
+BSE,STOCK,AISL,ANI Integrated Services,,200742,NS,AISL.BO,,,0,,AISL.BO: Yahoo returned no data | 200742.BO: Yahoo returned no data
+BSE,STOCK,AJOONI,Ajooni Biotech,,209169,NS,AJOONI.BO,,,0,,AJOONI.BO: Yahoo returned no data | 209169.BO: Yahoo returned no data
+BSE,STOCK,AKANKSHA,Akanksha Power & Infrastructure,,210974,NS,AKANKSHA.BO,,,0,,AKANKSHA.BO: Yahoo returned no data | 210974.BO: Yahoo returned no data
+BSE,STOCK,AKASH,Akash Infra Projects,,202949,NS,AKASH.BO,,,0,,AKASH.BO: Yahoo returned no data | 202949.BO: Yahoo returned no data
+BSE,STOCK,AKG,AKG Exim,,202866,NS,AKG.BO,,,0,,AKG.BO: Yahoo returned no data | 202866.BO: Yahoo returned no data
+BSE,STOCK,AKIKO,Akiko Global Services,,211721,NS,AKIKO.BO,,,0,,AKIKO.BO: Yahoo returned no data | 211721.BO: Yahoo returned no data
+BSE,STOCK,ALCODIS,Alcokraft Distilleries,,201707,NS,ALCODIS.BO,,,0,,ALCODIS.BO: Yahoo returned no data | 201707.BO: Yahoo returned no data
+BSE,STOCK,ALEMBICLTD,Alembic,,506235,B,ALEMBICLTD.BO,,,0,,ALEMBICLTD.BO: Only 2 rows; minimum is 30 | 506235.BO: Yahoo returned no data
+BSE,STOCK,ALLETEC,All E Technologies,,209328,NS,ALLETEC.BO,,,0,,ALLETEC.BO: Yahoo returned no data | 209328.BO: Yahoo returned no data
+BSE,STOCK,ALPEXSOLAR,Alpex Solar,,211127,NS,ALPEXSOLAR.BO,,,0,,ALPEXSOLAR.BO: Yahoo returned no data | 211127.BO: Yahoo returned no data
+BSE,STOCK,ALUWIND,Aluwind Infra - Tech,,211499,NS,ALUWIND.BO,,,0,,ALUWIND.BO: Yahoo returned no data | 211499.BO: Yahoo returned no data
+BSE,STOCK,AMARNATH,Sri Amarnath Finance,,538863,X,AMARNATH.BO,,,0,,AMARNATH.BO: Yahoo returned no data | 538863.BO: Only 1 rows; minimum is 30
+BSE,STOCK,AMBAAUTO,Amba Auto Sales & Services,,216238,NS,AMBAAUTO.BO,,,0,,AMBAAUTO.BO: Yahoo returned no data | 216238.BO: Yahoo returned no data
+BSE,STOCK,AMBANIORGO,Ambani Orgochem,,201064,NS,AMBANIORGO.BO,,,0,,AMBANIORGO.BO: Yahoo returned no data | 201064.BO: Yahoo returned no data
+BSE,STOCK,AMCL,ANB Metal Cast,,213646,NS,AMCL.BO,,,0,,AMCL.BO: Yahoo returned no data | 213646.BO: Yahoo returned no data
+BSE,STOCK,AMEYA,Ameya Precision Engineers,,209085,NS,AMEYA.BO,,,0,,AMEYA.BO: Yahoo returned no data | 209085.BO: Yahoo returned no data
+BSE,STOCK,AMIABLE,Amiable Logistics,,209239,NS,AMIABLE.BO,,,0,,AMIABLE.BO: Yahoo returned no data | 209239.BO: Yahoo returned no data
+BSE,STOCK,ANANTRAJ,Anant Raj,,515055,A,ANANTRAJ.BO,,,0,,ANANTRAJ.BO: Only 2 rows; minimum is 30 | 515055.BO: Yahoo returned no data
+BSE,STOCK,ANAWIL,Anawil Wire & Engineering,,216509,NS,ANAWIL.BO,,,0,,ANAWIL.BO: Yahoo returned no data | 216509.BO: Yahoo returned no data
+BSE,STOCK,ANLON,Anlon Technology Solutions,,209379,NS,ANLON.BO,,,0,,ANLON.BO: Yahoo returned no data | 209379.BO: Yahoo returned no data
+BSE,STOCK,ANNAPURNA,Annapurna Swadisht,,209126,NS,ANNAPURNA.BO,,,0,,ANNAPURNA.BO: Yahoo returned no data | 209126.BO: Yahoo returned no data
+BSE,STOCK,ANNU,Annu Projects,,544893,T,ANNU.BO,,,0,,ANNU.BO: Only 3 rows; minimum is 30 | 544893.BO: Yahoo returned no data
+BSE,STOCK,ANONDITA,Anondita Medicare,,213679,NS,ANONDITA.BO,,,0,,ANONDITA.BO: Yahoo returned no data | 213679.BO: Yahoo returned no data
+BSE,STOCK,ANTGRAPHIC,Antarctica,,201552,NS,ANTGRAPHIC.BO,,,0,,ANTGRAPHIC.BO: Yahoo returned no data | 201552.BO: Yahoo returned no data
+BSE,STOCK,ANYA,Anya Polytech & Fertilizers,,212338,NS,ANYA.BO,,,0,,ANYA.BO: Yahoo returned no data | 212338.BO: Yahoo returned no data
+BSE,STOCK,APEXECO,Apex Ecotech,,212230,NT,APEXECO.BO,,,0,,APEXECO.BO: Yahoo returned no data | 212230.BO: Yahoo returned no data
+BSE,STOCK,APOLLOTYRE,Apollo Tyres,,500877,A,APOLLOTYRE.BO,,,0,,APOLLOTYRE.BO: Only 2 rows; minimum is 30 | 500877.BO: Yahoo returned no data
+BSE,STOCK,APOLSINHOT,Apollo Sindoori Hotel,,205935,NS,APOLSINHOT.BO,,,0,,APOLSINHOT.BO: Yahoo returned no data | 205935.BO: Yahoo returned no data
+BSE,STOCK,APRAMEYA,Aprameya Engineering,,211804,NS,APRAMEYA.BO,,,0,,APRAMEYA.BO: Yahoo returned no data | 211804.BO: Yahoo returned no data
+BSE,STOCK,APS,Australian Premium Solar,,211016,NS,APS.BO,,,0,,APS.BO: Yahoo returned no data | 211016.BO: Yahoo returned no data
+BSE,STOCK,ARABIAN,Arabian Petroleum,,210687,NS,ARABIAN.BO,,,0,,ARABIAN.BO: Yahoo returned no data | 210687.BO: Yahoo returned no data
+BSE,STOCK,ARCHIES,Archies,,532212,B,ARCHIES.BO,,,0,,ARCHIES.BO: Only 2 rows; minimum is 30 | 532212.BO: Yahoo returned no data
+BSE,STOCK,ARCIIL,ARC Insulation & Insulators,,213677,NS,ARCIIL.BO,,,0,,ARCIIL.BO: Yahoo returned no data | 213677.BO: Yahoo returned no data
+BSE,STOCK,ARDEE,Ardee Industries,,544860,B,ARDEE.BO,,,0,,ARDEE.BO: Only 18 rows; minimum is 30 | 544860.BO: Yahoo returned no data
+BSE,STOCK,ARDIALL,Ardi Investments & Trading,,504370,XT,ARDIALL.BO,,,0,,ARDIALL.BO: Yahoo returned no data | 504370.BO: Yahoo returned no data
+BSE,STOCK,ARHAM,Arham Technologies,,209299,NS,ARHAM.BO,,,0,,ARHAM.BO: Yahoo returned no data | 209299.BO: Yahoo returned no data
+BSE,STOCK,ARIHANTACA,Arihant Academy,,209347,NS,ARIHANTACA.BO,,,0,,ARIHANTACA.BO: Yahoo returned no data | 209347.BO: Yahoo returned no data
+BSE,STOCK,ARISTO,Aristo Bio-Tech & Lifescience,,209425,NS,ARISTO.BO,,,0,,ARISTO.BO: Yahoo returned no data | 209425.BO: Yahoo returned no data
+BSE,STOCK,ARMOUR,Armour Security,,215621,NT,ARMOUR.BO,,,0,,ARMOUR.BO: Yahoo returned no data | 215621.BO: Yahoo returned no data
+BSE,STOCK,ARTNIRMAN,Art Nirman,,205945,NS,ARTNIRMAN.BO,,,0,,ARTNIRMAN.BO: Yahoo returned no data | 205945.BO: Yahoo returned no data
+BSE,STOCK,ARUNAYA,Arunaya Organics,,213270,NS,ARUNAYA.BO,,,0,,ARUNAYA.BO: Yahoo returned no data | 213270.BO: Yahoo returned no data
+BSE,STOCK,ARVEE,Arvee Laboratories,,205428,NS,ARVEE.BO,,,0,,ARVEE.BO: Yahoo returned no data | 205428.BO: Yahoo returned no data
+BSE,STOCK,ARVIND,Arvind,,500101,A,ARVIND.BO,,,0,,ARVIND.BO: Only 2 rows; minimum is 30 | 500101.BO: Yahoo returned no data
+BSE,STOCK,ARVINDPORT,Arvind port & Infra,,210730,NS,ARVINDPORT.BO,,,0,,ARVINDPORT.BO: Yahoo returned no data | 210730.BO: Yahoo returned no data
+BSE,STOCK,ASAL,Automotive Stampings & Assemblies,,520119,B,ASAL.BO,,,0,,ASAL.BO: Only 2 rows; minimum is 30 | 520119.BO: Yahoo returned no data
+BSE,STOCK,ASCOM,Ascom Leasing & Investments,,206558,NS,ASCOM.BO,,,0,,ASCOM.BO: Yahoo returned no data | 206558.BO: Yahoo returned no data
+BSE,STOCK,ASHALOG,Ashapura Logistics,,211831,NS,ASHALOG.BO,,,0,,ASHALOG.BO: Yahoo returned no data | 211831.BO: Yahoo returned no data
+BSE,STOCK,ASHOKLEY,Ashok Leyland,,500477,A,ASHOKLEY.BO,,,0,,ASHOKLEY.BO: Only 2 rows; minimum is 30 | 500477.BO: Yahoo returned no data
+BSE,STOCK,ASHWINI,Ashwini Container Movers,,215457,NS,ASHWINI.BO,,,0,,ASHWINI.BO: Yahoo returned no data | 215457.BO: Yahoo returned no data
+BSE,STOCK,ASIANPAINT,Asian Paints,,500820,A,ASIANPAINT.BO,,,0,,ASIANPAINT.BO: Only 2 rows; minimum is 30 | 500820.BO: Yahoo returned no data
+BSE,STOCK,ASMS,Avio Smart Market Stack,,532694,T,ASMS.BO,,,0,,ASMS.BO: Only 2 rows; minimum is 30 | 532694.BO: Yahoo returned no data
+BSE,STOCK,ASPINWALL,Aspinwall & Co,,204739,NS,ASPINWALL.BO,,,0,,ASPINWALL.BO: Yahoo returned no data | 204739.BO: Yahoo returned no data
+BSE,STOCK,ASPIRE,Aspire & Innovative Advertising,,211473,NS,ASPIRE.BO,,,0,,ASPIRE.BO: Yahoo returned no data | 211473.BO: Yahoo returned no data
+BSE,STOCK,ASUTENT,Asutosh Enterprises,,512433,P,ASUTENT.BO,,,0,,ASUTENT.BO: Yahoo returned no data | 512433.BO: Yahoo returned no data
+BSE,STOCK,ATMASTCO,Atmastco,,211171,NS,ATMASTCO.BO,,,0,,ATMASTCO.BO: Yahoo returned no data | 211171.BO: Yahoo returned no data
+BSE,STOCK,ATULAUTO,Atul Auto,,531795,B,ATULAUTO.BO,,,0,,ATULAUTO.BO: Only 2 rows; minimum is 30 | 531795.BO: Yahoo returned no data
+BSE,STOCK,AUGMONT,Augmont Enterprises,,544888,B,AUGMONT.BO,,,0,,AUGMONT.BO: Only 5 rows; minimum is 30 | 544888.BO: Yahoo returned no data
+BSE,STOCK,AURIONPRO,Aurionpro Solutions,,532668,A,AURIONPRO.BO,,,0,,AURIONPRO.BO: Only 2 rows; minimum is 30 | 532668.BO: Yahoo returned no data
+BSE,STOCK,AUROIMPEX,Auro Impex  & Chemicals,,210338,NS,AUROIMPEX.BO,,,0,,AUROIMPEX.BO: Yahoo returned no data | 210338.BO: Yahoo returned no data
+BSE,STOCK,AUSL,Aditya Ultra Steel,,211974,NS,AUSL.BO,,,0,,AUSL.BO: Yahoo returned no data | 211974.BO: Yahoo returned no data
+BSE,STOCK,AVANA,Avana Electrosystems,,215615,NT,AVANA.BO,,,0,,AVANA.BO: Yahoo returned no data | 215615.BO: Yahoo returned no data
+BSE,STOCK,AVATAR,AVATAR Industries,,206195,NT,AVATAR.BO,,,0,,AVATAR.BO: Yahoo returned no data | 206195.BO: Yahoo returned no data
+BSE,STOCK,AVIANSH,Avi Ansh Textile,,212040,NS,AVIANSH.BO,,,0,,AVIANSH.BO: Yahoo returned no data | 212040.BO: Yahoo returned no data
+BSE,STOCK,AVIENCE,Avience Biomedicals,,216364,NS,AVIENCE.BO,,,0,,AVIENCE.BO: Yahoo returned no data | 216364.BO: Yahoo returned no data
+BSE,STOCK,AVONMERC,Avon Mercantile,,512265,XT,AVONMERC.BO,,,0,,AVONMERC.BO: Yahoo returned no data | 512265.BO: Only 1 rows; minimum is 30
+BSE,STOCK,AVPINFRA,AVP Infracon,,211289,NS,AVPINFRA.BO,,,0,,AVPINFRA.BO: Yahoo returned no data | 211289.BO: Yahoo returned no data
+BSE,STOCK,AVSL,AVSL Industries,,205279,NT,AVSL.BO,,,0,,AVSL.BO: Yahoo returned no data | 205279.BO: Yahoo returned no data
+BSE,STOCK,AVTNPL,Avt Natural Products,,519105,B,AVTNPL.BO,,,0,,AVTNPL.BO: Only 2 rows; minimum is 30 | 519105.BO: Yahoo returned no data
+BSE,STOCK,BABAFP,Baba Food Processing,,210809,NS,BABAFP.BO,,,0,,BABAFP.BO: Yahoo returned no data | 210809.BO: Yahoo returned no data
+BSE,STOCK,BAGDIGITAL,BAG Convergence,,215182,NS,BAGDIGITAL.BO,,,0,,BAGDIGITAL.BO: Yahoo returned no data | 215182.BO: Yahoo returned no data
+BSE,STOCK,BAHETI,Baheti Recycling Industries,,209291,NS,BAHETI.BO,,,0,,BAHETI.BO: Yahoo returned no data | 209291.BO: Yahoo returned no data
+BSE,STOCK,BAJAJHIND,Bajaj Hindusthan Sugar,,500032,B,BAJAJHIND.BO,,,0,,BAJAJHIND.BO: Only 2 rows; minimum is 30 | 500032.BO: Yahoo returned no data
+BSE,STOCK,BAJGLOB,Bajaj Global,,512261,XT,BAJGLOB.BO,,,0,,BAJGLOB.BO: Yahoo returned no data | 512261.BO: Yahoo returned no data
+BSE,STOCK,BALAJIPHOS,Balaji Phosphates,,212610,NS,BALAJIPHOS.BO,,,0,,BALAJIPHOS.BO: Yahoo returned no data | 212610.BO: Yahoo returned no data
+BSE,STOCK,BALAXI,Balaxi Pharmaceuticals,,211608,NS,BALAXI.BO,,,0,,BALAXI.BO: Yahoo returned no data | 211608.BO: Yahoo returned no data
+BSE,STOCK,BALCO,Solve Plastic Products,,211885,NS,BALCO.BO,,,0,,BALCO.BO: Yahoo returned no data | 211885.BO: Yahoo returned no data
+BSE,STOCK,BALRAMCHIN,Balrampur Chini Mills,,500038,A,BALRAMCHIN.BO,,,0,,BALRAMCHIN.BO: Only 2 rows; minimum is 30 | 500038.BO: Yahoo returned no data
+BSE,STOCK,BANKA,Banka Bioloo,,203099,NS,BANKA.BO,,,0,,BANKA.BO: Yahoo returned no data | 203099.BO: Yahoo returned no data
+BSE,STOCK,BARFLEX,Barflex Polyfilms,,212394,NS,BARFLEX.BO,,,0,,BARFLEX.BO: Yahoo returned no data | 212394.BO: Yahoo returned no data
+BSE,STOCK,BASF,BASF,,500042,A,BASF.BO,,,0,,BASF.BO: Only 2 rows; minimum is 30 | 500042.BO: Yahoo returned no data
+BSE,STOCK,BASILIC,Basilic Fly Studio,,210598,NS,BASILIC.BO,,,0,,BASILIC.BO: Yahoo returned no data | 210598.BO: Yahoo returned no data
+BSE,STOCK,BAWEJA,Baweja Studios,,211096,NT,BAWEJA.BO,,,0,,BAWEJA.BO: Yahoo returned no data | 211096.BO: Yahoo returned no data
+BSE,STOCK,BBL,Bharat Bijlee,,503960,B,BBL.BO,,,0,,BBL.BO: Only 2 rows; minimum is 30 | 503960.BO: Yahoo returned no data
+BSE,STOCK,BEACON,Beacon Trusteeship,,211633,NS,BEACON.BO,,,0,,BEACON.BO: Yahoo returned no data | 211633.BO: Yahoo returned no data
+BSE,STOCK,BEARDSELL,Beardsell,,211781,NS,BEARDSELL.BO,,,0,,BEARDSELL.BO: Yahoo returned no data | 211781.BO: Yahoo returned no data
+BSE,STOCK,BEL,Bharat Electronics,,500049,A,BEL.BO,,,0,,BEL.BO: Only 2 rows; minimum is 30 | 500049.BO: Yahoo returned no data
+BSE,STOCK,BEML,BEML,,500048,A,BEML.BO,,,0,,BEML.BO: Only 2 rows; minimum is 30 | 500048.BO: Yahoo returned no data
+BSE,STOCK,BEPL,Bhansali Engineering Polymers,,500052,B,BEPL.BO,,,0,,BEPL.BO: Only 2 rows; minimum is 30 | 500052.BO: Yahoo returned no data
+BSE,STOCK,BERGEPAINT,Berger Paints,,509480,A,BERGEPAINT.BO,,,0,,BERGEPAINT.BO: Only 2 rows; minimum is 30 | 509480.BO: Yahoo returned no data
+BSE,STOCK,BETA,Beta Drugs,,203739,NS,BETA.BO,,,0,,BETA.BO: Yahoo returned no data | 203739.BO: Yahoo returned no data
+BSE,STOCK,BEWLTD,BEW Engineering,,208204,NS,BEWLTD.BO,,,0,,BEWLTD.BO: Yahoo returned no data | 208204.BO: Yahoo returned no data
+BSE,STOCK,BHADORA,Bhadora Industries,,213637,NT,BHADORA.BO,,,0,,BHADORA.BO: Yahoo returned no data | 213637.BO: Yahoo returned no data
+BSE,STOCK,BHARATFORG,Bharat Forge,,500493,A,BHARATFORG.BO,,,0,,BHARATFORG.BO: Only 2 rows; minimum is 30 | 500493.BO: Yahoo returned no data
+BSE,STOCK,BIKEWO,Bikewo Green Tech,,212039,NT,BIKEWO.BO,,,0,,BIKEWO.BO: Yahoo returned no data | 212039.BO: Yahoo returned no data
+BSE,STOCK,BIOPOL,Biopol Chemicals,,215725,NS,BIOPOL.BO,,,0,,BIOPOL.BO: Yahoo returned no data | 215725.BO: Yahoo returned no data
+BSE,STOCK,BIRDYS,Grill Splendour Services,,211521,NS,BIRDYS.BO,,,0,,BIRDYS.BO: Yahoo returned no data | 211521.BO: Yahoo returned no data
+BSE,STOCK,BLEL,Behari Lal Engineering,,544870,B,BLEL.BO,,,0,,BLEL.BO: Only 13 rows; minimum is 30 | 544870.BO: Yahoo returned no data
+BSE,STOCK,BLKASHYAP,B L Kashyap & Sons,,532719,B,BLKASHYAP.BO,,,0,,BLKASHYAP.BO: Only 2 rows; minimum is 30 | 532719.BO: Yahoo returned no data
+BSE,STOCK,BLT,BLT Logistics,,544474,MT,BLT.BO,,,0,,BLT.BO: Yahoo returned no data | 544474.BO: Yahoo returned no data
+BSE,STOCK,BLUEPEBBLE,Blue Pebble,,211474,NS,BLUEPEBBLE.BO,,,0,,BLUEPEBBLE.BO: Yahoo returned no data | 211474.BO: Yahoo returned no data
+BSE,STOCK,BLUEWATER,Blue Water Logistics,,213372,NT,BLUEWATER.BO,,,0,,BLUEWATER.BO: Yahoo returned no data | 213372.BO: Yahoo returned no data
+BSE,STOCK,BMETRICS,Bombay Metrics Supply Chain,,208301,NS,BMETRICS.BO,,,0,,BMETRICS.BO: Yahoo returned no data | 208301.BO: Yahoo returned no data
+BSE,STOCK,BMLL,Bio Medica Laboratories,,216286,NS,BMLL.BO,,,0,,BMLL.BO: Yahoo returned no data | 216286.BO: Yahoo returned no data
+BSE,STOCK,BOHRAIND,Bohra Industries,,209193,NS,BOHRAIND.BO,,,0,,BOHRAIND.BO: Yahoo returned no data | 209193.BO: Yahoo returned no data
+BSE,STOCK,BOSS,Boss Packaging Solutions,,211955,NS,BOSS.BO,,,0,,BOSS.BO: Yahoo returned no data | 211955.BO: Yahoo returned no data
+BSE,STOCK,BPCL,Bharat Petroleum,,500547,A,BPCL.BO,,,0,,BPCL.BO: Only 2 rows; minimum is 30 | 500547.BO: Yahoo returned no data
+BSE,STOCK,BPL,BPL,,500074,B,BPL.BO,,,0,,BPL.BO: Only 2 rows; minimum is 30 | 500074.BO: Yahoo returned no data
+BSE,STOCK,BRACEPORT,Brace Port Logistics,,211898,NS,BRACEPORT.BO,,,0,,BRACEPORT.BO: Yahoo returned no data | 211898.BO: Yahoo returned no data
+BSE,STOCK,BRANDMAN,Brandman Retail,,215719,NS,BRANDMAN.BO,,,0,,BRANDMAN.BO: Yahoo returned no data | 215719.BO: Yahoo returned no data
+BSE,STOCK,BRITANNIA,Britannia Industries,,500825,A,BRITANNIA.BO,,,0,,BRITANNIA.BO: Only 2 rows; minimum is 30 | 500825.BO: Yahoo returned no data
+BSE,STOCK,BSE,BSE,,201890,NS,BSE.BO,,,0,,BSE.BO: Yahoo returned no data | 201890.BO: Yahoo returned no data
+BSE,STOCK,BULKCORP,Bulkcorp International,,211834,NT,BULKCORP.BO,,,0,,BULKCORP.BO: Yahoo returned no data | 211834.BO: Yahoo returned no data
+BSE,STOCK,C2C,C2C Advanced Systems,,212226,NS,C2C.BO,,,0,,C2C.BO: Yahoo returned no data | 212226.BO: Yahoo returned no data
+BSE,STOCK,CADSYS,Cadsys,,206071,NT,CADSYS.BO,,,0,,CADSYS.BO: Yahoo returned no data | 206071.BO: Yahoo returned no data
+BSE,STOCK,CANARYS,Canarys Automations,,210695,NS,CANARYS.BO,,,0,,CANARYS.BO: Yahoo returned no data | 210695.BO: Yahoo returned no data
+BSE,STOCK,CANFINHOME,Can Fin Homes,,511196,A,CANFINHOME.BO,,,0,,CANFINHOME.BO: Only 2 rows; minimum is 30 | 511196.BO: Yahoo returned no data
+BSE,STOCK,CARBORUNIV,Carborundum Universal,,513375,A,CARBORUNIV.BO,,,0,,CARBORUNIV.BO: Only 2 rows; minimum is 30 | 513375.BO: Yahoo returned no data
+BSE,STOCK,CBAZAAR,Net Avenue Technologies,,210874,NT,CBAZAAR.BO,,,0,,CBAZAAR.BO: Yahoo returned no data | 210874.BO: Yahoo returned no data
+BSE,STOCK,CDSL,CDSL,,201232,NS,CDSL.BO,,,0,,CDSL.BO: Yahoo returned no data | 201232.BO: Yahoo returned no data
+BSE,STOCK,CEDAAR,Cedaar Textile,,213506,NT,CEDAAR.BO,,,0,,CEDAAR.BO: Yahoo returned no data | 213506.BO: Yahoo returned no data
+BSE,STOCK,CELEBRITY,Celebrity Fashions,,532695,B,CELEBRITY.BO,,,0,,CELEBRITY.BO: Only 2 rows; minimum is 30 | 532695.BO: Yahoo returned no data
+BSE,STOCK,CELLECOR,Cellecor Gadgets,,211856,NS,CELLECOR.BO,,,0,,CELLECOR.BO: Yahoo returned no data | 211856.BO: Yahoo returned no data
+BSE,STOCK,CELLPOINT,Cell Point,,210434,NS,CELLPOINT.BO,,,0,,CELLPOINT.BO: Yahoo returned no data | 210434.BO: Yahoo returned no data
+BSE,STOCK,CENTENKA,Century Enka,,500280,B,CENTENKA.BO,,,0,,CENTENKA.BO: Only 2 rows; minimum is 30 | 500280.BO: Yahoo returned no data
+BSE,STOCK,CESC,CESC,,500084,A,CESC.BO,,,0,,CESC.BO: Only 2 rows; minimum is 30 | 500084.BO: Yahoo returned no data
+BSE,STOCK,CGRAPHICS,Creative Graphics Solutions,,211498,NS,CGRAPHICS.BO,,,0,,CGRAPHICS.BO: Yahoo returned no data | 211498.BO: Yahoo returned no data
+BSE,STOCK,CHADPAP,Chadha Paper,,531946,X,CHADPAP.BO,,,0,,CHADPAP.BO: Yahoo returned no data | 531946.BO: Yahoo returned no data
+BSE,STOCK,CHAMUNDA,Chamunda Electricals,,212480,NS,CHAMUNDA.BO,,,0,,CHAMUNDA.BO: Yahoo returned no data | 212480.BO: Yahoo returned no data
+BSE,STOCK,CHANDAN,Chandan Healthcare,,212501,NS,CHANDAN.BO,,,0,,CHANDAN.BO: Yahoo returned no data | 212501.BO: Yahoo returned no data
+BSE,STOCK,CHAVDA,Chavda Infra,,210620,NS,CHAVDA.BO,,,0,,CHAVDA.BO: Yahoo returned no data | 210620.BO: Yahoo returned no data
+BSE,STOCK,CHENNPETRO,Chennai Petroleum Corporation,,500110,A,CHENNPETRO.BO,,,0,,CHENNPETRO.BO: Only 2 rows; minimum is 30 | 500110.BO: Yahoo returned no data
+BSE,STOCK,CHETANA,Chetana Education,,211803,NS,CHETANA.BO,,,0,,CHETANA.BO: Yahoo returned no data | 211803.BO: Yahoo returned no data
+BSE,STOCK,CIPLA,Cipla,,500087,A,CIPLA.BO,,,0,,CIPLA.BO: Only 2 rows; minimum is 30 | 500087.BO: Yahoo returned no data
+BSE,STOCK,CKKRETAIL,C K K Retail Mart,,215693,NS,CKKRETAIL.BO,,,0,,CKKRETAIL.BO: Yahoo returned no data | 215693.BO: Yahoo returned no data
+BSE,STOCK,CLASSICEIL,Classic Electrodes (India),,213680,NS,CLASSICEIL.BO,,,0,,CLASSICEIL.BO: Yahoo returned no data | 213680.BO: Yahoo returned no data
+BSE,STOCK,CLAYCRAFT,Clay Craft,,216360,NS,CLAYCRAFT.BO,,,0,,CLAYCRAFT.BO: Yahoo returned no data | 216360.BO: Yahoo returned no data
+BSE,STOCK,CLSL,Crop Life Science,,210567,NT,CLSL.BO,,,0,,CLSL.BO: Yahoo returned no data | 210567.BO: Yahoo returned no data
+BSE,STOCK,CMNL,Chaman Metallics,,209390,NS,CMNL.BO,,,0,,CMNL.BO: Yahoo returned no data | 209390.BO: Yahoo returned no data
+BSE,STOCK,CMRSL,Cyber Media Research & Services,,209170,NS,CMRSL.BO,,,0,,CMRSL.BO: Yahoo returned no data | 209170.BO: Yahoo returned no data
+BSE,STOCK,COMMITTED,Committed Cargo Care,,210710,NS,COMMITTED.BO,,,0,,COMMITTED.BO: Yahoo returned no data | 210710.BO: Yahoo returned no data
+BSE,STOCK,CONCOR,Container Corporation of India,,531344,A,CONCOR.BO,,,0,,CONCOR.BO: Only 2 rows; minimum is 30 | 531344.BO: Yahoo returned no data
+BSE,STOCK,CONNPLEX,Connplex Cinemas,,213641,NS,CONNPLEX.BO,,,0,,CONNPLEX.BO: Yahoo returned no data | 213641.BO: Yahoo returned no data
+BSE,STOCK,CONSOFINVT,Consolidated Finvest & Holdings,,203559,NT,CONSOFINVT.BO,,,0,,CONSOFINVT.BO: Yahoo returned no data | 203559.BO: Yahoo returned no data
+BSE,STOCK,CONTI,Continental Seeds Chemicals,,203459,NS,CONTI.BO,,,0,,CONTI.BO: Yahoo returned no data | 203459.BO: Yahoo returned no data
+BSE,STOCK,COOLCAPS,Cool Caps Industries,,208628,NT,COOLCAPS.BO,,,0,,COOLCAPS.BO: Yahoo returned no data | 208628.BO: Yahoo returned no data
+BSE,STOCK,CORAGRO,Coromandel Agro Products,,507543,P,CORAGRO.BO,,,0,,CORAGRO.BO: Yahoo returned no data | 507543.BO: Only 1 rows; minimum is 30
+BSE,STOCK,CPS,CPS Shapers,,210584,NS,CPS.BO,,,0,,CPS.BO: Yahoo returned no data | 210584.BO: Yahoo returned no data
+BSE,STOCK,CRAFTROOT,Craftroot Retail,,526349,Z,CRAFTROOT.BO,,,0,,CRAFTROOT.BO: Yahoo returned no data | 526349.BO: Only 1 rows; minimum is 30
+BSE,STOCK,CRAYONS,Crayons Advertising,,210375,NS,CRAYONS.BO,,,0,,CRAYONS.BO: Yahoo returned no data | 210375.BO: Yahoo returned no data
+BSE,STOCK,CREDENT,Credent Connect N Care,,216528,NS,CREDENT.BO,,,0,,CREDENT.BO: Yahoo returned no data | 216528.BO: Yahoo returned no data
+BSE,STOCK,CRISIL,CRISIL,,500092,A,CRISIL.BO,,,0,,CRISIL.BO: Only 2 rows; minimum is 30 | 500092.BO: Yahoo returned no data
+BSE,STOCK,CROWN,Crown Lifters,,200540,NS,CROWN.BO,,,0,,CROWN.BO: Yahoo returned no data | 200540.BO: Yahoo returned no data
+BSE,STOCK,CSML,Complete Sports & Management,,544900,MT,CSML.BO,,,0,,CSML.BO: Only 1 rows; minimum is 30 | 544900.BO: Yahoo returned no data
+BSE,STOCK,CSSL,Clear Secured Services,,215419,NS,CSSL.BO,,,0,,CSSL.BO: Yahoo returned no data | 215419.BO: Yahoo returned no data
+BSE,STOCK,CUDML,Cash Ur Drive Marketing,,213611,NS,CUDML.BO,,,0,,CUDML.BO: Yahoo returned no data | 213611.BO: Yahoo returned no data
+BSE,STOCK,CURIS,Curis Lifesciences,,215295,NS,CURIS.BO,,,0,,CURIS.BO: Yahoo returned no data | 215295.BO: Yahoo returned no data
+BSE,STOCK,CURRENT,Current Infraprojects,,213704,NS,CURRENT.BO,,,0,,CURRENT.BO: Yahoo returned no data | 213704.BO: Yahoo returned no data
+BSE,STOCK,CYBERMEDIA,Cyber Media,,532640,B,CYBERMEDIA.BO,,,0,,CYBERMEDIA.BO: Only 2 rows; minimum is 30 | 532640.BO: Yahoo returned no data
+BSE,STOCK,DABUR,Dabur India,,500096,A,DABUR.BO,,,0,,DABUR.BO: Only 2 rows; minimum is 30 | 500096.BO: Yahoo returned no data
+BSE,STOCK,DANGEE,Dangee Dums,,209079,NS,DANGEE.BO,,,0,,DANGEE.BO: Yahoo returned no data | 209079.BO: Yahoo returned no data
+BSE,STOCK,DANISH,Danish Power,,212136,NS,DANISH.BO,,,0,,DANISH.BO: Yahoo returned no data | 212136.BO: Yahoo returned no data
+BSE,STOCK,DANLAW,Danlaw Technologies,,532329,XT,DANLAW.BO,,,0,,DANLAW.BO: Yahoo returned no data | 532329.BO: Yahoo returned no data
+BSE,STOCK,DAVIN,Davin Sons Retail,,544331,M,DAVIN.BO,,,0,,DAVIN.BO: Yahoo returned no data | 544331.BO: Yahoo returned no data
+BSE,STOCK,DBCORP,DB Corp,,533151,B,DBCORP.BO,,,0,,DBCORP.BO: Yahoo returned no data | 533151.BO: Yahoo returned no data
+BSE,STOCK,DCCL,Dar Credit & Capital,,213351,NS,DCCL.BO,,,0,,DCCL.BO: Yahoo returned no data | 213351.BO: Yahoo returned no data
+BSE,STOCK,DCG,DCG Cables & Wires,,211509,NS,DCG.BO,,,0,,DCG.BO: Yahoo returned no data | 211509.BO: Yahoo returned no data
+BSE,STOCK,DCM,DCM,,502820,T,DCM.BO,,,0,,DCM.BO: Only 1 rows; minimum is 30 | 502820.BO: Yahoo returned no data
+BSE,STOCK,DCW,DCW,,500117,B,DCW.BO,,,0,,DCW.BO: Only 1 rows; minimum is 30 | 500117.BO: Yahoo returned no data
+BSE,STOCK,DECCANCE,Deccan Cements,,502137,B,DECCANCE.BO,,,0,,DECCANCE.BO: Only 1 rows; minimum is 30 | 502137.BO: Yahoo returned no data
+BSE,STOCK,DECCANTRAN,Deccan Transcon Leasing,,212001,NS,DECCANTRAN.BO,,,0,,DECCANTRAN.BO: Yahoo returned no data | 212001.BO: Yahoo returned no data
+BSE,STOCK,DEEM,Deem Roll Tech,,211181,NT,DEEM.BO,,,0,,DEEM.BO: Yahoo returned no data | 211181.BO: Yahoo returned no data
+BSE,STOCK,DEEPAKFERT,Deepak Fertilisers & Petrochemicals,,500645,A,DEEPAKFERT.BO,,,0,,DEEPAKFERT.BO: Only 1 rows; minimum is 30 | 500645.BO: Yahoo returned no data
+BSE,STOCK,DELAPLEX,Delaplex,,211092,NS,DELAPLEX.BO,,,0,,DELAPLEX.BO: Yahoo returned no data | 211092.BO: Yahoo returned no data
+BSE,STOCK,DELTIC,Delta Autocorp,,212378,NS,DELTIC.BO,,,0,,DELTIC.BO: Yahoo returned no data | 212378.BO: Yahoo returned no data
+BSE,STOCK,DENEERS,De Neers Tools,,210323,NS,DENEERS.BO,,,0,,DENEERS.BO: Yahoo returned no data | 210323.BO: Yahoo returned no data
+BSE,STOCK,DENTALKART,Vasa Denticity,,210374,NS,DENTALKART.BO,,,0,,DENTALKART.BO: Yahoo returned no data | 210374.BO: Yahoo returned no data
+BSE,STOCK,DESTINY,Destiny Logistics - RE,,208303,NS,DESTINY.BO,,,0,,DESTINY.BO: Yahoo returned no data | 208303.BO: Yahoo returned no data
+BSE,STOCK,DEVITRD,Devinsu Trading,,512445,XT,DEVITRD.BO,,,0,,DEVITRD.BO: Yahoo returned no data | 512445.BO: Yahoo returned no data
+BSE,STOCK,DHANBANK,Dhanlaxmi Bank,,532180,B,DHANBANK.BO,,,0,,DHANBANK.BO: Only 1 rows; minimum is 30 | 532180.BO: Yahoo returned no data
+BSE,STOCK,DHANLAXMI,Dhanlaxmi Crop Science,,212273,NS,DHANLAXMI.BO,,,0,,DHANLAXMI.BO: Yahoo returned no data | 212273.BO: Yahoo returned no data
+BSE,STOCK,DHANSA,Dhansa Labs,,211754,NS,DHANSA.BO,,,0,,DHANSA.BO: Yahoo returned no data | 211754.BO: Yahoo returned no data
+BSE,STOCK,DHANWEL,Dhanwel Hybrid Seeds,,544884,MT,DHANWEL.BO,,,0,,DHANWEL.BO: Only 7 rows; minimum is 30 | 544884.BO: Yahoo returned no data
+BSE,STOCK,DHARARAIL,Dhara Rail Projects,,215516,NT,DHARARAIL.BO,,,0,,DHARARAIL.BO: Yahoo returned no data | 215516.BO: Yahoo returned no data
+BSE,STOCK,DHARIWAL,Dhariwal Corp,,215715,NS,DHARIWAL.BO,,,0,,DHARIWAL.BO: Yahoo returned no data | 215715.BO: Yahoo returned no data
+BSE,STOCK,DHAVAL,Dhaval Packaging,,544854,M,DHAVAL.BO,,,0,,DHAVAL.BO: Only 21 rows; minimum is 30 | 544854.BO: Yahoo returned no data
+BSE,STOCK,DHOOTTRANS,Dhoot Transmission,,544867,B,DHOOTTRANS.BO,,,0,,DHOOTTRANS.BO: Only 14 rows; minimum is 30 | 544867.BO: Yahoo returned no data
+BSE,STOCK,DHTL,Docmode Health Technologies,,211090,NS,DHTL.BO,,,0,,DHTL.BO: Yahoo returned no data | 211090.BO: Yahoo returned no data
+BSE,STOCK,DIGIKORE,Digikore Studios,,210660,NS,DIGIKORE.BO,,,0,,DIGIKORE.BO: Yahoo returned no data | 210660.BO: Yahoo returned no data
+BSE,STOCK,DIRL,Dhanuka Infra Realty,,200454,NS,DIRL.BO,,,0,,DIRL.BO: Yahoo returned no data | 200454.BO: Yahoo returned no data
+BSE,STOCK,DIVINEHIRA,Divine Hira Jewellers,,212706,NT,DIVINEHIRA.BO,,,0,,DIVINEHIRA.BO: Yahoo returned no data | 212706.BO: Yahoo returned no data
+BSE,STOCK,DIVYADHAN,Divyadhan Recycling Industries,,212057,NT,DIVYADHAN.BO,,,0,,DIVYADHAN.BO: Yahoo returned no data | 212057.BO: Yahoo returned no data
+BSE,STOCK,DKEGL,DK Enterprises Global,,208318,NS,DKEGL.BO,,,0,,DKEGL.BO: Yahoo returned no data | 208318.BO: Yahoo returned no data
+BSE,STOCK,DOLLEX,Dollex Agrotech,,209344,NS,DOLLEX.BO,,,0,,DOLLEX.BO: Yahoo returned no data | 209344.BO: Yahoo returned no data
+BSE,STOCK,DONEAR,Donear Industries,,512519,B,DONEAR.BO,,,0,,DONEAR.BO: Only 1 rows; minimum is 30 | 512519.BO: Yahoo returned no data
+BSE,STOCK,DPEL,Divine Power Energy,,211722,NS,DPEL.BO,,,0,,DPEL.BO: Yahoo returned no data | 211722.BO: Yahoo returned no data
+BSE,STOCK,DPSCLTD,DPSC,,202249,NT,DPSCLTD.BO,,,0,,DPSCLTD.BO: Yahoo returned no data | 202249.BO: Yahoo returned no data
+BSE,STOCK,DRONE,Drone Destination,,210495,NS,DRONE.BO,,,0,,DRONE.BO: Yahoo returned no data | 210495.BO: Yahoo returned no data
+BSE,STOCK,DRREDDY,Dr Reddys Laboratories,,500124,A,DRREDDY.BO,,,0,,DRREDDY.BO: Only 1 rows; minimum is 30 | 500124.BO: Yahoo returned no data
+BSE,STOCK,DRSCARGO,DRS Cargo Movers,,211501,NS,DRSCARGO.BO,,,0,,DRSCARGO.BO: Yahoo returned no data | 211501.BO: Yahoo returned no data
+BSE,STOCK,DRSDILIP,DRS Dilip Roadlines,,202144,NS,DRSDILIP.BO,,,0,,DRSDILIP.BO: Yahoo returned no data | 202144.BO: Yahoo returned no data
+BSE,STOCK,DTL,Diensten Tech,,211726,NS,DTL.BO,,,0,,DTL.BO: Yahoo returned no data | 211726.BO: Yahoo returned no data
+BSE,STOCK,DUCOL,Ducol Organics & Colours,,209397,NS,DUCOL.BO,,,0,,DUCOL.BO: Yahoo returned no data | 209397.BO: Yahoo returned no data
+BSE,STOCK,DUGLOBAL,DU Digital Global,,208924,NS,DUGLOBAL.BO,,,0,,DUGLOBAL.BO: Yahoo returned no data | 208924.BO: Yahoo returned no data
+BSE,STOCK,DURLAX,Durlax Top Surface,,211692,NS,DURLAX.BO,,,0,,DURLAX.BO: Yahoo returned no data | 211692.BO: Yahoo returned no data
+BSE,STOCK,DYNAMIC,Dynamic Services & Security,,208302,NT,DYNAMIC.BO,,,0,,DYNAMIC.BO: Yahoo returned no data | 208302.BO: Yahoo returned no data
+BSE,STOCK,E2ERAIL,E to E Transportation Infrastructure,,215521,NS,E2ERAIL.BO,,,0,,E2ERAIL.BO: Yahoo returned no data | 215521.BO: Yahoo returned no data
+BSE,STOCK,ECOLINE,Ecoline Exim,,213805,NT,ECOLINE.BO,,,0,,ECOLINE.BO: Yahoo returned no data | 213805.BO: Yahoo returned no data
+BSE,STOCK,EEPL,Eppeltone Engineers,,213447,NT,EEPL.BO,,,0,,EEPL.BO: Yahoo returned no data | 213447.BO: Yahoo returned no data
+BSE,STOCK,EFACTOR,E-Factor Experiences,,210688,NS,EFACTOR.BO,,,0,,EFACTOR.BO: Yahoo returned no data | 210688.BO: Yahoo returned no data
+BSE,STOCK,EFFWA,Effwa Infra & Research,,211759,NT,EFFWA.BO,,,0,,EFFWA.BO: Yahoo returned no data | 211759.BO: Yahoo returned no data
+BSE,STOCK,EFORCE,Electro Force,,210949,NS,EFORCE.BO,,,0,,EFORCE.BO: Yahoo returned no data | 210949.BO: Yahoo returned no data
+BSE,STOCK,EIDPARRY,EID Parry,,500125,A,EIDPARRY.BO,,,0,,EIDPARRY.BO: Only 1 rows; minimum is 30 | 500125.BO: Yahoo returned no data
+BSE,STOCK,EKC,Everest Kanto Cylinder,,532684,B,EKC.BO,,,0,,EKC.BO: Only 1 rows; minimum is 30 | 532684.BO: Yahoo returned no data
+BSE,STOCK,ELGIRUBCO,Elgi Rubber Company,,200535,NS,ELGIRUBCO.BO,,,0,,ELGIRUBCO.BO: Yahoo returned no data | 200535.BO: Yahoo returned no data
+BSE,STOCK,ELGNZ,Eleganz Interiors,,212499,NS,ELGNZ.BO,,,0,,ELGNZ.BO: Yahoo returned no data | 212499.BO: Yahoo returned no data
+BSE,STOCK,EMAPARTNER,EMA Partners,,212412,NS,EMAPARTNER.BO,,,0,,EMAPARTNER.BO: Yahoo returned no data | 212412.BO: Yahoo returned no data
+BSE,STOCK,EMKAYTOOLS,Emkay Tap & Cut. Tool,,203139,NS,EMKAYTOOLS.BO,,,0,,EMKAYTOOLS.BO: Yahoo returned no data | 203139.BO: Yahoo returned no data
+BSE,STOCK,EMMIL,Energy Mission Machineries,,211571,NS,EMMIL.BO,,,0,,EMMIL.BO: Yahoo returned no data | 211571.BO: Yahoo returned no data
+BSE,STOCK,ENCOMPAS,Encompass Design,,215425,NS,ENCOMPAS.BO,,,0,,ENCOMPAS.BO: Yahoo returned no data | 215425.BO: Yahoo returned no data
+BSE,STOCK,ENFUSE,Enfuse Solutions,,211327,NS,ENFUSE.BO,,,0,,ENFUSE.BO: Yahoo returned no data | 211327.BO: Yahoo returned no data
+BSE,STOCK,ENIL,Entertainment Network,,532700,B,ENIL.BO,,,0,,ENIL.BO: Only 1 rows; minimum is 30 | 532700.BO: Yahoo returned no data
+BSE,STOCK,ENS,ENS Enterprises,,544876,M,ENS.BO,,,0,,ENS.BO: Only 10 rows; minimum is 30 | 544876.BO: Yahoo returned no data
+BSE,STOCK,ENSER,Enser Communications,,212475,NS,ENSER.BO,,,0,,ENSER.BO: Yahoo returned no data | 212475.BO: Yahoo returned no data
+BSE,STOCK,ENVIRO,Envirotech Systems,,212002,NS,ENVIRO.BO,,,0,,ENVIRO.BO: Yahoo returned no data | 212002.BO: Yahoo returned no data
+BSE,STOCK,EPWINDIA,EPW,,215511,NT,EPWINDIA.BO,,,0,,EPWINDIA.BO: Yahoo returned no data | 215511.BO: Yahoo returned no data
+BSE,STOCK,ESABINDIA,ESAB India,,500133,B,ESABINDIA.BO,,,0,,ESABINDIA.BO: Only 1 rows; minimum is 30 | 500133.BO: Yahoo returned no data
+BSE,STOCK,ESCONET,Esconet Technologies,,211174,NS,ESCONET.BO,,,0,,ESCONET.BO: Yahoo returned no data | 211174.BO: Yahoo returned no data
+BSE,STOCK,ESCORTS,Escorts Kubota,,500495,A,ESCORTS.BO,,,0,,ESCORTS.BO: Only 1 rows; minimum is 30 | 500495.BO: Yahoo returned no data
+BSE,STOCK,ESDS,ESDS Software Solution,,544898,B,ESDS.BO,,,0,,ESDS.BO: Only 1 rows; minimum is 30 | 544898.BO: Yahoo returned no data
+BSE,STOCK,ESFL,Essen Specialty Films,,210454,NS,ESFL.BO,,,0,,ESFL.BO: Yahoo returned no data | 210454.BO: Yahoo returned no data
+BSE,STOCK,ESPRIT,Esprit Stones,,211824,NS,ESPRIT.BO,,,0,,ESPRIT.BO: Yahoo returned no data | 211824.BO: Yahoo returned no data
+BSE,STOCK,ETL,Emkay Tools,,213509,NS,ETL.BO,,,0,,ETL.BO: Yahoo returned no data | 213509.BO: Yahoo returned no data
+BSE,STOCK,ETML,Emerald Tyre Manufacturers,,212266,NS,ETML.BO,,,0,,ETML.BO: Yahoo returned no data | 212266.BO: Yahoo returned no data
+BSE,STOCK,EXCELLENT,Excellent Wires and Packaging,,211983,NT,EXCELLENT.BO,,,0,,EXCELLENT.BO: Yahoo returned no data | 211983.BO: Yahoo returned no data
+BSE,STOCK,EXIDEIND,Exide Industries,,500086,A,EXIDEIND.BO,,,0,,EXIDEIND.BO: Only 1 rows; minimum is 30 | 500086.BO: Yahoo returned no data
+BSE,STOCK,EXIMROUTES,Exim Routes,,215458,NS,EXIMROUTES.BO,,,0,,EXIMROUTES.BO: Yahoo returned no data | 215458.BO: Yahoo returned no data
+BSE,STOCK,FALCONTECH,Falcon Technoprojects,,211693,NS,FALCONTECH.BO,,,0,,FALCONTECH.BO: Yahoo returned no data | 211693.BO: Yahoo returned no data
+BSE,STOCK,FASCINATE,Fascinate Textiles,,216541,NT,FASCINATE.BO,,,0,,FASCINATE.BO: Yahoo returned no data | 216541.BO: Yahoo returned no data
+BSE,STOCK,FCSSOFT,FCS Software Solutions,,532666,B,FCSSOFT.BO,,,0,,FCSSOFT.BO: Only 1 rows; minimum is 30 | 532666.BO: Yahoo returned no data
+BSE,STOCK,FELIX,Felix Industries,,206059,NS,FELIX.BO,,,0,,FELIX.BO: Yahoo returned no data | 206059.BO: Yahoo returned no data
+BSE,STOCK,FIDEL,Fidel Softech,,208792,NS,FIDEL.BO,,,0,,FIDEL.BO: Yahoo returned no data | 208792.BO: Yahoo returned no data
+BSE,STOCK,FIEMIND,Fiem Industries,,532768,B,FIEMIND.BO,,,0,,FIEMIND.BO: Only 1 rows; minimum is 30 | 532768.BO: Yahoo returned no data
+BSE,STOCK,FINBUD,Finbud Financial Services,,215290,NS,FINBUD.BO,,,0,,FINBUD.BO: Yahoo returned no data | 215290.BO: Yahoo returned no data
+BSE,STOCK,FINCABLES,Finolex Cables,,500144,A,FINCABLES.BO,,,0,,FINCABLES.BO: Only 1 rows; minimum is 30 | 500144.BO: Yahoo returned no data
+BSE,STOCK,FINPIPE,Finolex Industries,,500940,A,FINPIPE.BO,,,0,,FINPIPE.BO: Only 1 rows; minimum is 30 | 500940.BO: Yahoo returned no data
+BSE,STOCK,FLYSBS,FlySBS Aviation,,213615,NS,FLYSBS.BO,,,0,,FLYSBS.BO: Yahoo returned no data | 213615.BO: Yahoo returned no data
+BSE,STOCK,FOCE,Foce,,208419,NS,FOCE.BO,,,0,,FOCE.BO: Yahoo returned no data | 208419.BO: Yahoo returned no data
+BSE,STOCK,FOCUS$,Focus Lighting & Fixtures,,210685,NT,FOCUS$.BO,,,0,,FOCUS$.BO: Yahoo returned no data | 210685.BO: Yahoo returned no data
+BSE,STOCK,FONEBOX,Fonebox Retail,,211091,NS,FONEBOX.BO,,,0,,FONEBOX.BO: Yahoo returned no data | 211091.BO: Yahoo returned no data
+BSE,STOCK,FORCAS,Forcas Studio,,211899,NT,FORCAS.BO,,,0,,FORCAS.BO: Yahoo returned no data | 211899.BO: Yahoo returned no data
+BSE,STOCK,FORGEAUTO,Forge Auto International,,212059,NS,FORGEAUTO.BO,,,0,,FORGEAUTO.BO: Yahoo returned no data | 212059.BO: Yahoo returned no data
+BSE,STOCK,FRESHARA,Freshara Agro Exports,,212128,NT,FRESHARA.BO,,,0,,FRESHARA.BO: Yahoo returned no data | 212128.BO: Yahoo returned no data
+BSE,STOCK,FROG,Frog Innovations,,200669,NT,FROG.BO,,,0,,FROG.BO: Yahoo returned no data | 200669.BO: Yahoo returned no data
+BSE,STOCK,FWSTC,Flywings Simulator Training Centre,,215426,NS,FWSTC.BO,,,0,,FWSTC.BO: Yahoo returned no data | 215426.BO: Yahoo returned no data
+BSE,STOCK,GABRIEL,Gabriel,,505714,A,GABRIEL.BO,,,0,,GABRIEL.BO: Only 1 rows; minimum is 30 | 505714.BO: Yahoo returned no data
+BSE,STOCK,GAJA,Gaja Alternative Asset Management,,544885,B,GAJA.BO,,,0,,GAJA.BO: Only 7 rows; minimum is 30 | 544885.BO: Yahoo returned no data
+BSE,STOCK,GAJANAND,Gajanand International,,211975,NS,GAJANAND.BO,,,0,,GAJANAND.BO: Yahoo returned no data | 211975.BO: Yahoo returned no data
+BSE,STOCK,GALLANTT,Gallantt Ispat,,532726,A,GALLANTT.BO,,,0,,GALLANTT.BO: Only 1 rows; minimum is 30 | 532726.BO: Yahoo returned no data
+BSE,STOCK,GANESHIN,Ganesh Infraworld,,212251,NT,GANESHIN.BO,,,0,,GANESHIN.BO: Yahoo returned no data | 212251.BO: Yahoo returned no data
+BSE,STOCK,GANGABATH,Ganga Bath Fittings,,213406,NS,GANGABATH.BO,,,0,,GANGABATH.BO: Yahoo returned no data | 213406.BO: Yahoo returned no data
+BSE,STOCK,GANGAFORGE,Ganga Forging,,208199,NS,GANGAFORGE.BO,,,0,,GANGAFORGE.BO: Yahoo returned no data | 208199.BO: Yahoo returned no data
+BSE,STOCK,GCHOTELS,Grand Continent Hotels,,212731,NT,GCHOTELS.BO,,,0,,GCHOTELS.BO: Yahoo returned no data | 212731.BO: Yahoo returned no data
+BSE,STOCK,GEEKAYWIRE,Geekay Wires,,210728,NS,GEEKAYWIRE.BO,,,0,,GEEKAYWIRE.BO: Yahoo returned no data | 210728.BO: Yahoo returned no data
+BSE,STOCK,GENESYS,Genesys International Corp,,506109,B,GENESYS.BO,,,0,,GENESYS.BO: Only 1 rows; minimum is 30 | 506109.BO: Yahoo returned no data
+BSE,STOCK,GENXAI,Genxai Analytics,,216329,NS,GENXAI.BO,,,0,,GENXAI.BO: Yahoo returned no data | 216329.BO: Yahoo returned no data
+BSE,STOCK,GGBL,Ganesh Green Bharat,,211758,NS,GGBL.BO,,,0,,GGBL.BO: Yahoo returned no data | 211758.BO: Yahoo returned no data
+BSE,STOCK,GHCL,GHCL,,500171,A,GHCL.BO,,,0,,GHCL.BO: Only 1 rows; minimum is 30 | 500171.BO: Yahoo returned no data
+BSE,STOCK,GICL,Globe International Carriers,,204730,NS,GICL.BO,,,0,,GICL.BO: Yahoo returned no data | 204730.BO: Yahoo returned no data
+BSE,STOCK,GIRIRAJ,Giriraj Civil Developers,,204207,NS,GIRIRAJ.BO,,,0,,GIRIRAJ.BO: Yahoo returned no data | 204207.BO: Yahoo returned no data
+BSE,STOCK,GJL,Grover Jewells,,215720,NT,GJL.BO,,,0,,GJL.BO: Yahoo returned no data | 215720.BO: Yahoo returned no data
+BSE,STOCK,GKWLIMITED,GKW,,203307,NS,GKWLIMITED.BO,,,0,,GKWLIMITED.BO: Yahoo returned no data | 203307.BO: Yahoo returned no data
+BSE,STOCK,GLOBAL,Global Education,,212255,NS,GLOBAL.BO,,,0,,GLOBAL.BO: Yahoo returned no data | 212255.BO: Yahoo returned no data
+BSE,STOCK,GLOBALPET,Global Pet Industries,,210474,NT,GLOBALPET.BO,,,0,,GLOBALPET.BO: Yahoo returned no data | 210474.BO: Yahoo returned no data
+BSE,STOCK,GML,Galaxy Medicare,,213754,NS,GML.BO,,,0,,GML.BO: Yahoo returned no data | 213754.BO: Yahoo returned no data
+BSE,STOCK,GNFC,Gujarat Narmada Valley Fert & Chem,,500670,A,GNFC.BO,,,0,,GNFC.BO: Only 1 rows; minimum is 30 | 500670.BO: Yahoo returned no data
+BSE,STOCK,GODFRYPHLP,Godfrey Phillips,,500163,A,GODFRYPHLP.BO,,,0,,GODFRYPHLP.BO: Only 1 rows; minimum is 30 | 500163.BO: Yahoo returned no data
+BSE,STOCK,GODREJCP,Godrej Consumer Products,,532424,A,GODREJCP.BO,,,0,,GODREJCP.BO: Only 1 rows; minimum is 30 | 532424.BO: Yahoo returned no data
+BSE,STOCK,GODREJIND,Godrej Industries,,500164,A,GODREJIND.BO,,,0,,GODREJIND.BO: Only 1 rows; minimum is 30 | 500164.BO: Yahoo returned no data
+BSE,STOCK,GOLDKART,Goldkart Jewels,,206531,NS,GOLDKART.BO,,,0,,GOLDKART.BO: Yahoo returned no data | 206531.BO: Yahoo returned no data
+BSE,STOCK,GOLDSTAR,Goldstar Power,,209403,NS,GOLDSTAR.BO,,,0,,GOLDSTAR.BO: Yahoo returned no data | 209403.BO: Yahoo returned no data
+BSE,STOCK,GOYALSALT,Goyal Salt,,210694,NS,GOYALSALT.BO,,,0,,GOYALSALT.BO: Yahoo returned no data | 210694.BO: Yahoo returned no data
+BSE,STOCK,GPECO,GP Eco Solutions,,211687,NT,GPECO.BO,,,0,,GPECO.BO: Yahoo returned no data | 211687.BO: Yahoo returned no data
+BSE,STOCK,GRADIENTE,Gradiente Infotainment,,216243,NS,GRADIENTE.BO,,,0,,GRADIENTE.BO: Yahoo returned no data | 216243.BO: Yahoo returned no data
+BSE,STOCK,GRANULES,Granules,,532482,A,GRANULES.BO,,,0,,GRANULES.BO: Only 1 rows; minimum is 30 | 532482.BO: Yahoo returned no data
+BSE,STOCK,GRAPHISAD,Graphisads,,210877,NS,GRAPHISAD.BO,,,0,,GRAPHISAD.BO: Yahoo returned no data | 210877.BO: Yahoo returned no data
+BSE,STOCK,GRAPHITE,Graphite,,509488,A,GRAPHITE.BO,,,0,,GRAPHITE.BO: Only 1 rows; minimum is 30 | 509488.BO: Yahoo returned no data
+BSE,STOCK,GRASIM,Grasim Industries,,500300,A,GRASIM.BO,,,0,,GRASIM.BO: Only 1 rows; minimum is 30 | 500300.BO: Yahoo returned no data
+BSE,STOCK,GRCL,Gayatri Rubbers & Chemicals,,209456,NS,GRCL.BO,,,0,,GRCL.BO: Yahoo returned no data | 209456.BO: Yahoo returned no data
+BSE,STOCK,GREENCHEF,Greenchef Appliances,,210456,NS,GREENCHEF.BO,,,0,,GREENCHEF.BO: Yahoo returned no data | 210456.BO: Yahoo returned no data
+BSE,STOCK,GREENLEAF,Greenleaf Envirotech,,215186,NT,GREENLEAF.BO,,,0,,GREENLEAF.BO: Yahoo returned no data | 215186.BO: Yahoo returned no data
+BSE,STOCK,GRETEX,Gretex Industries,,204026,NS,GRETEX.BO,,,0,,GRETEX.BO: Yahoo returned no data | 204026.BO: Yahoo returned no data
+BSE,STOCK,GROBTEA,Grob Tea Company,,204347,NS,GROBTEA.BO,,,0,,GROBTEA.BO: Yahoo returned no data | 204347.BO: Yahoo returned no data
+BSE,STOCK,GSFC,Gujarat State Fertilizers & Chemicals,,500690,A,GSFC.BO,,,0,,GSFC.BO: Only 1 rows; minimum is 30 | 500690.BO: Yahoo returned no data
+BSE,STOCK,GSMFOILS,GSM Foils,,211624,NS,GSMFOILS.BO,,,0,,GSMFOILS.BO: Yahoo returned no data | 211624.BO: Yahoo returned no data
+BSE,STOCK,GSTL$,Globesecure Technologies,,208776,NS,GSTL$.BO,,,0,,GSTL$.BO: Yahoo returned no data | 208776.BO: Yahoo returned no data
+BSE,STOCK,GTECJAINX,G-Tec Jainx Education,,204471,NT,GTECJAINX.BO,,,0,,GTECJAINX.BO: Yahoo returned no data | 204471.BO: Yahoo returned no data
+BSE,STOCK,GTL,GTL,,500160,B,GTL.BO,,,0,,GTL.BO: Only 1 rows; minimum is 30 | 500160.BO: Yahoo returned no data
+BSE,STOCK,GULFLLOYDS,Gulf Lloyds,,544834,M,GULFLLOYDS.BO,,,0,,GULFLLOYDS.BO: Only 29 rows; minimum is 30 | 544834.BO: Yahoo returned no data
+BSE,STOCK,GURUNANAK,Gurunanak Agriculture,,215150,NS,GURUNANAK.BO,,,0,,GURUNANAK.BO: Yahoo returned no data | 215150.BO: Yahoo returned no data
+BSE,STOCK,GVELECTRIC,G V Electricals,,544859,M,GVELECTRIC.BO,,,0,,GVELECTRIC.BO: Only 17 rows; minimum is 30 | 544859.BO: Yahoo returned no data
+BSE,STOCK,GVPTECH,GVP Infotech,,209405,NT,GVPTECH.BO,,,0,,GVPTECH.BO: Yahoo returned no data | 209405.BO: Yahoo returned no data
+BSE,STOCK,HAPPY,Happy Steels,,216431,NS,HAPPY.BO,,,0,,HAPPY.BO: Yahoo returned no data | 216431.BO: Yahoo returned no data
+BSE,STOCK,HAVELLS,Havells,,517354,A,HAVELLS.BO,,,0,,HAVELLS.BO: Only 1 rows; minimum is 30 | 517354.BO: Yahoo returned no data
+BSE,STOCK,HCC,Hindustan Construction Company,,500185,A,HCC.BO,,,0,,HCC.BO: Only 1 rows; minimum is 30 | 500185.BO: Yahoo returned no data
+BSE,STOCK,HDFCBANK,HDFC Bank,,500180,A,HDFCBANK.BO,,,0,,HDFCBANK.BO: Only 1 rows; minimum is 30 | 500180.BO: Yahoo returned no data
+BSE,STOCK,HEALINV,Healthy Investments,,503689,XT,HEALINV.BO,,,0,,HEALINV.BO: Yahoo returned no data | 503689.BO: Only 1 rows; minimum is 30
+BSE,STOCK,HECPROJECT,HEC Infra Projects,,202985,NS,HECPROJECT.BO,,,0,,HECPROJECT.BO: Yahoo returned no data | 202985.BO: Yahoo returned no data
+BSE,STOCK,HERITGFOOD,Heritage Foods,,519552,B,HERITGFOOD.BO,,,0,,HERITGFOOD.BO: Only 1 rows; minimum is 30 | 519552.BO: Yahoo returned no data
+BSE,STOCK,HFCL,HFCL,,500183,T,HFCL.BO,,,0,,HFCL.BO: Only 1 rows; minimum is 30 | 500183.BO: Yahoo returned no data
+BSE,STOCK,HIGREEN,Hi-Green Carbon,,210637,NS,HIGREEN.BO,,,0,,HIGREEN.BO: Yahoo returned no data | 210637.BO: Yahoo returned no data
+BSE,STOCK,HIKAL,Hikal,,524735,B,HIKAL.BO,,,0,,HIKAL.BO: Only 1 rows; minimum is 30 | 524735.BO: Yahoo returned no data
+BSE,STOCK,HIMATSEIDE,Himatsingka Seide,,514043,B,HIMATSEIDE.BO,,,0,,HIMATSEIDE.BO: Only 1 rows; minimum is 30 | 514043.BO: Yahoo returned no data
+BSE,STOCK,HINDALCO,Hindalco Industries,,500440,A,HINDALCO.BO,,,0,,HINDALCO.BO: Only 1 rows; minimum is 30 | 500440.BO: Yahoo returned no data
+BSE,STOCK,HINDCON,Hindcon Chemicals,,210804,NS,HINDCON.BO,,,0,,HINDCON.BO: Yahoo returned no data | 210804.BO: Yahoo returned no data
+BSE,STOCK,HINDOILEXP,Hindustan Oil Exploration,,500186,B,HINDOILEXP.BO,,,0,,HINDOILEXP.BO: Only 1 rows; minimum is 30 | 500186.BO: Yahoo returned no data
+BSE,STOCK,HINDZINC,Hindustan Zinc,,500188,A,HINDZINC.BO,,,0,,HINDZINC.BO: Only 1 rows; minimum is 30 | 500188.BO: Yahoo returned no data
+BSE,STOCK,HITECH,Hi-Tech Pipes,,543411,B,HITECH.BO,,,0,,HITECH.BO: Only 1 rows; minimum is 30 | 543411.BO: Yahoo returned no data
+BSE,STOCK,HMT,HMT,,500191,Z,HMT.BO,,,0,,HMT.BO: Only 1 rows; minimum is 30 | 500191.BO: Yahoo returned no data
+BSE,STOCK,HOACFOODS,HOAC Foods India,,211603,NT,HOACFOODS.BO,,,0,,HOACFOODS.BO: Yahoo returned no data | 211603.BO: Yahoo returned no data
+BSE,STOCK,HOLMARC,Holmarc Opto Mechatronics,,210619,NS,HOLMARC.BO,,,0,,HOLMARC.BO: Yahoo returned no data | 210619.BO: Yahoo returned no data
+BSE,STOCK,HOMESFY,Homesfy Realty,,209367,NS,HOMESFY.BO,,,0,,HOMESFY.BO: Yahoo returned no data | 209367.BO: Yahoo returned no data
+BSE,STOCK,HORIZONIND,Horizon Industrial Parks,,544880,B,HORIZONIND.BO,,,0,,HORIZONIND.BO: Only 9 rows; minimum is 30 | 544880.BO: Yahoo returned no data
+BSE,STOCK,HPTL,HP Telecom,,212541,NS,HPTL.BO,,,0,,HPTL.BO: Yahoo returned no data | 212541.BO: Yahoo returned no data
+BSE,STOCK,HRHNEXT,HRH Next Services,,210975,NS,HRHNEXT.BO,,,0,,HRHNEXT.BO: Yahoo returned no data | 210975.BO: Yahoo returned no data
+BSE,STOCK,HRHYGIENE,H R Hygiene Products,,544848,M,HRHYGIENE.BO,,,0,,HRHYGIENE.BO: Only 22 rows; minimum is 30 | 544848.BO: Yahoo returned no data
+BSE,STOCK,HTEL,Hy-Tech Engineers,,544891,T,HTEL.BO,,,0,,HTEL.BO: Only 3 rows; minimum is 30 | 544891.BO: Yahoo returned no data
+BSE,STOCK,HTMEDIA,HT Media,,532662,B,HTMEDIA.BO,,,0,,HTMEDIA.BO: Only 1 rows; minimum is 30 | 532662.BO: Yahoo returned no data
+BSE,STOCK,HVAX,HVAX Technologies,,212076,NS,HVAX.BO,,,0,,HVAX.BO: Yahoo returned no data | 212076.BO: Yahoo returned no data
+BSE,STOCK,HVL,Hariyana Ventures,,506024,ZP,HVL.BO,,,0,,HVL.BO: Yahoo returned no data | 506024.BO: Only 1 rows; minimum is 30
+BSE,STOCK,IBLFL,IBL Finance,,211004,NS,IBLFL.BO,,,0,,IBLFL.BO: Yahoo returned no data | 211004.BO: Yahoo returned no data
+BSE,STOCK,ICELCO,IC Electricals Company,,216410,NS,ICELCO.BO,,,0,,ICELCO.BO: Yahoo returned no data | 216410.BO: Yahoo returned no data
+BSE,STOCK,ICEMAKE,Ice Make Refrigeration,,201038,NS,ICEMAKE.BO,,,0,,ICEMAKE.BO: Yahoo returned no data | 201038.BO: Yahoo returned no data
+BSE,STOCK,ICICIBANK,ICICI Bank,,532174,A,ICICIBANK.BO,,,0,,ICICIBANK.BO: Only 1 rows; minimum is 30 | 532174.BO: Yahoo returned no data
+BSE,STOCK,IDBI,IDBI Bank,,500116,A,IDBI.BO,,,0,,IDBI.BO: Only 1 rows; minimum is 30 | 500116.BO: Yahoo returned no data
+BSE,STOCK,IDEALTECHO,Ideal Technoplast Industries,,211906,NS,IDEALTECHO.BO,,,0,,IDEALTECHO.BO: Yahoo returned no data | 211906.BO: Yahoo returned no data
+BSE,STOCK,IDENTICAL,Identical Brains Studios,,212309,NS,IDENTICAL.BO,,,0,,IDENTICAL.BO: Yahoo returned no data | 212309.BO: Yahoo returned no data
+BSE,STOCK,IEML,Indian Emulsifiers,,211586,NT,IEML.BO,,,0,,IEML.BO: Yahoo returned no data | 211586.BO: Yahoo returned no data
+BSE,STOCK,IFBIND,IFB Industries,,505726,B,IFBIND.BO,,,0,,IFBIND.BO: Only 1 rows; minimum is 30 | 505726.BO: Yahoo returned no data
+BSE,STOCK,IFCI,IFCI,,500106,A,IFCI.BO,,,0,,IFCI.BO: Only 1 rows; minimum is 30 | 500106.BO: Yahoo returned no data
+BSE,STOCK,IGL,Indraprastha Gas,,532514,A,IGL.BO,,,0,,IGL.BO: Only 1 rows; minimum is 30 | 532514.BO: Yahoo returned no data
+BSE,STOCK,IITL,Industrial Investment Trust,,501295,B,IITL.BO,,,0,,IITL.BO: Only 1 rows; minimum is 30 | 501295.BO: Yahoo returned no data
+BSE,STOCK,INDIFRA,Indifra,,210968,NS,INDIFRA.BO,,,0,,INDIFRA.BO: Yahoo returned no data | 210968.BO: Yahoo returned no data
+BSE,STOCK,INDOCO,Indoco Remedies,,532612,B,INDOCO.BO,,,0,,INDOCO.BO: Only 1 rows; minimum is 30 | 532612.BO: Yahoo returned no data
+BSE,STOCK,INDOMIM,Indo-MIM,,544837,B,INDOMIM.BO,,,0,,INDOMIM.BO: Only 25 rows; minimum is 30 | 544837.BO: Yahoo returned no data
+BSE,STOCK,INFINIUM,Infinium Pharmachem,,210290,NS,INFINIUM.BO,,,0,,INFINIUM.BO: Yahoo returned no data | 210290.BO: Yahoo returned no data
+BSE,STOCK,INFLUX,Influx Healthtech,,213453,NS,INFLUX.BO,,,0,,INFLUX.BO: Yahoo returned no data | 213453.BO: Yahoo returned no data
+BSE,STOCK,INFOLLION,Infollion Research Services,,210380,NS,INFOLLION.BO,,,0,,INFOLLION.BO: Yahoo returned no data | 210380.BO: Yahoo returned no data
+BSE,STOCK,INM,Interiors & More,,211172,NS,INM.BO,,,0,,INM.BO: Yahoo returned no data | 211172.BO: Yahoo returned no data
+BSE,STOCK,INSPIRE,Inspire Films,,210662,NS,INSPIRE.BO,,,0,,INSPIRE.BO: Yahoo returned no data | 210662.BO: Yahoo returned no data
+BSE,STOCK,INTEGRITY,Integrity Infrabuild Developers,,213323,NT,INTEGRITY.BO,,,0,,INTEGRITY.BO: Yahoo returned no data | 213323.BO: Yahoo returned no data
+BSE,STOCK,INVICTA,Invicta Diagnostic,,215417,NS,INVICTA.BO,,,0,,INVICTA.BO: Yahoo returned no data | 215417.BO: Yahoo returned no data
+BSE,STOCK,IPHL,Indian Phosphate,,211931,NS,IPHL.BO,,,0,,IPHL.BO: Yahoo returned no data | 211931.BO: Yahoo returned no data
+BSE,STOCK,IPSL,Integrated Personnel Services,,209236,NS,IPSL.BO,,,0,,IPSL.BO: Yahoo returned no data | 209236.BO: Yahoo returned no data
+BSE,STOCK,IRFC,IRFC,,543257,A,IRFC.BO,,,0,,IRFC.BO: Only 1 rows; minimum is 30 | 543257.BO: Yahoo returned no data
+BSE,STOCK,IRISDOREME,Iris Clothings,,210539,NS,IRISDOREME.BO,,,0,,IRISDOREME.BO: Yahoo returned no data | 210539.BO: Yahoo returned no data
+BSE,STOCK,ISHAN,Ishan International,,211046,NS,ISHAN.BO,,,0,,ISHAN.BO: Yahoo returned no data | 211046.BO: Yahoo returned no data
+BSE,STOCK,ITALIANE,Italian Edibles,,211121,NS,ITALIANE.BO,,,0,,ITALIANE.BO: Yahoo returned no data | 211121.BO: Yahoo returned no data
+BSE,STOCK,ITC,ITC,,500875,A,ITC.BO,,,0,,ITC.BO: Only 1 rows; minimum is 30 | 500875.BO: Yahoo returned no data
+BSE,STOCK,ITTL,Innovative Tyre & Tube Lt,,212223,NT,ITTL.BO,,,0,,ITTL.BO: Yahoo returned no data | 212223.BO: Yahoo returned no data
+BSE,STOCK,IWARE,Iware Supplychain Services,,213268,NT,IWARE.BO,,,0,,IWARE.BO: Yahoo returned no data | 213268.BO: Yahoo returned no data
+BSE,STOCK,JAINAM,Jainam Ferro Alloys,,208299,NS,JAINAM.BO,,,0,,JAINAM.BO: Yahoo returned no data | 208299.BO: Yahoo returned no data
+BSE,STOCK,JAINIK,Jainik Power Cables,,213426,NS,JAINIK.BO,,,0,,JAINIK.BO: Yahoo returned no data | 213426.BO: Yahoo returned no data
+BSE,STOCK,JAIPURKURT,Nandani Creation,,203667,NS,JAIPURKURT.BO,,,0,,JAIPURKURT.BO: Yahoo returned no data | 203667.BO: Yahoo returned no data
+BSE,STOCK,JAKHARIA,Jakharia Fabric,,205786,NT,JAKHARIA.BO,,,0,,JAKHARIA.BO: Yahoo returned no data | 205786.BO: Yahoo returned no data
+BSE,STOCK,JAYBEE,Jay Bee Laminations,,211932,NS,JAYBEE.BO,,,0,,JAYBEE.BO: Yahoo returned no data | 211932.BO: Yahoo returned no data
+BSE,STOCK,JAYESH,Jayesh Logistics,,215267,NS,JAYESH.BO,,,0,,JAYESH.BO: Yahoo returned no data | 215267.BO: Yahoo returned no data
+BSE,STOCK,JBMA,JBM Auto,,532605,A,JBMA.BO,,,0,,JBMA.BO: Only 1 rows; minimum is 30 | 532605.BO: Yahoo returned no data
+BSE,STOCK,JETKNIT,Jet Knitwears,,200428,NT,JETKNIT.BO,,,0,,JETKNIT.BO: Yahoo returned no data | 200428.BO: Yahoo returned no data
+BSE,STOCK,JEYYAM,Jeyyam Global Foods,,211957,NT,JEYYAM.BO,,,0,,JEYYAM.BO: Yahoo returned no data | 211957.BO: Yahoo returned no data
+BSE,STOCK,JFLLIFE,JFL Life Sciences,,209086,NS,JFLLIFE.BO,,,0,,JFLLIFE.BO: Yahoo returned no data | 209086.BO: Yahoo returned no data
+BSE,STOCK,JHS,JHS Svendgaard Laboratories,,532771,B,JHS.BO,,,0,,JHS.BO: Only 1 rows; minimum is 30 | 532771.BO: Yahoo returned no data
+BSE,STOCK,JIWANRAM,Jiwanram Sheoduttrai Industries,,210615,NS,JIWANRAM.BO,,,0,,JIWANRAM.BO: Yahoo returned no data | 210615.BO: Yahoo returned no data
+BSE,STOCK,JKLAKSHMI,JK Lakshmi Cement,,500380,A,JKLAKSHMI.BO,,,0,,JKLAKSHMI.BO: Only 1 rows; minimum is 30 | 500380.BO: Yahoo returned no data
+BSE,STOCK,JMA,Jullundur Motor Agency,,200283,NS,JMA.BO,,,0,,JMA.BO: Yahoo returned no data | 200283.BO: Yahoo returned no data
+BSE,STOCK,JNPR,Juniper Green Energy,,544853,B,JNPR.BO,,,0,,JNPR.BO: Only 21 rows; minimum is 30 | 544853.BO: Yahoo returned no data
+BSE,STOCK,JOCIL,Jocil,,204263,NT,JOCIL.BO,,,0,,JOCIL.BO: Yahoo returned no data | 204263.BO: Yahoo returned no data
+BSE,STOCK,JUMBFNL,Jumbo Finance,,511060,XT,JUMBFNL.BO,,,0,,JUMBFNL.BO: Yahoo returned no data | 511060.BO: Yahoo returned no data
+BSE,STOCK,JYOTIGLOBL,Jyoti Global Plast,,213638,NS,JYOTIGLOBL.BO,,,0,,JYOTIGLOBL.BO: Yahoo returned no data | 213638.BO: Yahoo returned no data
+BSE,STOCK,JYOTIN,Jyot International Marketing,,542544,XT,JYOTIN.BO,,,0,,JYOTIN.BO: Yahoo returned no data | 542544.BO: Yahoo returned no data
+BSE,STOCK,K2INFRA,K2 Infragen,,211494,NT,K2INFRA.BO,,,0,,K2INFRA.BO: Yahoo returned no data | 211494.BO: Yahoo returned no data
+BSE,STOCK,KAJALSY,Kajal Synthetics & Silk Mills,,512147,XT,KAJALSY.BO,,,0,,KAJALSY.BO: Yahoo returned no data | 512147.BO: Yahoo returned no data
+BSE,STOCK,KALANA,Kalana Ispat,,212013,NS,KALANA.BO,,,0,,KALANA.BO: Yahoo returned no data | 212013.BO: Yahoo returned no data
+BSE,STOCK,KALYANI$,Kalyani Commercials,,204505,NT,KALYANI$.BO,,,0,,KALYANI$.BO: Yahoo returned no data | 204505.BO: Yahoo returned no data
+BSE,STOCK,KANDARP,Kandarp Digi Smart BPO,,209130,NS,KANDARP.BO,,,0,,KANDARP.BO: Yahoo returned no data | 209130.BO: Yahoo returned no data
+BSE,STOCK,KAPSTON,Kapston Services,,211859,NS,KAPSTON.BO,,,0,,KAPSTON.BO: Yahoo returned no data | 211859.BO: Yahoo returned no data
+BSE,STOCK,KARNIKA,Karnika Industries,,210697,NS,KARNIKA.BO,,,0,,KARNIKA.BO: Yahoo returned no data | 210697.BO: Yahoo returned no data
+BSE,STOCK,KATARIA,Kataria Industries,,211785,NS,KATARIA.BO,,,0,,KATARIA.BO: Yahoo returned no data | 211785.BO: Yahoo returned no data
+BSE,STOCK,KAYTEX,Kaytex Fabrics,,213602,NS,KAYTEX.BO,,,0,,KAYTEX.BO: Yahoo returned no data | 213602.BO: Yahoo returned no data
+BSE,STOCK,KCEIL,Kay Cee Energy & Infra,,210987,NS,KCEIL.BO,,,0,,KCEIL.BO: Yahoo returned no data | 210987.BO: Yahoo returned no data
+BSE,STOCK,KCK,KCK Industries,,212140,NT,KCK.BO,,,0,,KCK.BO: Yahoo returned no data | 212140.BO: Yahoo returned no data
+BSE,STOCK,KCL,Kabra Commercial,,539393,XT,KCL.BO,,,0,,KCL.BO: Yahoo returned no data | 539393.BO: Only 1 rows; minimum is 30
+BSE,STOCK,KDL,Kore Digital,,210403,NS,KDL.BO,,,0,,KDL.BO: Yahoo returned no data | 210403.BO: Yahoo returned no data
+BSE,STOCK,KEN,Ken Enterprises,,212482,NS,KEN.BO,,,0,,KEN.BO: Yahoo returned no data | 212482.BO: Yahoo returned no data
+BSE,STOCK,KERNEX,Kernex Microsystems,,532686,B,KERNEX.BO,,,0,,KERNEX.BO: Only 1 rows; minimum is 30 | 532686.BO: Yahoo returned no data
+BSE,STOCK,KESORAMIND,Kesoram Industries,,502937,T,KESORAMIND.BO,,,0,,KESORAMIND.BO: Only 1 rows; minimum is 30 | 502937.BO: Yahoo returned no data
+BSE,STOCK,KHFM,KHFM Hospitality,,202216,NS,KHFM.BO,,,0,,KHFM.BO: Yahoo returned no data | 202216.BO: Yahoo returned no data
+BSE,STOCK,KKJEWELS,Kabra Jewels,,212401,NS,KKJEWELS.BO,,,0,,KKJEWELS.BO: Yahoo returned no data | 212401.BO: Yahoo returned no data
+BSE,STOCK,KKVAPOW,KKV Agro Powers,,205638,NS,KKVAPOW.BO,,,0,,KKVAPOW.BO: Yahoo returned no data | 205638.BO: Yahoo returned no data
+BSE,STOCK,KLASSROOM,Fusion Klassroom Edutech,,544856,M,KLASSROOM.BO,,,0,,KLASSROOM.BO: Only 20 rows; minimum is 30 | 544856.BO: Yahoo returned no data
+BSE,STOCK,KLL,Kaushalya Logistics,,210988,NS,KLL.BO,,,0,,KLL.BO: Yahoo returned no data | 210988.BO: Yahoo returned no data
+BSE,STOCK,KNAGRI,KN Agri Resources,,208662,NS,KNAGRI.BO,,,0,,KNAGRI.BO: Yahoo returned no data | 208662.BO: Yahoo returned no data
+BSE,STOCK,KODYTECH,Kody Technolab,,210634,NT,KODYTECH.BO,,,0,,KODYTECH.BO: Yahoo returned no data | 210634.BO: Yahoo returned no data
+BSE,STOCK,KONSTELEC,Konstelec Engineers,,211065,NT,KONSTELEC.BO,,,0,,KONSTELEC.BO: Yahoo returned no data | 211065.BO: Yahoo returned no data
+BSE,STOCK,KONTOR,Kontor Space,,210690,NS,KONTOR.BO,,,0,,KONTOR.BO: Yahoo returned no data | 210690.BO: Yahoo returned no data
+BSE,STOCK,KOTAKBANK,Kotak Bank,,500247,A,KOTAKBANK.BO,,,0,,KOTAKBANK.BO: Only 1 rows; minimum is 30 | 500247.BO: Yahoo returned no data
+BSE,STOCK,KOTARISUG,Kothari Sugars & Chemicals,,203887,NT,KOTARISUG.BO,,,0,,KOTARISUG.BO: Yahoo returned no data | 203887.BO: Yahoo returned no data
+BSE,STOCK,KOTHARIPET,Kothari Petrochemicals,,203356,NS,KOTHARIPET.BO,,,0,,KOTHARIPET.BO: Yahoo returned no data | 203356.BO: Yahoo returned no data
+BSE,STOCK,KRISHANA,Krishana Phoschem,,201480,NS,KRISHANA.BO,,,0,,KRISHANA.BO: Yahoo returned no data | 201480.BO: Yahoo returned no data
+BSE,STOCK,KRISHCA,Krishca Strapping Solutions,,210351,NS,KRISHCA.BO,,,0,,KRISHCA.BO: Yahoo returned no data | 210351.BO: Yahoo returned no data
+BSE,STOCK,KRISHNADEF,Krishna Defence & Allied Industries,,208731,NS,KRISHNADEF.BO,,,0,,KRISHNADEF.BO: Yahoo returned no data | 208731.BO: Yahoo returned no data
+BSE,STOCK,KRITIKA,Kritika Wires,,209061,NS,KRITIKA.BO,,,0,,KRITIKA.BO: Yahoo returned no data | 209061.BO: Yahoo returned no data
+BSE,STOCK,KRMAYURVED,KRM Ayurveda,,215641,NS,KRMAYURVED.BO,,,0,,KRMAYURVED.BO: Yahoo returned no data | 215641.BO: Yahoo returned no data
+BSE,STOCK,KSHITIJPOL,Kshitij Polyline,,209192,NS,KSHITIJPOL.BO,,,0,,KSHITIJPOL.BO: Yahoo returned no data | 209192.BO: Yahoo returned no data
+BSE,STOCK,KUSUMEL,Kusam Electrical Industries,,511048,XT,KUSUMEL.BO,,,0,,KUSUMEL.BO: Yahoo returned no data | 511048.BO: Only 1 rows; minimum is 30
+BSE,STOCK,KWICK,Kwick Forensic Solutions,,544895,MT,KWICK.BO,,,0,,KWICK.BO: Only 1 rows; minimum is 30 | 544895.BO: Yahoo returned no data
+BSE,STOCK,LAGNAM,Lagnam Spintex,,202362,NS,LAGNAM.BO,,,0,,LAGNAM.BO: Yahoo returned no data | 202362.BO: Yahoo returned no data
+BSE,STOCK,LAKSHYA,Lakshya Powertech,,212126,NS,LAKSHYA.BO,,,0,,LAKSHYA.BO: Yahoo returned no data | 212126.BO: Yahoo returned no data
+BSE,STOCK,LALITHAA,Lalithaa Jewellery Mart,,544879,B,LALITHAA.BO,,,0,,LALITHAA.BO: Only 9 rows; minimum is 30 | 544879.BO: Yahoo returned no data
+BSE,STOCK,LAMOSAIC,Lamosaic India,,212221,NT,LAMOSAIC.BO,,,0,,LAMOSAIC.BO: Yahoo returned no data | 212221.BO: Yahoo returned no data
+BSE,STOCK,LAPL,LAPL Automotive,,544863,M,LAPL.BO,,,0,,LAPL.BO: Only 8 rows; minimum is 30 | 544863.BO: Yahoo returned no data
+BSE,STOCK,LATTEYS,Latteys Industries,,209471,NS,LATTEYS.BO,,,0,,LATTEYS.BO: Yahoo returned no data | 209471.BO: Yahoo returned no data
+BSE,STOCK,LAXMICOT,Laxmi Cotspin,,202410,NS,LAXMICOT.BO,,,0,,LAXMICOT.BO: Yahoo returned no data | 202410.BO: Yahoo returned no data
+BSE,STOCK,LCL,Lohia Corp,,544839,B,LCL.BO,,,0,,LCL.BO: Only 25 rows; minimum is 30 | 544839.BO: Yahoo returned no data
+BSE,STOCK,LEAPIND,LEAP,,544865,B,LEAPIND.BO,,,0,,LEAPIND.BO: Only 15 rows; minimum is 30 | 544865.BO: Yahoo returned no data
+BSE,STOCK,LEMERITE,Le Merite Exports,,208757,NS,LEMERITE.BO,,,0,,LEMERITE.BO: Yahoo returned no data | 208757.BO: Yahoo returned no data
+BSE,STOCK,LEXUS,Lexus Granito,,206238,NS,LEXUS.BO,,,0,,LEXUS.BO: Yahoo returned no data | 206238.BO: Yahoo returned no data
+BSE,STOCK,LFIC,Lakshmi Finance & Industrial Corp,,204994,NS,LFIC.BO,,,0,,LFIC.BO: Yahoo returned no data | 204994.BO: Yahoo returned no data
+BSE,STOCK,LGHL,Laxmi Goldrona House,,206778,NS,LGHL.BO,,,0,,LGHL.BO: Yahoo returned no data | 206778.BO: Yahoo returned no data
+BSE,STOCK,LIBAS,Libas Consumer,,205469,NS,LIBAS.BO,,,0,,LIBAS.BO: Yahoo returned no data | 205469.BO: Yahoo returned no data
+BSE,STOCK,LICHSGFIN,LIC Housing Finance,,500253,A,LICHSGFIN.BO,,,0,,LICHSGFIN.BO: Only 1 rows; minimum is 30 | 500253.BO: Yahoo returned no data
+BSE,STOCK,LICI,LIC of India,,543526,A,LICI.BO,,,0,,LICI.BO: Only 1 rows; minimum is 30 | 543526.BO: Yahoo returned no data
+BSE,STOCK,LLOYDS,Lloyds Luxuries,,209171,NS,LLOYDS.BO,,,0,,LLOYDS.BO: Yahoo returned no data | 209171.BO: Yahoo returned no data
+BSE,STOCK,LRRPL,Lead Reclaim & Rubber Products,,209492,NS,LRRPL.BO,,,0,,LRRPL.BO: Yahoo returned no data | 209492.BO: Yahoo returned no data
+BSE,STOCK,LUMAXTECH,Lumax Auto Technologies,,532796,A,LUMAXTECH.BO,,,0,,LUMAXTECH.BO: Only 1 rows; minimum is 30 | 532796.BO: Yahoo returned no data
+BSE,STOCK,LUMINO,Lumino Industries,,544894,B,LUMINO.BO,,,0,,LUMINO.BO: Only 1 rows; minimum is 30 | 544894.BO: Yahoo returned no data
+BSE,STOCK,MACOBSTECH,Macobs Technologies,,211784,NS,MACOBSTECH.BO,,,0,,MACOBSTECH.BO: Yahoo returned no data | 211784.BO: Yahoo returned no data
+BSE,STOCK,MACPOWER,Macpower CNC Machines,,203119,NS,MACPOWER.BO,,,0,,MACPOWER.BO: Yahoo returned no data | 203119.BO: Yahoo returned no data
+BSE,STOCK,MADHAVBAUG,Vaidya Sane Ayurved Laboratories,,208578,NT,MADHAVBAUG.BO,,,0,,MADHAVBAUG.BO: Yahoo returned no data | 208578.BO: Yahoo returned no data
+BSE,STOCK,MADHURKNIT,Madhur Knit Crafts,,216563,NT,MADHURKNIT.BO,,,0,,MADHURKNIT.BO: Yahoo returned no data | 216563.BO: Yahoo returned no data
+BSE,STOCK,MADHUSUDAN,Madhusudan Masala,,210633,NT,MADHUSUDAN.BO,,,0,,MADHUSUDAN.BO: Yahoo returned no data | 210633.BO: Yahoo returned no data
+BSE,STOCK,MAGSON,Magson Retail & Distribution,,210455,NS,MAGSON.BO,,,0,,MAGSON.BO: Yahoo returned no data | 210455.BO: Yahoo returned no data
+BSE,STOCK,MAHESHWARI,Maheshwari Logistics,,205355,NT,MAHESHWARI.BO,,,0,,MAHESHWARI.BO: Yahoo returned no data | 205355.BO: Yahoo returned no data
+BSE,STOCK,MAHICKRA,Mahickra Chemicals,,200486,NS,MAHICKRA.BO,,,0,,MAHICKRA.BO: Yahoo returned no data | 200486.BO: Yahoo returned no data
+BSE,STOCK,MAHSEAMLES,Maharashtra Seamless,,500265,A,MAHSEAMLES.BO,,,0,,MAHSEAMLES.BO: Only 1 rows; minimum is 30 | 500265.BO: Yahoo returned no data
+BSE,STOCK,MAITREYA,Maitreya Medicare,,210787,NS,MAITREYA.BO,,,0,,MAITREYA.BO: Yahoo returned no data | 210787.BO: Yahoo returned no data
+BSE,STOCK,MAKS,Maks Energy Solutions,,209129,NS,MAKS.BO,,,0,,MAKS.BO: Yahoo returned no data | 209129.BO: Yahoo returned no data
+BSE,STOCK,MAL$,Mangalam Alloys,,210659,NS,MAL$.BO,,,0,,MAL$.BO: Yahoo returned no data | 210659.BO: Yahoo returned no data
+BSE,STOCK,MALA,Shree Balaji (Mala) Textiles,,544835,M,MALA.BO,,,0,,MALA.BO: Only 27 rows; minimum is 30 | 544835.BO: Yahoo returned no data
+BSE,STOCK,MALTLAND,Malt Land Distilleries,,539560,XT,MALTLAND.BO,,,0,,MALTLAND.BO: Yahoo returned no data | 539560.BO: Yahoo returned no data
+BSE,STOCK,MALUPAPER,Malu Paper Mills,,532728,B,MALUPAPER.BO,,,0,,MALUPAPER.BO: Only 1 rows; minimum is 30 | 532728.BO: Yahoo returned no data
+BSE,STOCK,MANAV,Manav Infra Projects,,203203,NS,MANAV.BO,,,0,,MANAV.BO: Yahoo returned no data | 203203.BO: Yahoo returned no data
+BSE,STOCK,MANDEEP,Mandeep Auto Industries,,211583,NS,MANDEEP.BO,,,0,,MANDEEP.BO: Yahoo returned no data | 211583.BO: Yahoo returned no data
+BSE,STOCK,MANGALAM,Mangalam Drugs & Organics,,532637,B,MANGALAM.BO,,,0,,MANGALAM.BO: Only 1 rows; minimum is 30 | 532637.BO: Yahoo returned no data
+BSE,STOCK,MANILAM,Manilam Industries,,215795,NS,MANILAM.BO,,,0,,MANILAM.BO: Yahoo returned no data | 215795.BO: Yahoo returned no data
+BSE,STOCK,MANIPALHOS,Manipal Health Enterprises,,544847,B,MANIPALHOS.BO,,,0,,MANIPALHOS.BO: Only 21 rows; minimum is 30 | 544847.BO: Yahoo returned no data
+BSE,STOCK,MARC,Marc Technocrats,,215482,NS,MARC.BO,,,0,,MARC.BO: Yahoo returned no data | 215482.BO: Yahoo returned no data
+BSE,STOCK,MARCO,Marco Cables & Conductors,,210638,NS,MARCO.BO,,,0,,MARCO.BO: Yahoo returned no data | 210638.BO: Yahoo returned no data
+BSE,STOCK,MARICO,Marico,,531642,A,MARICO.BO,,,0,,MARICO.BO: Only 1 rows; minimum is 30 | 531642.BO: Yahoo returned no data
+BSE,STOCK,MARINE,Marine Electricals,,207697,NS,MARINE.BO,,,0,,MARINE.BO: Yahoo returned no data | 207697.BO: Yahoo returned no data
+BSE,STOCK,MARINETRAN,Marinetrans India,,210873,NT,MARINETRAN.BO,,,0,,MARINETRAN.BO: Yahoo returned no data | 210873.BO: Yahoo returned no data
+BSE,STOCK,MARKSANS,Marksans Pharma,,524404,A,MARKSANS.BO,,,0,,MARKSANS.BO: Only 1 rows; minimum is 30 | 524404.BO: Yahoo returned no data
+BSE,STOCK,MARUSHIKA,Marushika Technology,,215762,NS,MARUSHIKA.BO,,,0,,MARUSHIKA.BO: Yahoo returned no data | 215762.BO: Yahoo returned no data
+BSE,STOCK,MASKINVEST,Mask Investments,,206083,NS,MASKINVEST.BO,,,0,,MASKINVEST.BO: Yahoo returned no data | 206083.BO: Yahoo returned no data
+BSE,STOCK,MASON,Mason Infratech,,211715,NS,MASON.BO,,,0,,MASON.BO: Yahoo returned no data | 211715.BO: Yahoo returned no data
+BSE,STOCK,MASTER,Master Components,,210657,NS,MASTER.BO,,,0,,MASTER.BO: Yahoo returned no data | 210657.BO: Yahoo returned no data
+BSE,STOCK,MAXPOSURE,Maxposure,,211036,NS,MAXPOSURE.BO,,,0,,MAXPOSURE.BO: Yahoo returned no data | 211036.BO: Yahoo returned no data
+BSE,STOCK,MAXVOLT,Maxvolt Energy Industries,,212507,NS,MAXVOLT.BO,,,0,,MAXVOLT.BO: Yahoo returned no data | 212507.BO: Yahoo returned no data
+BSE,STOCK,MAYASHEEL,Mayasheel Ventures,,213455,NS,MAYASHEEL.BO,,,0,,MAYASHEEL.BO: Yahoo returned no data | 213455.BO: Yahoo returned no data
+BSE,STOCK,MBAPL,Madhya Bharat Agro,,203569,NS,MBAPL.BO,,,0,,MBAPL.BO: Yahoo returned no data | 203569.BO: Yahoo returned no data
+BSE,STOCK,MCL,M Tek Copper,,200072,NS,MCL.BO,,,0,,MCL.BO: Yahoo returned no data | 200072.BO: Yahoo returned no data
+BSE,STOCK,MCON,Mcon Rasayan,,209598,NS,MCON.BO,,,0,,MCON.BO: Yahoo returned no data | 209598.BO: Yahoo returned no data
+BSE,STOCK,MDL,Marvel Decor,,203071,NT,MDL.BO,,,0,,MDL.BO: Yahoo returned no data | 203071.BO: Yahoo returned no data
+BSE,STOCK,MEDIORG,Medicamen Organics,,211710,NS,MEDIORG.BO,,,0,,MEDIORG.BO: Yahoo returned no data | 211710.BO: Yahoo returned no data
+BSE,STOCK,MEDISTEP,Medistep Healthcare,,213647,NS,MEDISTEP.BO,,,0,,MEDISTEP.BO: Yahoo returned no data | 213647.BO: Yahoo returned no data
+BSE,STOCK,MEEIND,Meenakshi,,544831,B,MEEIND.BO,,,0,,MEEIND.BO: Only 28 rows; minimum is 30 | 544831.BO: Yahoo returned no data
+BSE,STOCK,MEENST,Meenakshi Steel Industries,,512505,Z,MEENST.BO,,,0,,MEENST.BO: Yahoo returned no data | 512505.BO: Yahoo returned no data
+BSE,STOCK,MEGAFLEX,Mega Flex Plastics,,209110,NS,MEGAFLEX.BO,,,0,,MEGAFLEX.BO: Yahoo returned no data | 209110.BO: Yahoo returned no data
+BSE,STOCK,MEGATHERM,Megatherm Induction,,211095,NS,MEGATHERM.BO,,,0,,MEGATHERM.BO: Yahoo returned no data | 211095.BO: Yahoo returned no data
+BSE,STOCK,MENONBE,Menon Bearings,,523828,T,MENONBE.BO,,,0,,MENONBE.BO: Only 1 rows; minimum is 30 | 523828.BO: Yahoo returned no data
+BSE,STOCK,METALIC,Metalic Technoforge,,216463,NT,METALIC.BO,,,0,,METALIC.BO: Yahoo returned no data | 216463.BO: Yahoo returned no data
+BSE,STOCK,MGSL,Matrix Geo Solutions,,213806,NS,MGSL.BO,,,0,,MGSL.BO: Yahoo returned no data | 213806.BO: Yahoo returned no data
+BSE,STOCK,MHHL,Mohini Health & Hygiene,,205578,NS,MHHL.BO,,,0,,MHHL.BO: Yahoo returned no data | 205578.BO: Yahoo returned no data
+BSE,STOCK,MICROPRO,Micropro Software Solutions,,210803,NS,MICROPRO.BO,,,0,,MICROPRO.BO: Yahoo returned no data | 210803.BO: Yahoo returned no data
+BSE,STOCK,MICROSE,Microse,,523343,XT,MICROSE.BO,,,0,,MICROSE.BO: Yahoo returned no data | 523343.BO: Yahoo returned no data
+BSE,STOCK,MIDPOLY,Midland Polymers,,531597,XT,MIDPOLY.BO,,,0,,MIDPOLY.BO: Yahoo returned no data | 531597.BO: Only 1 rows; minimum is 30
+BSE,STOCK,MIEL,Manglam Infra & Engineering,,211802,NS,MIEL.BO,,,0,,MIEL.BO: Yahoo returned no data | 211802.BO: Yahoo returned no data
+BSE,STOCK,MILKYMIST,Milky Mist Dairy Food,,544868,B,MILKYMIST.BO,,,0,,MILKYMIST.BO: Only 13 rows; minimum is 30 | 544868.BO: Yahoo returned no data
+BSE,STOCK,MILTON,Milton Industries,,200558,NS,MILTON.BO,,,0,,MILTON.BO: Yahoo returned no data | 200558.BO: Yahoo returned no data
+BSE,STOCK,MINDPOOL,Mindpool Technologies,,205653,NS,MINDPOOL.BO,,,0,,MINDPOOL.BO: Yahoo returned no data | 205653.BO: Yahoo returned no data
+BSE,STOCK,MITCON,MITCON Cons. & Engg.,,204669,NT,MITCON.BO,,,0,,MITCON.BO: Yahoo returned no data | 204669.BO: Yahoo returned no data
+BSE,STOCK,MITTAL,Mittal Life Style,,210750,NS,MITTAL.BO,,,0,,MITTAL.BO: Yahoo returned no data | 210750.BO: Yahoo returned no data
+BSE,STOCK,MMEL,Moving Media Entertainment,,213486,NS,MMEL.BO,,,0,,MMEL.BO: Yahoo returned no data | 213486.BO: Yahoo returned no data
+BSE,STOCK,MMP,Mmp Industries,,203210,NS,MMP.BO,,,0,,MMP.BO: Yahoo returned no data | 203210.BO: Yahoo returned no data
+BSE,STOCK,MOBILISE,Mobilise App Lab,,215828,NS,MOBILISE.BO,,,0,,MOBILISE.BO: Yahoo returned no data | 215828.BO: Yahoo returned no data
+BSE,STOCK,MOKSH,Moksh Ornaments,,208106,NS,MOKSH.BO,,,0,,MOKSH.BO: Yahoo returned no data | 208106.BO: Yahoo returned no data
+BSE,STOCK,MOLBIO,Molbio Diagnostics,,544866,B,MOLBIO.BO,,,0,,MOLBIO.BO: Only 14 rows; minimum is 30 | 544866.BO: Yahoo returned no data
+BSE,STOCK,MONOLITH,Monolithisch,,213434,NS,MONOLITH.BO,,,0,,MONOLITH.BO: Yahoo returned no data | 213434.BO: Yahoo returned no data
+BSE,STOCK,MONOPHARMA,Mono Pharmacare,,210583,NS,MONOPHARMA.BO,,,0,,MONOPHARMA.BO: Yahoo returned no data | 210583.BO: Yahoo returned no data
+BSE,STOCK,MOPSHOP,Mopshop Distribution,,544883,MT,MOPSHOP.BO,,,0,,MOPSHOP.BO: Only 7 rows; minimum is 30 | 544883.BO: Yahoo returned no data
+BSE,STOCK,MOREPENLAB,Morepen Laboratories,,500288,B,MOREPENLAB.BO,,,0,,MOREPENLAB.BO: Only 1 rows; minimum is 30 | 500288.BO: Yahoo returned no data
+BSE,STOCK,MOS,Mos Utility,,210293,NT,MOS.BO,,,0,,MOS.BO: Yahoo returned no data | 210293.BO: Yahoo returned no data
+BSE,STOCK,MOXSH,Moxsh Overseas Educon,,209353,NS,MOXSH.BO,,,0,,MOXSH.BO: Yahoo returned no data | 209353.BO: Yahoo returned no data
+BSE,STOCK,MPEL,Manas Polymers & Energies,,215153,NT,MPEL.BO,,,0,,MPEL.BO: Yahoo returned no data | 215153.BO: Yahoo returned no data
+BSE,STOCK,MPTODAY,Madhya Pradesh Today Media,,200405,NS,MPTODAY.BO,,,0,,MPTODAY.BO: Yahoo returned no data | 200405.BO: Yahoo returned no data
+BSE,STOCK,MRF,MRF,,500290,A,MRF.BO,,,0,,MRF.BO: Only 1 rows; minimum is 30 | 500290.BO: Yahoo returned no data
+BSE,STOCK,MRIL,Mahendra Realtors & Infrastructure,,213654,NT,MRIL.BO,,,0,,MRIL.BO: Yahoo returned no data | 213654.BO: Yahoo returned no data
+BSE,STOCK,MRPL,Mangalore Refinery & Petroleum,,500109,A,MRPL.BO,,,0,,MRPL.BO: Only 1 rows; minimum is 30 | 500109.BO: Yahoo returned no data
+BSE,STOCK,MTNL,Mahanagar Telephone Nigam,,500108,B,MTNL.BO,,,0,,MTNL.BO: Only 1 rows; minimum is 30 | 500108.BO: Yahoo returned no data
+BSE,STOCK,MUKANDLTD,Mukand,,500460,B,MUKANDLTD.BO,,,0,,MUKANDLTD.BO: Only 1 rows; minimum is 30 | 500460.BO: Yahoo returned no data
+BSE,STOCK,MULTIIN,Multiplus Holdings,,505594,XT,MULTIIN.BO,,,0,,MULTIIN.BO: Yahoo returned no data | 505594.BO: Yahoo returned no data
+BSE,STOCK,MUNISH,Munish Forge,,215183,NS,MUNISH.BO,,,0,,MUNISH.BO: Yahoo returned no data | 215183.BO: Yahoo returned no data
+BSE,STOCK,MUNJALAU,Munjal Auto Industries,,520059,B,MUNJALAU.BO,,,0,,MUNJALAU.BO: Only 1 rows; minimum is 30 | 520059.BO: Yahoo returned no data
+BSE,STOCK,MVELECTRO,MV Electrosystems,,544851,B,MVELECTRO.BO,,,0,,MVELECTRO.BO: Only 21 rows; minimum is 30 | 544851.BO: Yahoo returned no data
+BSE,STOCK,MVKAGRO,MVK Agro Food Product,,211231,NS,MVKAGRO.BO,,,0,,MVKAGRO.BO: Yahoo returned no data | 211231.BO: Yahoo returned no data
+BSE,STOCK,MYMUDRA,My Mudra Fincorp,,211963,NS,MYMUDRA.BO,,,0,,MYMUDRA.BO: Yahoo returned no data | 211963.BO: Yahoo returned no data
+BSE,STOCK,NAMAN,Naman Industries Proxima,,211469,NS,NAMAN.BO,,,0,,NAMAN.BO: Yahoo returned no data | 211469.BO: Yahoo returned no data
+BSE,STOCK,NAMOEWASTE,Namo eWaste Management,,211962,NT,NAMOEWASTE.BO,,,0,,NAMOEWASTE.BO: Yahoo returned no data | 211962.BO: Yahoo returned no data
+BSE,STOCK,NBIFIN,NBI Industrial Finance Company,,201684,NS,NBIFIN.BO,,,0,,NBIFIN.BO: Yahoo returned no data | 201684.BO: Yahoo returned no data
+BSE,STOCK,NCLIND,NCL Industries,,502168,B,NCLIND.BO,,,0,,NCLIND.BO: Only 1 rows; minimum is 30 | 502168.BO: Yahoo returned no data
+BSE,STOCK,NDGL,Naga Dhunseri Group,,204326,NS,NDGL.BO,,,0,,NDGL.BO: Yahoo returned no data | 204326.BO: Yahoo returned no data
+BSE,STOCK,NECLIFE,Nectar Lifesciences,,532649,B,NECLIFE.BO,,,0,,NECLIFE.BO: Only 1 rows; minimum is 30 | 532649.BO: Yahoo returned no data
+BSE,STOCK,NEELAM,Neelam Linens & Garments,,212185,NS,NEELAM.BO,,,0,,NEELAM.BO: Yahoo returned no data | 212185.BO: Yahoo returned no data
+BSE,STOCK,NEOCHEM,Neochem Bio Solutions,,215421,NS,NEOCHEM.BO,,,0,,NEOCHEM.BO: Yahoo returned no data | 215421.BO: Yahoo returned no data
+BSE,STOCK,NEPHROCARE,Nephro Care,,211745,NS,NEPHROCARE.BO,,,0,,NEPHROCARE.BO: Yahoo returned no data | 211745.BO: Yahoo returned no data
+BSE,STOCK,NEPTUNE,Neptune Petrochemicals,,213376,NS,NEPTUNE.BO,,,0,,NEPTUNE.BO: Yahoo returned no data | 213376.BO: Yahoo returned no data
+BSE,STOCK,NFPSAMPOOR,NFP Sampoorna Foods,,216276,NS,NFPSAMPOOR.BO,,,0,,NFPSAMPOOR.BO: Yahoo returned no data | 216276.BO: Yahoo returned no data
+BSE,STOCK,NIDAN,Nidan Labs & Healthcare,,208362,NS,NIDAN.BO,,,0,,NIDAN.BO: Yahoo returned no data | 208362.BO: Yahoo returned no data
+BSE,STOCK,NIKITA,Nikita Greentech Recycling,,213373,NS,NIKITA.BO,,,0,,NIKITA.BO: Yahoo returned no data | 213373.BO: Yahoo returned no data
+BSE,STOCK,NIRAJISPAT,Niraj Ispat Industries,,200475,NT,NIRAJISPAT.BO,,,0,,NIRAJISPAT.BO: Yahoo returned no data | 200475.BO: Yahoo returned no data
+BSE,STOCK,NIRMAN,Nirman Agri Genetics,,209622,NS,NIRMAN.BO,,,0,,NIRMAN.BO: Yahoo returned no data | 209622.BO: Yahoo returned no data
+BSE,STOCK,NITINSPIN,Nitin Spinners,,532698,B,NITINSPIN.BO,,,0,,NITINSPIN.BO: Only 1 rows; minimum is 30 | 532698.BO: Yahoo returned no data
+BSE,STOCK,NITIRAJ,Nitiraj Engineers,,203799,NS,NITIRAJ.BO,,,0,,NITIRAJ.BO: Yahoo returned no data | 203799.BO: Yahoo returned no data
+BSE,STOCK,NMSTEEL,Newmalayalam Steel,,212312,NS,NMSTEEL.BO,,,0,,NMSTEEL.BO: Yahoo returned no data | 212312.BO: Yahoo returned no data
+BSE,STOCK,NOCIL,NOCIL,,500730,B,NOCIL.BO,,,0,,NOCIL.BO: Only 1 rows; minimum is 30 | 500730.BO: Yahoo returned no data
+BSE,STOCK,NRVANDANA,N R Vandana Tex Industries,,206022,NS,NRVANDANA.BO,,,0,,NRVANDANA.BO: Yahoo returned no data | 206022.BO: Yahoo returned no data
+BSE,STOCK,OBSCP,OBSC Perfection,,212135,NS,OBSCP.BO,,,0,,OBSCP.BO: Yahoo returned no data | 212135.BO: Yahoo returned no data
+BSE,STOCK,OCCLLTD,OCCL,,544278,T,OCCLLTD.BO,,,0,,OCCLLTD.BO: Only 1 rows; minimum is 30 | 544278.BO: Yahoo returned no data
+BSE,STOCK,ODIGMA,Odigma Consultancy Solutions,,544301,B,ODIGMA.BO,,,0,,ODIGMA.BO: Only 1 rows; minimum is 30 | 544301.BO: Yahoo returned no data
+BSE,STOCK,OLIL,One Click Logistics,,210693,NS,OLIL.BO,,,0,,OLIL.BO: Yahoo returned no data | 210693.BO: Yahoo returned no data
+BSE,STOCK,OMFURN,Omfurn,,203162,NS,OMFURN.BO,,,0,,OMFURN.BO: Yahoo returned no data | 203162.BO: Yahoo returned no data
+BSE,STOCK,ONDOOR,On Door Concepts,,210749,NS,ONDOOR.BO,,,0,,ONDOOR.BO: Yahoo returned no data | 210749.BO: Yahoo returned no data
+BSE,STOCK,ONEINDIG,Oneindig Technologies,,544852,M,ONEINDIG.BO,,,0,,ONEINDIG.BO: Only 21 rows; minimum is 30 | 544852.BO: Yahoo returned no data
+BSE,STOCK,ONGC,Oil & Natural Gas Corporation,,500312,A,ONGC.BO,,,0,,ONGC.BO: Only 1 rows; minimum is 30 | 500312.BO: Yahoo returned no data
+BSE,STOCK,ONYX,Onyx Biotec,,212187,NT,ONYX.BO,,,0,,ONYX.BO: Yahoo returned no data | 212187.BO: Yahoo returned no data
+BSE,STOCK,OPTIMYSTIX,Optimystix Entertainment,,216518,NS,OPTIMYSTIX.BO,,,0,,OPTIMYSTIX.BO: Yahoo returned no data | 216518.BO: Yahoo returned no data
+BSE,STOCK,OPTIVALUE,Optivalue Tek Consulting,,213732,NT,OPTIVALUE.BO,,,0,,OPTIVALUE.BO: Yahoo returned no data | 213732.BO: Yahoo returned no data
+BSE,STOCK,ORIANA,Oriana Power,,210541,NS,ORIANA.BO,,,0,,ORIANA.BO: Yahoo returned no data | 210541.BO: Yahoo returned no data
+BSE,STOCK,ORIENTHOT,Oriental Hotels,,500314,B,ORIENTHOT.BO,,,0,,ORIENTHOT.BO: Only 1 rows; minimum is 30 | 500314.BO: Yahoo returned no data
+BSE,STOCK,OSEASPR,Oseaspre Consultants,,509782,XT,OSEASPR.BO,,,0,,OSEASPR.BO: Yahoo returned no data | 509782.BO: Yahoo returned no data
+BSE,STOCK,OSELDEVICE,Osel Devices,,212000,NS,OSELDEVICE.BO,,,0,,OSELDEVICE.BO: Yahoo returned no data | 212000.BO: Yahoo returned no data
+BSE,STOCK,OSIAHYPER,Osia Hyper Retail,,209547,NT,OSIAHYPER.BO,,,0,,OSIAHYPER.BO: Yahoo returned no data | 209547.BO: Yahoo returned no data
+BSE,STOCK,OSWALSEEDS,ShreeOswal Seeds And Chemicals,,210546,NS,OSWALSEEDS.BO,,,0,,OSWALSEEDS.BO: Yahoo returned no data | 210546.BO: Yahoo returned no data
+BSE,STOCK,OWAIS,Owais Metal & Mineral Processing,,211218,NT,OWAIS.BO,,,0,,OWAIS.BO: Yahoo returned no data | 211218.BO: Yahoo returned no data
+BSE,STOCK,PALUCK,Paluck Technologies,,544897,MT,PALUCK.BO,,,0,,PALUCK.BO: Only 1 rows; minimum is 30 | 544897.BO: Yahoo returned no data
+BSE,STOCK,PANSARI,Pansari Developers,,201657,NS,PANSARI.BO,,,0,,PANSARI.BO: Yahoo returned no data | 201657.BO: Yahoo returned no data
+BSE,STOCK,PAR,Par Drugs & Chemical,,201686,NT,PAR.BO,,,0,,PAR.BO: Yahoo returned no data | 201686.BO: Yahoo returned no data
+BSE,STOCK,PARAGON,Paragon Fine and Specialty Chemicals,,210774,NS,PARAGON.BO,,,0,,PARAGON.BO: Yahoo returned no data | 210774.BO: Yahoo returned no data
+BSE,STOCK,PARAMATRIX,Paramatrix Technologies,,211936,NS,PARAMATRIX.BO,,,0,,PARAMATRIX.BO: Yahoo returned no data | 211936.BO: Yahoo returned no data
+BSE,STOCK,PARAMOUNT,Paramount Dye Tec,,212078,NS,PARAMOUNT.BO,,,0,,PARAMOUNT.BO: Yahoo returned no data | 212078.BO: Yahoo returned no data
+BSE,STOCK,PARAMPARA,Parampara Dairy Delights,,200184,NS,PARAMPARA.BO,,,0,,PARAMPARA.BO: Yahoo returned no data | 200184.BO: Yahoo returned no data
+BSE,STOCK,PARIN,Parin Enterprises,,205337,NS,PARIN.BO,,,0,,PARIN.BO: Yahoo returned no data | 205337.BO: Yahoo returned no data
+BSE,STOCK,PARSVNATH,Parsvnath Developers,,532780,T,PARSVNATH.BO,,,0,,PARSVNATH.BO: Only 1 rows; minimum is 30 | 532780.BO: Yahoo returned no data
+BSE,STOCK,PARTH,Parth Electricals & Engineering,,213639,NS,PARTH.BO,,,0,,PARTH.BO: Yahoo returned no data | 213639.BO: Yahoo returned no data
+BSE,STOCK,PARTYCRUS,Party Cruisers,,207734,NS,PARTYCRUS.BO,,,0,,PARTYCRUS.BO: Yahoo returned no data | 207734.BO: Yahoo returned no data
+BSE,STOCK,PATELRMART,Patel Retail,,544487,B,PATELRMART.BO,,,0,,PATELRMART.BO: Only 1 rows; minimum is 30 | 544487.BO: Yahoo returned no data
+BSE,STOCK,PATILAUTOM,Patil Automation,,213444,NS,PATILAUTOM.BO,,,0,,PATILAUTOM.BO: Yahoo returned no data | 213444.BO: Yahoo returned no data
+BSE,STOCK,PATTECH,Pattech Fitwell Tube Components,,210300,NS,PATTECH.BO,,,0,,PATTECH.BO: Yahoo returned no data | 210300.BO: Yahoo returned no data
+BSE,STOCK,PBFL,P. B. Films Limited,,539352,MT,PBFL.BO,,,0,,PBFL.BO: Yahoo returned no data | 539352.BO: Only 1 rows; minimum is 30
+BSE,STOCK,PBGLOBAL,PB Global,,506580,XT,PBGLOBAL.BO,,,0,,PBGLOBAL.BO: Yahoo returned no data | 506580.BO: Yahoo returned no data
+BSE,STOCK,PCCL,Petro Carbon & Chemicals,,211725,NS,PCCL.BO,,,0,,PCCL.BO: Yahoo returned no data | 211725.BO: Yahoo returned no data
+BSE,STOCK,PELATRO,Pelatro,,212003,NS,PELATRO.BO,,,0,,PELATRO.BO: Yahoo returned no data | 212003.BO: Yahoo returned no data
+BSE,STOCK,PENTAGON,Pentagon Rubber,,210473,NS,PENTAGON.BO,,,0,,PENTAGON.BO: Yahoo returned no data | 210473.BO: Yahoo returned no data
+BSE,STOCK,PERFECT,Perfect Infraengineers,,201698,NT,PERFECT.BO,,,0,,PERFECT.BO: Yahoo returned no data | 201698.BO: Yahoo returned no data
+BSE,STOCK,PFIZER,Pfizer,,500680,A,PFIZER.BO,,,0,,PFIZER.BO: Only 1 rows; minimum is 30 | 500680.BO: Yahoo returned no data
+BSE,STOCK,PFOCUS,Prime Focus,,532748,B,PFOCUS.BO,,,0,,PFOCUS.BO: Only 1 rows; minimum is 30 | 532748.BO: Yahoo returned no data
+BSE,STOCK,PHANTOMFX,Phantom Digital Effects,,209190,NS,PHANTOMFX.BO,,,0,,PHANTOMFX.BO: Yahoo returned no data | 209190.BO: Yahoo returned no data
+BSE,STOCK,PHOGLOBAL,Phoenix Overseas,,212038,NS,PHOGLOBAL.BO,,,0,,PHOGLOBAL.BO: Yahoo returned no data | 212038.BO: Yahoo returned no data
+BSE,STOCK,PIDILITIND,Pidilite Industries,,500331,A,PIDILITIND.BO,,,0,,PIDILITIND.BO: Only 1 rows; minimum is 30 | 500331.BO: Yahoo returned no data
+BSE,STOCK,PKTEA,Peria Karamalai Tea,,204759,NS,PKTEA.BO,,,0,,PKTEA.BO: Yahoo returned no data | 204759.BO: Yahoo returned no data
+BSE,STOCK,PLADAINFO,Plada Infotech,,210708,NS,PLADAINFO.BO,,,0,,PLADAINFO.BO: Yahoo returned no data | 210708.BO: Yahoo returned no data
+BSE,STOCK,PNB,Punjab National Bank,,532461,A,PNB.BO,,,0,,PNB.BO: Only 1 rows; minimum is 30 | 532461.BO: Yahoo returned no data
+BSE,STOCK,POLYSIL,Polysil Irrigation Systems,,211144,NS,POLYSIL.BO,,,0,,POLYSIL.BO: Yahoo returned no data | 211144.BO: Yahoo returned no data
+BSE,STOCK,POSITRON,Positron Energy,,211882,NS,POSITRON.BO,,,0,,POSITRON.BO: Yahoo returned no data | 211882.BO: Yahoo returned no data
+BSE,STOCK,PPEL,Poojaa Precision Engg.,,544844,M,PPEL.BO,,,0,,PPEL.BO: Only 23 rows; minimum is 30 | 544844.BO: Yahoo returned no data
+BSE,STOCK,PPSL,Picturepost Studios,,211857,NS,PPSL.BO,,,0,,PPSL.BO: Yahoo returned no data | 211857.BO: Yahoo returned no data
+BSE,STOCK,PRAJIND,Praj Industries,,522205,A,PRAJIND.BO,,,0,,PRAJIND.BO: Only 1 rows; minimum is 30 | 522205.BO: Yahoo returned no data
+BSE,STOCK,PRAMARA,Pramara Promotions,,210599,NS,PRAMARA.BO,,,0,,PRAMARA.BO: Yahoo returned no data | 210599.BO: Yahoo returned no data
+BSE,STOCK,PRAMODINI,Pramodini Medicare,,216525,NS,PRAMODINI.BO,,,0,,PRAMODINI.BO: Yahoo returned no data | 216525.BO: Yahoo returned no data
+BSE,STOCK,PRANIK,Pranik Logistics,,212114,NS,PRANIK.BO,,,0,,PRANIK.BO: Yahoo returned no data | 212114.BO: Yahoo returned no data
+BSE,STOCK,PRATHAM,Pratham EPC Projects,,211281,NS,PRATHAM.BO,,,0,,PRATHAM.BO: Yahoo returned no data | 211281.BO: Yahoo returned no data
+BSE,STOCK,PRECISION,Precision Metaliks,,208528,NT,PRECISION.BO,,,0,,PRECISION.BO: Yahoo returned no data | 208528.BO: Yahoo returned no data
+BSE,STOCK,PRECOT,Precot,,205936,NS,PRECOT.BO,,,0,,PRECOT.BO: Yahoo returned no data | 205936.BO: Yahoo returned no data
+BSE,STOCK,PRECWIRE,Precision Wires India,,523539,B,PRECWIRE.BO,,,0,,PRECWIRE.BO: Only 1 rows; minimum is 30 | 523539.BO: Yahoo returned no data
+BSE,STOCK,PREMIER,Premier,,500540,T,PREMIER.BO,,,0,,PREMIER.BO: Only 1 rows; minimum is 30 | 500540.BO: Yahoo returned no data
+BSE,STOCK,PREMIUM,Premium Plast,,212132,NS,PREMIUM.BO,,,0,,PREMIUM.BO: Yahoo returned no data | 212132.BO: Yahoo returned no data
+BSE,STOCK,PRESSTONIC,Presstonic Engineering,,210916,NS,PRESSTONIC.BO,,,0,,PRESSTONIC.BO: Yahoo returned no data | 210916.BO: Yahoo returned no data
+BSE,STOCK,PRIMAINNO,Prima Innovation,,544855,X,PRIMAINNO.BO,,,0,,PRIMAINNO.BO: Only 20 rows; minimum is 30 | 544855.BO: Yahoo returned no data
+BSE,STOCK,PRIMECAB,Prime Cable Industries,,213802,NT,PRIMECAB.BO,,,0,,PRIMECAB.BO: Yahoo returned no data | 213802.BO: Yahoo returned no data
+BSE,STOCK,PRIORITY,Priority Jewels,,544899,T,PRIORITY.BO,,,0,,PRIORITY.BO: Only 1 rows; minimum is 30 | 544899.BO: Yahoo returned no data
+BSE,STOCK,PRITI,Priti International,,204000,NT,PRITI.BO,,,0,,PRITI.BO: Yahoo returned no data | 204000.BO: Yahoo returned no data
+BSE,STOCK,PRITIKA,Pritika Engineering Components,,212498,NS,PRITIKA.BO,,,0,,PRITIKA.BO: Yahoo returned no data | 212498.BO: Yahoo returned no data
+BSE,STOCK,PRLIND,Premier Roadlines,,211580,NS,PRLIND.BO,,,0,,PRLIND.BO: Yahoo returned no data | 211580.BO: Yahoo returned no data
+BSE,STOCK,PROFX,Pro FX Tech,,213487,NS,PROFX.BO,,,0,,PROFX.BO: Yahoo returned no data | 213487.BO: Yahoo returned no data
+BSE,STOCK,PROLIFE,Prolife Industries,,202286,NS,PROLIFE.BO,,,0,,PROLIFE.BO: Yahoo returned no data | 202286.BO: Yahoo returned no data
+BSE,STOCK,PROPEQUITY,PE Analytics,,208730,NS,PROPEQUITY.BO,,,0,,PROPEQUITY.BO: Yahoo returned no data | 208730.BO: Yahoo returned no data
+BSE,STOCK,PROPSHOP,Propshop Events and Exhibitions,,216481,NS,PROPSHOP.BO,,,0,,PROPSHOP.BO: Yahoo returned no data | 216481.BO: Yahoo returned no data
+BSE,STOCK,PROV,Proventus Agrocom,,210378,NS,PROV.BO,,,0,,PROV.BO: Yahoo returned no data | 210378.BO: Yahoo returned no data
+BSE,STOCK,PSFL,Paramount Speciality Forgings,,212007,NS,PSFL.BO,,,0,,PSFL.BO: Yahoo returned no data | 212007.BO: Yahoo returned no data
+BSE,STOCK,PSRAJ,P S Raj Steels,,212506,NT,PSRAJ.BO,,,0,,PSRAJ.BO: Yahoo returned no data | 212506.BO: Yahoo returned no data
+BSE,STOCK,PULZ,Pulz Electronics,,201344,NS,PULZ.BO,,,0,,PULZ.BO: Yahoo returned no data | 201344.BO: Yahoo returned no data
+BSE,STOCK,PUNCTRD,Punctual Trading,,512461,P,PUNCTRD.BO,,,0,,PUNCTRD.BO: Yahoo returned no data | 512461.BO: Yahoo returned no data
+BSE,STOCK,PURPLEUTED,Purple United Sales,,212279,NT,PURPLEUTED.BO,,,0,,PURPLEUTED.BO: Yahoo returned no data | 212279.BO: Yahoo returned no data
+BSE,STOCK,PURVFLEXI,Purv Flexipack,,211225,NS,PURVFLEXI.BO,,,0,,PURVFLEXI.BO: Yahoo returned no data | 211225.BO: Yahoo returned no data
+BSE,STOCK,PUSHPA,Pushpa Jewellers,,213507,NS,PUSHPA.BO,,,0,,PUSHPA.BO: Yahoo returned no data | 213507.BO: Yahoo returned no data
+BSE,STOCK,QFIL,Quality Foils,,209601,NS,QFIL.BO,,,0,,QFIL.BO: Yahoo returned no data | 209601.BO: Yahoo returned no data
+BSE,STOCK,QLINE,Q-Line Biotech,,216287,NS,QLINE.BO,,,0,,QLINE.BO: Yahoo returned no data | 216287.BO: Yahoo returned no data
+BSE,STOCK,QMSMEDI,QMS Medical Allied Services,,209172,NT,QMSMEDI.BO,,,0,,QMSMEDI.BO: Yahoo returned no data | 209172.BO: Yahoo returned no data
+BSE,STOCK,QTFOODS,Q&T Foods,,544872,M,QTFOODS.BO,,,0,,QTFOODS.BO: Only 12 rows; minimum is 30 | 544872.BO: Yahoo returned no data
+BSE,STOCK,QUADPRO,Quadpro ITES,,208232,NS,QUADPRO.BO,,,0,,QUADPRO.BO: Yahoo returned no data | 208232.BO: Yahoo returned no data
+BSE,STOCK,QUESTLAB,Quest Laboratories,,211589,NS,QUESTLAB.BO,,,0,,QUESTLAB.BO: Yahoo returned no data | 211589.BO: Yahoo returned no data
+BSE,STOCK,QUICKTOUCH,Quicktouch Technologies,,210308,NS,QUICKTOUCH.BO,,,0,,QUICKTOUCH.BO: Yahoo returned no data | 210308.BO: Yahoo returned no data
+BSE,STOCK,QVCEL,QVC Exports,,211905,NS,QVCEL.BO,,,0,,QVCEL.BO: Yahoo returned no data | 211905.BO: Yahoo returned no data
+BSE,STOCK,RADICO,Radico Khaitan,,532497,A,RADICO.BO,,,0,,RADICO.BO: Only 1 rows; minimum is 30 | 532497.BO: Yahoo returned no data
+BSE,STOCK,RADIOWALLA,Radiowalla Network,,211493,NT,RADIOWALLA.BO,,,0,,RADIOWALLA.BO: Yahoo returned no data | 211493.BO: Yahoo returned no data
+BSE,STOCK,RAIDEEPIND,Raideep Industries,,540270,XT,RAIDEEPIND.BO,,,0,,RAIDEEPIND.BO: Yahoo returned no data | 540270.BO: Yahoo returned no data
+BSE,STOCK,RAJINDLTD,Rajputana Industries,,211832,NS,RAJINDLTD.BO,,,0,,RAJINDLTD.BO: Yahoo returned no data | 211832.BO: Yahoo returned no data
+BSE,STOCK,RAJMET,Rajnandini Metal,,209275,NS,RAJMET.BO,,,0,,RAJMET.BO: Yahoo returned no data | 209275.BO: Yahoo returned no data
+BSE,STOCK,RAJPUTANA$,Rajputana Biodiesel,,212227,NS,RAJPUTANA$.BO,,,0,,RAJPUTANA$.BO: Yahoo returned no data | 212227.BO: Yahoo returned no data
+BSE,STOCK,RALLIS,Rallis,,500355,A,RALLIS.BO,,,0,,RALLIS.BO: Only 1 rows; minimum is 30 | 500355.BO: Yahoo returned no data
+BSE,STOCK,RAPIDFLEET,Rapid Fleet Management Services,,213174,NS,RAPIDFLEET.BO,,,0,,RAPIDFLEET.BO: Yahoo returned no data | 213174.BO: Yahoo returned no data
+BSE,STOCK,RAPPID,Rappid Valves,,212045,NS,RAPPID.BO,,,0,,RAPPID.BO: Yahoo returned no data | 212045.BO: Yahoo returned no data
+BSE,STOCK,RAYMOND,Raymond,,500330,A,RAYMOND.BO,,,0,,RAYMOND.BO: Only 1 rows; minimum is 30 | 500330.BO: Yahoo returned no data
+BSE,STOCK,RBMINFRA,RBM Infracon,,209368,NS,RBMINFRA.BO,,,0,,RBMINFRA.BO: Yahoo returned no data | 209368.BO: Yahoo returned no data
+BSE,STOCK,RBS,Ramdevbaba Solvent,,211522,NS,RBS.BO,,,0,,RBS.BO: Yahoo returned no data | 211522.BO: Yahoo returned no data
+BSE,STOCK,RCDL,Rajgor Castor Derivatives,,210748,NS,RCDL.BO,,,0,,RCDL.BO: Yahoo returned no data | 210748.BO: Yahoo returned no data
+BSE,STOCK,READYMIX,Readymix Construction Machinery,,212484,NS,READYMIX.BO,,,0,,READYMIX.BO: Yahoo returned no data | 212484.BO: Yahoo returned no data
+BSE,STOCK,REFRACTORY,Refractory Shapes,,211566,NS,REFRACTORY.BO,,,0,,REFRACTORY.BO: Yahoo returned no data | 211566.BO: Yahoo returned no data
+BSE,STOCK,RELINFRA,Reliance Infrastructure,,500390,T,RELINFRA.BO,,,0,,RELINFRA.BO: Only 1 rows; minimum is 30 | 500390.BO: Yahoo returned no data
+BSE,STOCK,REMUS,Remus Pharmaceuticals,,210352,NS,REMUS.BO,,,0,,REMUS.BO: Yahoo returned no data | 210352.BO: Yahoo returned no data
+BSE,STOCK,RENUKA,Shree Renuka Sugars,,532670,A,RENUKA.BO,,,0,,RENUKA.BO: Only 1 rows; minimum is 30 | 532670.BO: Yahoo returned no data
+BSE,STOCK,REPL,Rudrabhishek Enterprises,,205597,NT,REPL.BO,,,0,,REPL.BO: Yahoo returned no data | 205597.BO: Yahoo returned no data
+BSE,STOCK,REPRO,Repro,,532687,B,REPRO.BO,,,0,,REPRO.BO: Only 1 rows; minimum is 30 | 532687.BO: Yahoo returned no data
+BSE,STOCK,RETAIL,JHS Svendgaard Retail Ventures,,544197,B,RETAIL.BO,,,0,,RETAIL.BO: Only 1 rows; minimum is 30 | 544197.BO: Yahoo returned no data
+BSE,STOCK,REXPIPES,Rex Pipes & Cables,,208145,NS,REXPIPES.BO,,,0,,REXPIPES.BO: Yahoo returned no data | 208145.BO: Yahoo returned no data
+BSE,STOCK,REXPRO,Rexpro Enterprises,,212420,NS,REXPRO.BO,,,0,,REXPRO.BO: Yahoo returned no data | 212420.BO: Yahoo returned no data
+BSE,STOCK,RFBL,RFBL Flexi Pack,,216263,NT,RFBL.BO,,,0,,RFBL.BO: Yahoo returned no data | 216263.BO: Yahoo returned no data
+BSE,STOCK,RGCORP,Real Growth Corporation,,539691,XT,RGCORP.BO,,,0,,RGCORP.BO: Yahoo returned no data | 539691.BO: Yahoo returned no data
+BSE,STOCK,RICHA,Richa Info Systems,,208561,NT,RICHA.BO,,,0,,RICHA.BO: Yahoo returned no data | 208561.BO: Yahoo returned no data
+BSE,STOCK,RIDHISYN,Ridhi Synthetics,,504365,XT,RIDHISYN.BO,,,0,,RIDHISYN.BO: Yahoo returned no data | 504365.BO: Only 1 rows; minimum is 30
+BSE,STOCK,RILINFRA,Rachana Infrastructure,,208791,NS,RILINFRA.BO,,,0,,RILINFRA.BO: Yahoo returned no data | 208791.BO: Yahoo returned no data
+BSE,STOCK,RITEZONE,Rite Zone Chemcon,,209237,NS,RITEZONE.BO,,,0,,RITEZONE.BO: Yahoo returned no data | 209237.BO: Yahoo returned no data
+BSE,STOCK,RKEC,RKEC Projects,,200105,NS,RKEC.BO,,,0,,RKEC.BO: Yahoo returned no data | 200105.BO: Yahoo returned no data
+BSE,STOCK,RKFORGE,Ramkrishna Forgings,,532527,A,RKFORGE.BO,,,0,,RKFORGE.BO: Only 1 rows; minimum is 30 | 532527.BO: Yahoo returned no data
+BSE,STOCK,RNFI,RNFI Services,,211798,NS,RNFI.BO,,,0,,RNFI.BO: Yahoo returned no data | 211798.BO: Yahoo returned no data
+BSE,STOCK,RNPL,Renol Polychem,,213612,NS,RNPL.BO,,,0,,RNPL.BO: Yahoo returned no data | 213612.BO: Yahoo returned no data
+BSE,STOCK,ROCKINGDCE,Rockingdeals Circular Economy,,210839,NS,ROCKINGDCE.BO,,,0,,ROCKINGDCE.BO: Yahoo returned no data | 210839.BO: Yahoo returned no data
+BSE,STOCK,ROCKPP,Rockingdeals Circular Economy - PP,,215348,NS,ROCKPP.BO,,,0,,ROCKPP.BO: Yahoo returned no data | 215348.BO: Yahoo returned no data
+BSE,STOCK,ROHLTD,Royal Orchid Hotels,,532699,B,ROHLTD.BO,,,0,,ROHLTD.BO: Only 1 rows; minimum is 30 | 532699.BO: Yahoo returned no data
+BSE,STOCK,ROXHITECH,ROX Hi-Tech,,210810,NS,ROXHITECH.BO,,,0,,ROXHITECH.BO: Yahoo returned no data | 210810.BO: Yahoo returned no data
+BSE,STOCK,ROYALARC,Royal Arc Electrodes,,212531,NS,ROYALARC.BO,,,0,,ROYALARC.BO: Yahoo returned no data | 212531.BO: Yahoo returned no data
+BSE,STOCK,RPPL,Rajshree Polypack,,211980,NT,RPPL.BO,,,0,,RPPL.BO: Yahoo returned no data | 211980.BO: Yahoo returned no data
+BSE,STOCK,RSYSTEMS,R Systems International,,532735,B,RSYSTEMS.BO,,,0,,RSYSTEMS.BO: Only 1 rows; minimum is 30 | 532735.BO: Yahoo returned no data
+BSE,STOCK,RTL,Rama Telecom,,213481,NS,RTL.BO,,,0,,RTL.BO: Yahoo returned no data | 213481.BO: Yahoo returned no data
+BSE,STOCK,RUCHIRA,Ruchira Papers,,532785,B,RUCHIRA.BO,,,0,,RUCHIRA.BO: Only 1 rows; minimum is 30 | 532785.BO: Yahoo returned no data
+BSE,STOCK,RULKA,Rulka Electricals,,211602,NS,RULKA.BO,,,0,,RULKA.BO: Yahoo returned no data | 211602.BO: Yahoo returned no data
+BSE,STOCK,SAAKSHI,Saakshi Medtech & Panels,,210658,NT,SAAKSHI.BO,,,0,,SAAKSHI.BO: Yahoo returned no data | 210658.BO: Yahoo returned no data
+BSE,STOCK,SABAR,Sabar Flex,,209113,NT,SABAR.BO,,,0,,SABAR.BO: Yahoo returned no data | 209113.BO: Yahoo returned no data
+BSE,STOCK,SACHEEROME,Sacheerome,,213425,NS,SACHEEROME.BO,,,0,,SACHEEROME.BO: Yahoo returned no data | 213425.BO: Yahoo returned no data
+BSE,STOCK,SADBHAV,Sadbhav Engineering,,532710,B,SADBHAV.BO,,,0,,SADBHAV.BO: Only 1 rows; minimum is 30 | 532710.BO: Yahoo returned no data
+BSE,STOCK,SADHAV,Sadhav Shipping,,211205,NS,SADHAV.BO,,,0,,SADHAV.BO: Yahoo returned no data | 211205.BO: Yahoo returned no data
+BSE,STOCK,SAFEENTP,Safe Enterprises Retail Fixtures,,213456,NS,SAFEENTP.BO,,,0,,SAFEENTP.BO: Yahoo returned no data | 213456.BO: Yahoo returned no data
+BSE,STOCK,SAGARDEEP,Sagardeep Alloys,,204170,NS,SAGARDEEP.BO,,,0,,SAGARDEEP.BO: Yahoo returned no data | 204170.BO: Yahoo returned no data
+BSE,STOCK,SAGARSYST,Sagar Systech,,511254,XT,SAGARSYST.BO,,,0,,SAGARSYST.BO: Yahoo returned no data | 511254.BO: Only 1 rows; minimum is 30
+BSE,STOCK,SAHAJSOLAR,Sahaj Solar,,211764,NS,SAHAJSOLAR.BO,,,0,,SAHAJSOLAR.BO: Yahoo returned no data | 211764.BO: Yahoo returned no data
+BSE,STOCK,SAHANA,Sahana System,,210398,NS,SAHANA.BO,,,0,,SAHANA.BO: Yahoo returned no data | 210398.BO: Yahoo returned no data
+BSE,STOCK,SAHASRA,Sahasra Electronic Solutions,,212058,NT,SAHASRA.BO,,,0,,SAHASRA.BO: Yahoo returned no data | 212058.BO: Yahoo returned no data
+BSE,STOCK,SAIFL,Sameera Agro & Infra,,210971,NS,SAIFL.BO,,,0,,SAIFL.BO: Yahoo returned no data | 210971.BO: Yahoo returned no data
+BSE,STOCK,SAIL,Steel Authority of India,,500113,A,SAIL.BO,,,0,,SAIL.BO: Only 1 rows; minimum is 30 | 500113.BO: Yahoo returned no data
+BSE,STOCK,SAJHOTELS,Saj Hotels,,212075,NT,SAJHOTELS.BO,,,0,,SAJHOTELS.BO: Yahoo returned no data | 212075.BO: Yahoo returned no data
+BSE,STOCK,SAKAR,Sakar Healthcare,,200519,NS,SAKAR.BO,,,0,,SAKAR.BO: Yahoo returned no data | 200519.BO: Yahoo returned no data
+BSE,STOCK,SAKSOFT,Saksoft,,590051,B,SAKSOFT.BO,,,0,,SAKSOFT.BO: Only 1 rows; minimum is 30 | 590051.BO: Yahoo returned no data
+BSE,STOCK,SAMAY,Samay Project Services,,213445,NT,SAMAY.BO,,,0,,SAMAY.BO: Yahoo returned no data | 213445.BO: Yahoo returned no data
+BSE,STOCK,SANGANI,Sangani Hospitals,,210545,NS,SANGANI.BO,,,0,,SANGANI.BO: Yahoo returned no data | 210545.BO: Yahoo returned no data
+BSE,STOCK,SANWARIA,Sanwaria Consumer,,519260,Z,SANWARIA.BO,,,0,,SANWARIA.BO: Only 1 rows; minimum is 30 | 519260.BO: Yahoo returned no data
+BSE,STOCK,SAREGAMA,Saregama India,,532163,A,SAREGAMA.BO,,,0,,SAREGAMA.BO: Only 1 rows; minimum is 30 | 532163.BO: Yahoo returned no data
+BSE,STOCK,SAROJA,Saroja Pharma Industries,,210600,NS,SAROJA.BO,,,0,,SAROJA.BO: Yahoo returned no data | 210600.BO: Yahoo returned no data
+BSE,STOCK,SARTELE,SAR Televenture,,210788,NS,SARTELE.BO,,,0,,SARTELE.BO: Yahoo returned no data | 210788.BO: Yahoo returned no data
+BSE,STOCK,SATECH,SA Tech Software,,211823,NS,SATECH.BO,,,0,,SATECH.BO: Yahoo returned no data | 211823.BO: Yahoo returned no data
+BSE,STOCK,SATIPOLY,Sati Poly Plast,,211774,NT,SATIPOLY.BO,,,0,,SATIPOLY.BO: Yahoo returned no data | 211774.BO: Yahoo returned no data
+BSE,STOCK,SATKARTAR,Sat Kartar Life,,212393,NS,SATKARTAR.BO,,,0,,SATKARTAR.BO: Yahoo returned no data | 212393.BO: Yahoo returned no data
+BSE,STOCK,SATTVAENGG,Sattva Engineering Construction,,213705,NS,SATTVAENGG.BO,,,0,,SATTVAENGG.BO: Yahoo returned no data | 213705.BO: Yahoo returned no data
+BSE,STOCK,SAVY,Savy Infra & Logistics,,213570,NS,SAVY.BO,,,0,,SAVY.BO: Yahoo returned no data | 213570.BO: Yahoo returned no data
+BSE,STOCK,SAWALIYA,Sawaliya Food Products,,213642,NS,SAWALIYA.BO,,,0,,SAWALIYA.BO: Yahoo returned no data | 213642.BO: Yahoo returned no data
+BSE,STOCK,SCML,Sharp Chucks & Machines,,210698,NS,SCML.BO,,,0,,SCML.BO: Yahoo returned no data | 210698.BO: Yahoo returned no data
+BSE,STOCK,SDREAMS,SD Retail,,212041,NS,SDREAMS.BO,,,0,,SDREAMS.BO: Yahoo returned no data | 212041.BO: Yahoo returned no data
+BSE,STOCK,SEL$,Sungarner Energies,,210569,NS,SEL$.BO,,,0,,SEL$.BO: Yahoo returned no data | 210569.BO: Yahoo returned no data
+BSE,STOCK,SELLOWRAP,Sellowrap Industries,,213580,NS,SELLOWRAP.BO,,,0,,SELLOWRAP.BO: Yahoo returned no data | 213580.BO: Yahoo returned no data
+BSE,STOCK,SERVICE,Service Care,,210498,NS,SERVICE.BO,,,0,,SERVICE.BO: Yahoo returned no data | 210498.BO: Yahoo returned no data
+BSE,STOCK,SERVOTECH,Servotech Renewable  Power,,210510,NS,SERVOTECH.BO,,,0,,SERVOTECH.BO: Yahoo returned no data | 210510.BO: Yahoo returned no data
+BSE,STOCK,SFML,Supreme Facility Management,,212280,NS,SFML.BO,,,0,,SFML.BO: Yahoo returned no data | 212280.BO: Yahoo returned no data
+BSE,STOCK,SHAIVAL,Shaival Reality,,204337,NT,SHAIVAL.BO,,,0,,SHAIVAL.BO: Yahoo returned no data | 204337.BO: Yahoo returned no data
+BSE,STOCK,SHAMFOAM,Sham Foam,,544869,M,SHAMFOAM.BO,,,0,,SHAMFOAM.BO: Only 13 rows; minimum is 30 | 544869.BO: Yahoo returned no data
+BSE,STOCK,SHANKESH,Shankesh Jewellers,,544882,B,SHANKESH.BO,,,0,,SHANKESH.BO: Only 8 rows; minimum is 30 | 544882.BO: Yahoo returned no data
+BSE,STOCK,SHANTHALA,Shanthala FMCG Products,,210775,NS,SHANTHALA.BO,,,0,,SHANTHALA.BO: Yahoo returned no data | 210775.BO: Yahoo returned no data
+BSE,STOCK,SHANTI,Shanti Overseas,,206158,NS,SHANTI.BO,,,0,,SHANTI.BO: Yahoo returned no data | 206158.BO: Yahoo returned no data
+BSE,STOCK,SHEEL,Sheel Biotech,,215184,NT,SHEEL.BO,,,0,,SHEEL.BO: Yahoo returned no data | 215184.BO: Yahoo returned no data
+BSE,STOCK,SHEETAL,Sheetal Universal,,210875,NS,SHEETAL.BO,,,0,,SHEETAL.BO: Yahoo returned no data | 210875.BO: Yahoo returned no data
+BSE,STOCK,SHERA,Shera Energy,,209484,NS,SHERA.BO,,,0,,SHERA.BO: Yahoo returned no data | 209484.BO: Yahoo returned no data
+BSE,STOCK,SHETHJI,Shreeji Global FMCG,,215284,NS,SHETHJI.BO,,,0,,SHETHJI.BO: Yahoo returned no data | 215284.BO: Yahoo returned no data
+BSE,STOCK,SHIGAN,Shigan Quantum Technologies,,208611,NS,SHIGAN.BO,,,0,,SHIGAN.BO: Yahoo returned no data | 208611.BO: Yahoo returned no data
+BSE,STOCK,SHIPROCKET,Shiprocket,,544871,B,SHIPROCKET.BO,,,0,,SHIPROCKET.BO: Only 12 rows; minimum is 30 | 544871.BO: Yahoo returned no data
+BSE,STOCK,SHIVASHRIT,Shivashrit Foods,,213681,NS,SHIVASHRIT.BO,,,0,,SHIVASHRIT.BO: Yahoo returned no data | 213681.BO: Yahoo returned no data
+BSE,STOCK,SHIVAUM,Shiv Aum Steels,,206521,NS,SHIVAUM.BO,,,0,,SHIVAUM.BO: Yahoo returned no data | 206521.BO: Yahoo returned no data
+BSE,STOCK,SHIVKAMAL,Shivkamal Impex,,539683,XT,SHIVKAMAL.BO,,,0,,SHIVKAMAL.BO: Yahoo returned no data | 539683.BO: Yahoo returned no data
+BSE,STOCK,SHKSIL,Shri Hare-Krishna Sponge Iron,,213479,NS,SHKSIL.BO,,,0,,SHKSIL.BO: Yahoo returned no data | 213479.BO: Yahoo returned no data
+BSE,STOCK,SHRADHA,Shradha Realty,,212256,NS,SHRADHA.BO,,,0,,SHRADHA.BO: Yahoo returned no data | 212256.BO: Yahoo returned no data
+BSE,STOCK,SHREECEM,Shree Cement,,500387,A,SHREECEM.BO,,,0,,SHREECEM.BO: Only 1 rows; minimum is 30 | 500387.BO: Yahoo returned no data
+BSE,STOCK,SHREEDHAR,Shreedhar Spinners,,216384,NT,SHREEDHAR.BO,,,0,,SHREEDHAR.BO: Yahoo returned no data | 216384.BO: Yahoo returned no data
+BSE,STOCK,SHREEKARNI,Shree Karni Fabcom,,211257,NS,SHREEKARNI.BO,,,0,,SHREEKARNI.BO: Yahoo returned no data | 211257.BO: Yahoo returned no data
+BSE,STOCK,SHREEOSFM,Shree OSFM e-Mobility,,210924,NS,SHREEOSFM.BO,,,0,,SHREEOSFM.BO: Yahoo returned no data | 210924.BO: Yahoo returned no data
+BSE,STOCK,SHRENIK,Shrenik,,207416,NT,SHRENIK.BO,,,0,,SHRENIK.BO: Yahoo returned no data | 207416.BO: Yahoo returned no data
+BSE,STOCK,SHRENTI,Shreenath Investments,,503696,XT,SHRENTI.BO,,,0,,SHRENTI.BO: Yahoo returned no data | 503696.BO: Yahoo returned no data
+BSE,STOCK,SHRIAHIMSA,Shri Ahimsa Naturals,,213182,NT,SHRIAHIMSA.BO,,,0,,SHRIAHIMSA.BO: Yahoo returned no data | 213182.BO: Yahoo returned no data
+BSE,STOCK,SHRIKANHA,Shri Kanha Stainless,,215422,NS,SHRIKANHA.BO,,,0,,SHRIKANHA.BO: Yahoo returned no data | 215422.BO: Yahoo returned no data
+BSE,STOCK,SHRITECH,Shri Techtex,,210530,NS,SHRITECH.BO,,,0,,SHRITECH.BO: Yahoo returned no data | 210530.BO: Yahoo returned no data
+BSE,STOCK,SHUBHLAXMI,Shubhlaxmi Jewel Art,,201806,NS,SHUBHLAXMI.BO,,,0,,SHUBHLAXMI.BO: Yahoo returned no data | 201806.BO: Yahoo returned no data
+BSE,STOCK,SHUBHSHREE,Shubhshree Biofuels Energy,,211976,NS,SHUBHSHREE.BO,,,0,,SHUBHSHREE.BO: Yahoo returned no data | 211976.BO: Yahoo returned no data
+BSE,STOCK,SHYAMDHANI,Shyam Dhani Industries,,215512,NT,SHYAMDHANI.BO,,,0,,SHYAMDHANI.BO: Yahoo returned no data | 215512.BO: Yahoo returned no data
+BSE,STOCK,SICALLOG,Sical Logistics,,520086,T,SICALLOG.BO,,,0,,SICALLOG.BO: Only 1 rows; minimum is 30 | 520086.BO: Yahoo returned no data
+BSE,STOCK,SIDDHICOTS,Siddhi Cotspin,,213787,NS,SIDDHICOTS.BO,,,0,,SIDDHICOTS.BO: Yahoo returned no data | 213787.BO: Yahoo returned no data
+BSE,STOCK,SIDDHIKA,Siddhika Coatings,,207819,NS,SIDDHIKA.BO,,,0,,SIDDHIKA.BO: Yahoo returned no data | 207819.BO: Yahoo returned no data
+BSE,STOCK,SIDH,Sidh Automobiles,,539983,XT,SIDH.BO,,,0,,SIDH.BO: Yahoo returned no data | 539983.BO: Only 1 rows; minimum is 30
+BSE,STOCK,SIGNORIA,Signoria Creation,,211283,NT,SIGNORIA.BO,,,0,,SIGNORIA.BO: Yahoo returned no data | 211283.BO: Yahoo returned no data
+BSE,STOCK,SIKKO,Sikko Industries,,205751,NT,SIKKO.BO,,,0,,SIKKO.BO: Yahoo returned no data | 205751.BO: Yahoo returned no data
+BSE,STOCK,SILGO,Silgo Retail,,205873,NS,SILGO.BO,,,0,,SILGO.BO: Yahoo returned no data | 205873.BO: Yahoo returned no data
+BSE,STOCK,SILKFLEX,Silkflex Polymers,,211568,NS,SILKFLEX.BO,,,0,,SILKFLEX.BO: Yahoo returned no data | 211568.BO: Yahoo returned no data
+BSE,STOCK,SILKY,Silky Overseas,,213508,NS,SILKY.BO,,,0,,SILKY.BO: Yahoo returned no data | 213508.BO: Yahoo returned no data
+BSE,STOCK,SILLYMONKS,Silly Monks Entertainment,,205181,NS,SILLYMONKS.BO,,,0,,SILLYMONKS.BO: Yahoo returned no data | 205181.BO: Yahoo returned no data
+BSE,STOCK,SIMCA,Simca Advertising,,216256,NT,SIMCA.BO,,,0,,SIMCA.BO: Yahoo returned no data | 216256.BO: Yahoo returned no data
+BSE,STOCK,SINTERCOM,Sintercom,,200306,NS,SINTERCOM.BO,,,0,,SINTERCOM.BO: Yahoo returned no data | 200306.BO: Yahoo returned no data
+BSE,STOCK,SJLOGISTIC,SJ Logistics,,210923,NS,SJLOGISTIC.BO,,,0,,SJLOGISTIC.BO: Yahoo returned no data | 210923.BO: Yahoo returned no data
+BSE,STOCK,SKP$,SKP Bearing Industries,,208938,NS,SKP$.BO,,,0,,SKP$.BO: Yahoo returned no data | 208938.BO: Yahoo returned no data
+BSE,STOCK,SKYTECH,Skytech Infinite Platform,,216532,NS,SKYTECH.BO,,,0,,SKYTECH.BO: Yahoo returned no data | 216532.BO: Yahoo returned no data
+BSE,STOCK,SKYWAYS,Skyways Air Services,,544890,B,SKYWAYS.BO,,,0,,SKYWAYS.BO: Only 3 rows; minimum is 30 | 544890.BO: Yahoo returned no data
+BSE,STOCK,SLONE,Slone Infosystems,,211564,NT,SLONE.BO,,,0,,SLONE.BO: Yahoo returned no data | 211564.BO: Yahoo returned no data
+BSE,STOCK,SMARTEN,Smarten Power Systems,,213528,NT,SMARTEN.BO,,,0,,SMARTEN.BO: Yahoo returned no data | 213528.BO: Yahoo returned no data
+BSE,STOCK,SMCREDT,SMC Credits,,532138,XT,SMCREDT.BO,,,0,,SMCREDT.BO: Yahoo returned no data | 532138.BO: Yahoo returned no data
+BSE,STOCK,SMVD,SMVD Poly Pack,,200223,NS,SMVD.BO,,,0,,SMVD.BO: Yahoo returned no data | 200223.BO: Yahoo returned no data
+BSE,STOCK,SNEHAA,Snehaa Organics,,213708,NS,SNEHAA.BO,,,0,,SNEHAA.BO: Yahoo returned no data | 213708.BO: Yahoo returned no data
+BSE,STOCK,SOCL,Sundrex Oil Company,,215513,NS,SOCL.BO,,,0,,SOCL.BO: Yahoo returned no data | 215513.BO: Yahoo returned no data
+BSE,STOCK,SOLEX,Solex Energy,,544862,B,SOLEX.BO,,,0,,SOLEX.BO: Only 16 rows; minimum is 30 | 544862.BO: Yahoo returned no data
+BSE,STOCK,SONAMAC,Sona Machinery,,211253,NS,SONAMAC.BO,,,0,,SONAMAC.BO: Yahoo returned no data | 211253.BO: Yahoo returned no data
+BSE,STOCK,SONAMLTD,Sonam,,211563,NT,SONAMLTD.BO,,,0,,SONAMLTD.BO: Yahoo returned no data | 211563.BO: Yahoo returned no data
+BSE,STOCK,SONUINFRA,Sonu Infratech,,208763,NT,SONUINFRA.BO,,,0,,SONUINFRA.BO: Yahoo returned no data | 208763.BO: Yahoo returned no data
+BSE,STOCK,SOTAC,Sotac Pharmaceuticals,,209842,NS,SOTAC.BO,,,0,,SOTAC.BO: Yahoo returned no data | 209842.BO: Yahoo returned no data
+BSE,STOCK,SPCENET,Spacenet Enterprises,,203377,NS,SPCENET.BO,,,0,,SPCENET.BO: Yahoo returned no data | 203377.BO: Yahoo returned no data
+BSE,STOCK,SPCL,Shivalic Power Control,,211716,NS,SPCL.BO,,,0,,SPCL.BO: Yahoo returned no data | 211716.BO: Yahoo returned no data
+BSE,STOCK,SPCON,Srinibas Pradhan Constructions,,215881,NS,SPCON.BO,,,0,,SPCON.BO: Yahoo returned no data | 215881.BO: Yahoo returned no data
+BSE,STOCK,SPEB,Speb Adhesives,,215418,NS,SPEB.BO,,,0,,SPEB.BO: Yahoo returned no data | 215418.BO: Yahoo returned no data
+BSE,STOCK,SPECTSTM,Spectrum Talent Management,,210427,NS,SPECTSTM.BO,,,0,,SPECTSTM.BO: Yahoo returned no data | 210427.BO: Yahoo returned no data
+BSE,STOCK,SPLIL,SPL Industries,,532651,B,SPLIL.BO,,,0,,SPLIL.BO: Only 1 rows; minimum is 30 | 532651.BO: Yahoo returned no data
+BSE,STOCK,SPPPOLY,SPP Polymer,,211978,NS,SPPPOLY.BO,,,0,,SPPPOLY.BO: Yahoo returned no data | 211978.BO: Yahoo returned no data
+BSE,STOCK,SPRL,SP Refractories,,208626,NS,SPRL.BO,,,0,,SPRL.BO: Yahoo returned no data | 208626.BO: Yahoo returned no data
+BSE,STOCK,SPUNWEB,Spunweb Nonwoven,,213552,NS,SPUNWEB.BO,,,0,,SPUNWEB.BO: Yahoo returned no data | 213552.BO: Yahoo returned no data
+BSE,STOCK,SRIVASAVI,Srivasavi Adhesive Tapes,,209532,NT,SRIVASAVI.BO,,,0,,SRIVASAVI.BO: Yahoo returned no data | 209532.BO: Yahoo returned no data
+BSE,STOCK,SSEGL,Sathlokhar Synergys E&C Global,,211833,NS,SSEGL.BO,,,0,,SSEGL.BO: Yahoo returned no data | 211833.BO: Yahoo returned no data
+BSE,STOCK,SSFL,Srivari Spices & Foods,,210547,NT,SSFL.BO,,,0,,SSFL.BO: Yahoo returned no data | 210547.BO: Yahoo returned no data
+BSE,STOCK,SSPRL,Silverstorm Parks & Resorts,,544840,M,SSPRL.BO,,,0,,SSPRL.BO: Only 25 rows; minimum is 30 | 544840.BO: Yahoo returned no data
+BSE,STOCK,STEELCITY,Steel City Securities,,204419,NS,STEELCITY.BO,,,0,,STEELCITY.BO: Yahoo returned no data | 204419.BO: Yahoo returned no data
+BSE,STOCK,STRAEXPO,Sophia Traexpo,,541633,XT,STRAEXPO.BO,,,0,,STRAEXPO.BO: Yahoo returned no data | 541633.BO: Only 1 rows; minimum is 30
+BSE,STOCK,STRIDERS,Striders Impex,,215841,NS,STRIDERS.BO,,,0,,STRIDERS.BO: Yahoo returned no data | 215841.BO: Yahoo returned no data
+BSE,STOCK,STUDIOLSD,Studio LSD,,213670,NS,STUDIOLSD.BO,,,0,,STUDIOLSD.BO: Yahoo returned no data | 213670.BO: Yahoo returned no data
+BSE,STOCK,SUBAHOTELS,Suba Hotels,,215180,NS,SUBAHOTELS.BO,,,0,,SUBAHOTELS.BO: Yahoo returned no data | 215180.BO: Yahoo returned no data
+BSE,STOCK,SUERYAAKNI,Sueryaa Knitwear,,540318,XT,SUERYAAKNI.BO,,,0,,SUERYAAKNI.BO: Yahoo returned no data | 540318.BO: Yahoo returned no data
+BSE,STOCK,SUMAX,Sumax Engineering,,216567,NT,SUMAX.BO,,,0,,SUMAX.BO: Yahoo returned no data | 216567.BO: Yahoo returned no data
+BSE,STOCK,SUMIT,Sumit Woods,,202533,NS,SUMIT.BO,,,0,,SUMIT.BO: Yahoo returned no data | 202533.BO: Yahoo returned no data
+BSE,STOCK,SUNDRMFAST,Sundram Fasteners,,500403,A,SUNDRMFAST.BO,,,0,,SUNDRMFAST.BO: Only 1 rows; minimum is 30 | 500403.BO: Yahoo returned no data
+BSE,STOCK,SUNLITE,Sunlite Recycling Industries,,211883,NS,SUNLITE.BO,,,0,,SUNLITE.BO: Yahoo returned no data | 211883.BO: Yahoo returned no data
+BSE,STOCK,SUNPHARMA,Sun Pharmaceutical,,524715,A,SUNPHARMA.BO,,,0,,SUNPHARMA.BO: Only 1 rows; minimum is 30 | 524715.BO: Yahoo returned no data
+BSE,STOCK,SUNREST,Sunrest Lifescience,,210820,NS,SUNREST.BO,,,0,,SUNREST.BO: Yahoo returned no data | 210820.BO: Yahoo returned no data
+BSE,STOCK,SUNSHINE,Sunshine Pictures,,544881,B,SUNSHINE.BO,,,0,,SUNSHINE.BO: Only 8 rows; minimum is 30 | 544881.BO: Yahoo returned no data
+BSE,STOCK,SUNTECH,Suntech Infra Solutions,,213482,NS,SUNTECH.BO,,,0,,SUNTECH.BO: Yahoo returned no data | 213482.BO: Yahoo returned no data
+BSE,STOCK,SUNTV,Sun TV Network,,532733,A,SUNTV.BO,,,0,,SUNTV.BO: Only 1 rows; minimum is 30 | 532733.BO: Yahoo returned no data
+BSE,STOCK,SUPREMEPWR,Supreme Power Equipment,,210970,NS,SUPREMEPWR.BO,,,0,,SUPREMEPWR.BO: Yahoo returned no data | 210970.BO: Yahoo returned no data
+BSE,STOCK,SURANI,Surani Steel Tubes,,200566,NS,SURANI.BO,,,0,,SURANI.BO: Yahoo returned no data | 200566.BO: Yahoo returned no data
+BSE,STOCK,SURYAINDIA,Surya,,539253,X,SURYAINDIA.BO,,,0,,SURYAINDIA.BO: Yahoo returned no data | 539253.BO: Only 1 rows; minimum is 30
+BSE,STOCK,SURYAROSNI,Surya Roshni,,500336,B,SURYAROSNI.BO,,,0,,SURYAROSNI.BO: Only 1 rows; minimum is 30 | 500336.BO: Yahoo returned no data
+BSE,STOCK,SUTLEJTEX,Sutlej Textiles & Industries,,532782,T,SUTLEJTEX.BO,,,0,,SUTLEJTEX.BO: Only 1 rows; minimum is 30 | 532782.BO: Yahoo returned no data
+BSE,STOCK,SUVEN,Suven Life Sciences,,530239,B,SUVEN.BO,,,0,,SUVEN.BO: Only 1 rows; minimum is 30 | 530239.BO: Yahoo returned no data
+BSE,STOCK,SVAINDIA,SVA India,,531885,P,SVAINDIA.BO,,,0,,SVAINDIA.BO: Yahoo returned no data | 531885.BO: Only 1 rows; minimum is 30
+BSE,STOCK,SVLL,Shree Vasu Logistics,,202807,NT,SVLL.BO,,,0,,SVLL.BO: Yahoo returned no data | 202807.BO: Yahoo returned no data
+BSE,STOCK,SWARAJ,Swaraj Suiting,,544861,T,SWARAJ.BO,,,0,,SWARAJ.BO: Only 16 rows; minimum is 30 | 544861.BO: Yahoo returned no data
+BSE,STOCK,SWARAJENG,Swaraj Engines,,500407,B,SWARAJENG.BO,,,0,,SWARAJENG.BO: Only 1 rows; minimum is 30 | 500407.BO: Yahoo returned no data
+BSE,STOCK,SWASTIK,Swastik Pipe,,209173,NT,SWASTIK.BO,,,0,,SWASTIK.BO: Yahoo returned no data | 209173.BO: Yahoo returned no data
+BSE,STOCK,SYLVANPLY,Sylvan Plyboard,,211713,NS,SYLVANPLY.BO,,,0,,SYLVANPLY.BO: Yahoo returned no data | 211713.BO: Yahoo returned no data
+BSE,STOCK,SYMBIOTEC,Symbiotec Pharmalab,,544889,B,SYMBIOTEC.BO,,,0,,SYMBIOTEC.BO: Only 3 rows; minimum is 30 | 544889.BO: Yahoo returned no data
+BSE,STOCK,SYNOPTICS,Synoptics Technologies,,210476,NT,SYNOPTICS.BO,,,0,,SYNOPTICS.BO: Yahoo returned no data | 210476.BO: Yahoo returned no data
+BSE,STOCK,SYSTANGO,Systango Technologies,,209554,NS,SYSTANGO.BO,,,0,,SYSTANGO.BO: Yahoo returned no data | 209554.BO: Yahoo returned no data
+BSE,STOCK,TAC,TAC Infosec,,211492,NT,TAC.BO,,,0,,TAC.BO: Yahoo returned no data | 211492.BO: Yahoo returned no data
+BSE,STOCK,TAJGVK,Taj GVK Hotels & Resorts,,532390,B,TAJGVK.BO,,,0,,TAJGVK.BO: Only 1 rows; minimum is 30 | 532390.BO: Yahoo returned no data
+BSE,STOCK,TAPIFRUIT,Tapi Fruit Processing,,209115,NS,TAPIFRUIT.BO,,,0,,TAPIFRUIT.BO: Yahoo returned no data | 209115.BO: Yahoo returned no data
+BSE,STOCK,TARACHAND,Tara Chand Infralogistics Solutions,,212236,NS,TARACHAND.BO,,,0,,TARACHAND.BO: Yahoo returned no data | 212236.BO: Yahoo returned no data
+BSE,STOCK,TASHIND,Tashi,,512271,XT,TASHIND.BO,,,0,,TASHIND.BO: Yahoo returned no data | 512271.BO: Only 1 rows; minimum is 30
+BSE,STOCK,TATACHEM,Tata Chemicals,,500770,A,TATACHEM.BO,,,0,,TATACHEM.BO: Only 1 rows; minimum is 30 | 500770.BO: Yahoo returned no data
+BSE,STOCK,TATACOMM,Tata Communications,,500483,A,TATACOMM.BO,,,0,,TATACOMM.BO: Only 1 rows; minimum is 30 | 500483.BO: Yahoo returned no data
+BSE,STOCK,TATAELXSI,Tata Elxsi,,500408,A,TATAELXSI.BO,,,0,,TATAELXSI.BO: Only 1 rows; minimum is 30 | 500408.BO: Yahoo returned no data
+BSE,STOCK,TATAINVEST,Tata Investment Corporation,,501301,A,TATAINVEST.BO,,,0,,TATAINVEST.BO: Only 1 rows; minimum is 30 | 501301.BO: Yahoo returned no data
+BSE,STOCK,TATAPOWER,Tata Power,,500400,A,TATAPOWER.BO,,,0,,TATAPOWER.BO: Only 1 rows; minimum is 30 | 500400.BO: Yahoo returned no data
+BSE,STOCK,TAURIAN,Taurian MPS,,213752,NT,TAURIAN.BO,,,0,,TAURIAN.BO: Yahoo returned no data | 213752.BO: Yahoo returned no data
+BSE,STOCK,TBI,TBI Corn,,211659,NS,TBI.BO,,,0,,TBI.BO: Yahoo returned no data | 211659.BO: Yahoo returned no data
+BSE,STOCK,TCI,Transport Corporation of India,,532349,B,TCI.BO,,,0,,TCI.BO: Only 1 rows; minimum is 30 | 532349.BO: Yahoo returned no data
+BSE,STOCK,TCL,Thaai Casting,,211173,NS,TCL.BO,,,0,,TCL.BO: Yahoo returned no data | 211173.BO: Yahoo returned no data
+BSE,STOCK,TEAMTECH,Teamtech Formwork Solutions,,216281,NT,TEAMTECH.BO,,,0,,TEAMTECH.BO: Yahoo returned no data | 216281.BO: Yahoo returned no data
+BSE,STOCK,TECHD,TechD Cybersecurity,,213778,NS,TECHD.BO,,,0,,TECHD.BO: Yahoo returned no data | 213778.BO: Yahoo returned no data
+BSE,STOCK,TECHERA,TechEra Engineering,,212053,NS,TECHERA.BO,,,0,,TECHERA.BO: Yahoo returned no data | 212053.BO: Yahoo returned no data
+BSE,STOCK,TECHLABS,Trident Techlabs,,210969,NS,TECHLABS.BO,,,0,,TECHLABS.BO: Yahoo returned no data | 210969.BO: Yahoo returned no data
+BSE,STOCK,TECHM,Tech Mahindra,,532755,A,TECHM.BO,,,0,,TECHM.BO: Only 1 rows; minimum is 30 | 532755.BO: Yahoo returned no data
+BSE,STOCK,TECHNOCRAF,Technocraft Ventures,,544864,B,TECHNOCRAF.BO,,,0,,TECHNOCRAF.BO: Only 15 rows; minimum is 30 | 544864.BO: Yahoo returned no data
+BSE,STOCK,TECHNOCRAT,Technocrats Plasma Systems,,544877,M,TECHNOCRAT.BO,,,0,,TECHNOCRAT.BO: Only 10 rows; minimum is 30 | 544877.BO: Yahoo returned no data
+BSE,STOCK,TEJA,Teja Engineering Industries,,216401,NS,TEJA.BO,,,0,,TEJA.BO: Yahoo returned no data | 216401.BO: Yahoo returned no data
+BSE,STOCK,TEJASCARGO,Tejas Cargo,,212532,NS,TEJASCARGO.BO,,,0,,TEJASCARGO.BO: Yahoo returned no data | 212532.BO: Yahoo returned no data
+BSE,STOCK,TEMBO,Tembo Global Industries,,200761,NS,TEMBO.BO,,,0,,TEMBO.BO: Yahoo returned no data | 200761.BO: Yahoo returned no data
+BSE,STOCK,TEMPSENS,Tempsens Instruments,,544886,B,TEMPSENS.BO,,,0,,TEMPSENS.BO: Only 5 rows; minimum is 30 | 544886.BO: Yahoo returned no data
+BSE,STOCK,TERRAFORM,Terraform Magnum,,506162,P,TERRAFORM.BO,,,0,,TERRAFORM.BO: Yahoo returned no data | 506162.BO: Yahoo returned no data
+BSE,STOCK,TERRAREAL,Terraform Realstate,,512157,P,TERRAREAL.BO,,,0,,TERRAREAL.BO: Yahoo returned no data | 512157.BO: Yahoo returned no data
+BSE,STOCK,TFLL,Tirupati Fin-Lease,,539488,XT,TFLL.BO,,,0,,TFLL.BO: Yahoo returned no data | 539488.BO: Yahoo returned no data
+BSE,STOCK,TGL,Teerth Gopicon,,211508,NT,TGL.BO,,,0,,TGL.BO: Yahoo returned no data | 211508.BO: Yahoo returned no data
+BSE,STOCK,THEJO,Thejo Engineering,,204968,NS,THEJO.BO,,,0,,THEJO.BO: Yahoo returned no data | 204968.BO: Yahoo returned no data
+BSE,STOCK,THERMAX,Thermax,,500411,A,THERMAX.BO,,,0,,THERMAX.BO: Only 1 rows; minimum is 30 | 500411.BO: Yahoo returned no data
+BSE,STOCK,THESL,Thinking Hats Entertainment Solutions,,212054,NT,THESL.BO,,,0,,THESL.BO: Yahoo returned no data | 212054.BO: Yahoo returned no data
+BSE,STOCK,THOMASCOOK,Thomas Cook,,500413,A,THOMASCOOK.BO,,,0,,THOMASCOOK.BO: Only 1 rows; minimum is 30 | 500413.BO: Yahoo returned no data
+BSE,STOCK,TIMESCAN,Timescan Logistics,,208475,NS,TIMESCAN.BO,,,0,,TIMESCAN.BO: Yahoo returned no data | 208475.BO: Yahoo returned no data
+BSE,STOCK,TIPCO,Tipco Engineering,,544740,MT,TIPCO.BO,,,0,,TIPCO.BO: Only 1 rows; minimum is 30 | 544740.BO: Yahoo returned no data
+BSE,STOCK,TIRUPATI,Shree Tirupati Balajee,,203793,NS,TIRUPATI.BO,,,0,,TIRUPATI.BO: Yahoo returned no data | 203793.BO: Yahoo returned no data
+BSE,STOCK,TIRUPATIFL,Tirupati Forge,,208300,NT,TIRUPATIFL.BO,,,0,,TIRUPATIFL.BO: Yahoo returned no data | 208300.BO: Yahoo returned no data
+BSE,STOCK,TITAN,Titan,,500114,A,TITAN.BO,,,0,,TITAN.BO: Only 1 rows; minimum is 30 | 500114.BO: Yahoo returned no data
+BSE,STOCK,TNPETRO,Tamilnadu Petroproducts,,500777,B,TNPETRO.BO,,,0,,TNPETRO.BO: Only 1 rows; minimum is 30 | 500777.BO: Yahoo returned no data
+BSE,STOCK,TOTAL,Total Transport Systems,,203634,NS,TOTAL.BO,,,0,,TOTAL.BO: Yahoo returned no data | 203634.BO: Yahoo returned no data
+BSE,STOCK,TOUCHWOOD,Touchwood Entertainment,,201342,NS,TOUCHWOOD.BO,,,0,,TOUCHWOOD.BO: Yahoo returned no data | 201342.BO: Yahoo returned no data
+BSE,STOCK,TRANOCE,Transoceanic Properties,,509003,XT,TRANOCE.BO,,,0,,TRANOCE.BO: Yahoo returned no data | 509003.BO: Only 1 rows; minimum is 30
+BSE,STOCK,TRANSTEEL,Transteel Seating,,210786,NS,TRANSTEEL.BO,,,0,,TRANSTEEL.BO: Yahoo returned no data | 210786.BO: Yahoo returned no data
+BSE,STOCK,TRANSWIND,Transwind Infrastructures,,202490,NS,TRANSWIND.BO,,,0,,TRANSWIND.BO: Yahoo returned no data | 202490.BO: Yahoo returned no data
+BSE,STOCK,TRENT,Trent,,500251,A,TRENT.BO,,,0,,TRENT.BO: Only 1 rows; minimum is 30 | 500251.BO: Yahoo returned no data
+BSE,STOCK,TRIDHYA,Tridhya Tech,,210477,NT,TRIDHYA.BO,,,0,,TRIDHYA.BO: Yahoo returned no data | 210477.BO: Yahoo returned no data
+BSE,STOCK,TRIPR,Triochem Products,,512101,XT,TRIPR.BO,,,0,,TRIPR.BO: Yahoo returned no data | 512101.BO: Only 1 rows; minimum is 30
+BSE,STOCK,TROM,Trom Industries,,211805,NS,TROM.BO,,,0,,TROM.BO: Yahoo returned no data | 211805.BO: Yahoo returned no data
+BSE,STOCK,TRUST,Trust Fintech,,211477,NS,TRUST.BO,,,0,,TRUST.BO: Yahoo returned no data | 211477.BO: Yahoo returned no data
+BSE,STOCK,TSC,TSC,,213576,NT,TSC.BO,,,0,,TSC.BO: Yahoo returned no data | 213576.BO: Yahoo returned no data
+BSE,STOCK,TSFINV,TSF Investments,,200995,NS,TSFINV.BO,,,0,,TSFINV.BO: Yahoo returned no data | 200995.BO: Yahoo returned no data
+BSE,STOCK,TTLEL,TTL Enterprises,,514236,XT,TTLEL.BO,,,0,,TTLEL.BO: Yahoo returned no data | 514236.BO: Yahoo returned no data
+BSE,STOCK,TUNWAL,Tunwal e-Motors,,211779,NS,TUNWAL.BO,,,0,,TUNWAL.BO: Yahoo returned no data | 211779.BO: Yahoo returned no data
+BSE,STOCK,TYPHOON,Typhoon Holdings,,512307,XT,TYPHOON.BO,,,0,,TYPHOON.BO: Yahoo returned no data | 512307.BO: Yahoo returned no data
+BSE,STOCK,UFLEX,UFLEX,,500148,B,UFLEX.BO,,,0,,UFLEX.BO: Only 1 rows; minimum is 30 | 500148.BO: Yahoo returned no data
+BSE,STOCK,UFMINDL,UFM Industries,,531610,XT,UFMINDL.BO,,,0,,UFMINDL.BO: Yahoo returned no data | 531610.BO: Yahoo returned no data
+BSE,STOCK,UMA,Uma Converter,,209345,NS,UMA.BO,,,0,,UMA.BO: Yahoo returned no data | 209345.BO: Yahoo returned no data
+BSE,STOCK,UNIENTER,Uniphos Enterprises,,500429,B,UNIENTER.BO,,,0,,UNIENTER.BO: Only 1 rows; minimum is 30 | 500429.BO: Yahoo returned no data
+BSE,STOCK,UNIHEALTH,Unihealth Hospitals,,210616,NS,UNIHEALTH.BO,,,0,,UNIHEALTH.BO: Yahoo returned no data | 210616.BO: Yahoo returned no data
+BSE,STOCK,UNIINFO,UNIINFO Telecom Services,,201673,NS,UNIINFO.BO,,,0,,UNIINFO.BO: Yahoo returned no data | 201673.BO: Yahoo returned no data
+BSE,STOCK,UNIJOLL,Unijolly Investments Co,,503671,XT,UNIJOLL.BO,,,0,,UNIJOLL.BO: Yahoo returned no data | 503671.BO: Only 1 rows; minimum is 30
+BSE,STOCK,UNILEX,Unilex Colours and Chemicals,,212052,NS,UNILEX.BO,,,0,,UNILEX.BO: Yahoo returned no data | 212052.BO: Yahoo returned no data
+BSE,STOCK,UNITECH,Unitech Group,,507878,B,UNITECH.BO,,,0,,UNITECH.BO: Only 1 rows; minimum is 30 | 507878.BO: Yahoo returned no data
+BSE,STOCK,UNITEDTEA,United Nilgiri Tea,,202383,NS,UNITEDTEA.BO,,,0,,UNITEDTEA.BO: Yahoo returned no data | 202383.BO: Yahoo returned no data
+BSE,STOCK,UNIVASTU,Univastu,,202099,NT,UNIVASTU.BO,,,0,,UNIVASTU.BO: Yahoo returned no data | 202099.BO: Yahoo returned no data
+BSE,STOCK,UNIWSEC,Uniworth Securities,,512408,XT,UNIWSEC.BO,,,0,,UNIWSEC.BO: Yahoo returned no data | 512408.BO: Only 1 rows; minimum is 30
+BSE,STOCK,URBAN,Urban Enviro Waste Management,,210426,NS,URBAN.BO,,,0,,URBAN.BO: Yahoo returned no data | 210426.BO: Yahoo returned no data
+BSE,STOCK,USASEEDS,Upsurge Seeds of Agriculture,,209006,NS,USASEEDS.BO,,,0,,USASEEDS.BO: Yahoo returned no data | 209006.BO: Yahoo returned no data
+BSE,STOCK,USHAFIN,Usha Financial Services,,212142,NS,USHAFIN.BO,,,0,,USHAFIN.BO: Yahoo returned no data | 212142.BO: Yahoo returned no data
+BSE,STOCK,USK,Udayshivkumar Infra,,543861,B,USK.BO,,,0,,USK.BO: Only 1 rows; minimum is 30 | 543861.BO: Yahoo returned no data
+BSE,STOCK,UTKAL,Utkal Speciality Industries,,216342,NS,UTKAL.BO,,,0,,UTKAL.BO: Yahoo returned no data | 216342.BO: Yahoo returned no data
+BSE,STOCK,UTSSAV,Utssav CZ Gold Jewels,,211835,NT,UTSSAV.BO,,,0,,UTSSAV.BO: Yahoo returned no data | 211835.BO: Yahoo returned no data
+BSE,STOCK,UWCSL,Ultra Wiring Connect,,200766,NS,UWCSL.BO,,,0,,UWCSL.BO: Yahoo returned no data | 200766.BO: Yahoo returned no data
+BSE,STOCK,VAISHALI,Vaishali Pharma,,212107,NS,VAISHALI.BO,,,0,,VAISHALI.BO: Yahoo returned no data | 212107.BO: Yahoo returned no data
+BSE,STOCK,VALLEY,Valley Magnesite Company,,539543,X,VALLEY.BO,,,0,,VALLEY.BO: Yahoo returned no data | 539543.BO: Only 1 rows; minimum is 30
+BSE,STOCK,VALUE360,Value 360 Communications,,216250,NS,VALUE360.BO,,,0,,VALUE360.BO: Yahoo returned no data | 216250.BO: Yahoo returned no data
+BSE,STOCK,VARDHACRLC,Vardhaman Acrylics,,201471,NT,VARDHACRLC.BO,,,0,,VARDHACRLC.BO: Yahoo returned no data | 201471.BO: Yahoo returned no data
+BSE,STOCK,VARDHANCFL,Vardhan Capital & Finance,,542931,XT,VARDHANCFL.BO,,,0,,VARDHANCFL.BO: Only 1 rows; minimum is 30 | 542931.BO: Yahoo returned no data
+BSE,STOCK,VASA,Vasa Retail & Overseas,,203016,NS,VASA.BO,,,0,,VASA.BO: Yahoo returned no data | 203016.BO: Yahoo returned no data
+BSE,STOCK,VCL,Vaxtex Cotfab,,209472,NT,VCL.BO,,,0,,VCL.BO: Yahoo returned no data | 209472.BO: Yahoo returned no data
+BSE,STOCK,VDEAL,Vdeal System,,211933,NS,VDEAL.BO,,,0,,VDEAL.BO: Yahoo returned no data | 211933.BO: Yahoo returned no data
+BSE,STOCK,VEEKAYEM,Veekayem Fashion & Apparels,,209046,NS,VEEKAYEM.BO,,,0,,VEEKAYEM.BO: Yahoo returned no data | 209046.BO: Yahoo returned no data
+BSE,STOCK,VELOX,Velox Shipping and Logistics,,506178,XT,VELOX.BO,,,0,,VELOX.BO: Yahoo returned no data | 506178.BO: Only 1 rows; minimum is 30
+BSE,STOCK,VELS,Vels Film International,,209600,NT,VELS.BO,,,0,,VELS.BO: Yahoo returned no data | 209600.BO: Yahoo returned no data
+BSE,STOCK,VERA,Vera Synthetic,,202708,NS,VERA.BO,,,0,,VERA.BO: Yahoo returned no data | 202708.BO: Yahoo returned no data
+BSE,STOCK,VERITAAS,Veritaas Advertising,,211584,NS,VERITAAS.BO,,,0,,VERITAAS.BO: Yahoo returned no data | 211584.BO: Yahoo returned no data
+BSE,STOCK,VERTEXPLUS,Vertexplus Technologies,,209553,NS,VERTEXPLUS.BO,,,0,,VERTEXPLUS.BO: Yahoo returned no data | 209553.BO: Yahoo returned no data
+BSE,STOCK,VERTOZ,Vertoz,,211747,NS,VERTOZ.BO,,,0,,VERTOZ.BO: Yahoo returned no data | 211747.BO: Yahoo returned no data
+BSE,STOCK,VGINFOTECH,Virtual Galaxy Infotech,,213321,NS,VGINFOTECH.BO,,,0,,VGINFOTECH.BO: Yahoo returned no data | 213321.BO: Yahoo returned no data
+BSE,STOCK,VIAZ,Viaz Tyres,,209508,NS,VIAZ.BO,,,0,,VIAZ.BO: Yahoo returned no data | 209508.BO: Yahoo returned no data
+BSE,STOCK,VICTORYEV,Victory Electric Vehicles International,,215572,NS,VICTORYEV.BO,,,0,,VICTORYEV.BO: Yahoo returned no data | 215572.BO: Yahoo returned no data
+BSE,STOCK,VIESL,Vision Infra Equipment Solutions,,211971,NS,VIESL.BO,,,0,,VIESL.BO: Yahoo returned no data | 211971.BO: Yahoo returned no data
+BSE,STOCK,VIGOR,Vigor Plast,,213737,NT,VIGOR.BO,,,0,,VIGOR.BO: Yahoo returned no data | 213737.BO: Yahoo returned no data
+BSE,STOCK,VIJAYPD,Vijaypd Ceutical,,215181,NS,VIJAYPD.BO,,,0,,VIJAYPD.BO: Yahoo returned no data | 215181.BO: Yahoo returned no data
+BSE,STOCK,VIKSHEN,Viksit Engineering,,506196,XT,VIKSHEN.BO,,,0,,VIKSHEN.BO: Yahoo returned no data | 506196.BO: Only 1 rows; minimum is 30
+BSE,STOCK,VILAS,Vilas Transcore,,211629,NS,VILAS.BO,,,0,,VILAS.BO: Yahoo returned no data | 211629.BO: Yahoo returned no data
+BSE,STOCK,VILINBIO,Vilin Bio Med,,210435,NS,VILINBIO.BO,,,0,,VILINBIO.BO: Yahoo returned no data | 210435.BO: Yahoo returned no data
+BSE,STOCK,VINSYS,Vinsys IT Services,,210540,NT,VINSYS.BO,,,0,,VINSYS.BO: Yahoo returned no data | 210540.BO: Yahoo returned no data
+BSE,STOCK,VINVANI,VINVANI,,512517,XT,VINVANI.BO,,,0,,VINVANI.BO: Yahoo returned no data | 512517.BO: Yahoo returned no data
+BSE,STOCK,VINYAS,Vinyas Innovative Technologies,,210684,NS,VINYAS.BO,,,0,,VINYAS.BO: Yahoo returned no data | 210684.BO: Yahoo returned no data
+BSE,STOCK,VIPIND,VIP Industries,,507880,A,VIPIND.BO,,,0,,VIPIND.BO: Only 1 rows; minimum is 30 | 507880.BO: Yahoo returned no data
+BSE,STOCK,VISAMAN,Visaman Global Sales,,211714,NS,VISAMAN.BO,,,0,,VISAMAN.BO: Yahoo returned no data | 211714.BO: Yahoo returned no data
+BSE,STOCK,VISDEM,Visdem Technosys,,210632,NS,VISDEM.BO,,,0,,VISDEM.BO: Yahoo returned no data | 210632.BO: Yahoo returned no data
+BSE,STOCK,VISHNUINFR,Vishnusurya Projects,,210691,NS,VISHNUINFR.BO,,,0,,VISHNUINFR.BO: Yahoo returned no data | 210691.BO: Yahoo returned no data
+BSE,STOCK,VISHWAS,VISHWAS,,211460,NT,VISHWAS.BO,,,0,,VISHWAS.BO: Yahoo returned no data | 211460.BO: Yahoo returned no data
+BSE,STOCK,VITAL,Vital Chemtech,,209238,NS,VITAL.BO,,,0,,VITAL.BO: Yahoo returned no data | 209238.BO: Yahoo returned no data
+BSE,STOCK,VIVIANA,Viviana Power Tech,,209109,NT,VIVIANA.BO,,,0,,VIVIANA.BO: Yahoo returned no data | 209109.BO: Yahoo returned no data
+BSE,STOCK,VIVIDEL,Vivid Electromech,,216132,NS,VIVIDEL.BO,,,0,,VIVIDEL.BO: Yahoo returned no data | 216132.BO: Yahoo returned no data
+BSE,STOCK,VIVO,Vivo Collaboration Solutions,,208433,NT,VIVO.BO,,,0,,VIVO.BO: Yahoo returned no data | 208433.BO: Yahoo returned no data
+BSE,STOCK,VLINFRA,VL Infra Projects,,211799,NS,VLINFRA.BO,,,0,,VLINFRA.BO: Yahoo returned no data | 211799.BO: Yahoo returned no data
+BSE,STOCK,VMARCIND,V Marc,,207825,NS,VMARCIND.BO,,,0,,VMARCIND.BO: Yahoo returned no data | 207825.BO: Yahoo returned no data
+BSE,STOCK,VMOBILE,Vinit Mobile,,216402,NS,VMOBILE.BO,,,0,,VMOBILE.BO: Yahoo returned no data | 216402.BO: Yahoo returned no data
+BSE,STOCK,VOLERCAR,Voler Car,,212508,NS,VOLERCAR.BO,,,0,,VOLERCAR.BO: Yahoo returned no data | 212508.BO: Yahoo returned no data
+BSE,STOCK,VOLTAS,Voltas,,500575,A,VOLTAS.BO,,,0,,VOLTAS.BO: Only 1 rows; minimum is 30 | 500575.BO: Yahoo returned no data
+BSE,STOCK,VR,VR Infraspace,,211250,NS,VR.BO,,,0,,VR.BO: Yahoo returned no data | 211250.BO: Yahoo returned no data
+BSE,STOCK,VRAJ,Vraj Iron and Steel,,544204,B,VRAJ.BO,,,0,,VRAJ.BO: Only 1 rows; minimum is 30 | 544204.BO: Yahoo returned no data
+BSE,STOCK,VSCL,Vadivarhe Speciality Chemicals,,201000,NS,VSCL.BO,,,0,,VSCL.BO: Yahoo returned no data | 201000.BO: Yahoo returned no data
+BSE,STOCK,WALPAR,Walpar Nutritions,,208105,NS,WALPAR.BO,,,0,,WALPAR.BO: Yahoo returned no data | 208105.BO: Yahoo returned no data
+BSE,STOCK,WEL,Wonder Electricals,,543449,B,WEL.BO,,,0,,WEL.BO: Only 1 rows; minimum is 30 | 543449.BO: Yahoo returned no data
+BSE,STOCK,WHIRLPOOL,Whirlpool,,500238,A,WHIRLPOOL.BO,,,0,,WHIRLPOOL.BO: Only 1 rows; minimum is 30 | 500238.BO: Yahoo returned no data
+BSE,STOCK,WHITEFORCE,Happy Square Outsourcing Services,,213514,NS,WHITEFORCE.BO,,,0,,WHITEFORCE.BO: Yahoo returned no data | 213514.BO: Yahoo returned no data
+BSE,STOCK,WHITHAL,White Hall Commercial,,512431,XT,WHITHAL.BO,,,0,,WHITHAL.BO: Yahoo returned no data | 512431.BO: Only 1 rows; minimum is 30
+BSE,STOCK,WINNY,Winny Immigration & Education Services,,211694,NS,WINNY.BO,,,0,,WINNY.BO: Yahoo returned no data | 211694.BO: Yahoo returned no data
+BSE,STOCK,WINROC,Winro Commercial,,512022,XT,WINROC.BO,,,0,,WINROC.BO: Yahoo returned no data | 512022.BO: Only 1 rows; minimum is 30
+BSE,STOCK,WINSOL,Winsol Engineers,,211565,NS,WINSOL.BO,,,0,,WINSOL.BO: Yahoo returned no data | 211565.BO: Yahoo returned no data
+BSE,STOCK,WIPL,Western India Ply,,205116,NS,WIPL.BO,,,0,,WIPL.BO: Yahoo returned no data | 205116.BO: Yahoo returned no data
+BSE,STOCK,WOL3D,Wol 3D India,,212046,NS,WOL3D.BO,,,0,,WOL3D.BO: Yahoo returned no data | 212046.BO: Yahoo returned no data
+BSE,STOCK,WOMANCART,WomanCart,,210746,NT,WOMANCART.BO,,,0,,WOMANCART.BO: Yahoo returned no data | 210746.BO: Yahoo returned no data
+BSE,STOCK,WTICAB,Wise Travel India,,211146,NS,WTICAB.BO,,,0,,WTICAB.BO: Yahoo returned no data | 211146.BO: Yahoo returned no data
+BSE,STOCK,XTRANET,Xtranet Technologies,,544838,B,XTRANET.BO,,,0,,XTRANET.BO: Only 25 rows; minimum is 30 | 544838.BO: Yahoo returned no data
+BSE,STOCK,YAAP,Yaap Digital,,215837,NS,YAAP.BO,,,0,,YAAP.BO: Yahoo returned no data | 215837.BO: Yahoo returned no data
+BSE,STOCK,YASHOPTICS,Yash Optics & Lens,,211495,NS,YASHOPTICS.BO,,,0,,YASHOPTICS.BO: Yahoo returned no data | 211495.BO: Yahoo returned no data
+BSE,STOCK,YCCL,Yasons Chemex Care,,210517,NS,YCCL.BO,,,0,,YCCL.BO: Yahoo returned no data | 210517.BO: Yahoo returned no data
+BSE,STOCK,YUDIZ,Yudiz Solutions,,210544,NS,YUDIZ.BO,,,0,,YUDIZ.BO: Yahoo returned no data | 210544.BO: Yahoo returned no data
+BSE,STOCK,ZARCOLEA,Arco Leasing,,511038,XT,ZARCOLEA.BO,,,0,,ZARCOLEA.BO: Yahoo returned no data | 511038.BO: Yahoo returned no data
+BSE,STOCK,ZEAL$,Zeal Global Services,,210532,NS,ZEAL$.BO,,,0,,ZEAL$.BO: Yahoo returned no data | 210532.BO: Yahoo returned no data
+BSE,STOCK,ZENITHDRUG,Zenith Drugs,,211179,NS,ZENITHDRUG.BO,,,0,,ZENITHDRUG.BO: Yahoo returned no data | 211179.BO: Yahoo returned no data
+BSE,STOCK,ZHINDHSG,Hindustan Housing,,509650,XT,ZHINDHSG.BO,,,0,,ZHINDHSG.BO: Yahoo returned no data | 509650.BO: Only 1 rows; minimum is 30
+BSE,STOCK,ZMANSOON,Mansoon Trading,,512303,P,ZMANSOON.BO,,,0,,ZMANSOON.BO: Yahoo returned no data | 512303.BO: Yahoo returned no data
+BSE,STOCK,ZNILKENG,Nilkanth Engineering,,512004,P,ZNILKENG.BO,,,0,,ZNILKENG.BO: Yahoo returned no data | 512004.BO: Yahoo returned no data
+BSE,STOCK,ZNIVITRD,Nivi Trading,,512245,P,ZNIVITRD.BO,,,0,,ZNIVITRD.BO: Yahoo returned no data | 512245.BO: Yahoo returned no data
+BSE,STOCK,ZODIAC,Zodiac Energy,,543416,B,ZODIAC.BO,,,0,,ZODIAC.BO: Only 1 rows; minimum is 30 | 543416.BO: Yahoo returned no data
+BSE,STOCK,ZOTA,Zota Healthcare,,203811,NS,ZOTA.BO,,,0,,ZOTA.BO: Yahoo returned no data | 203811.BO: Yahoo returned no data
+BSE,STOCK,ZSHERAPR,Sheraton Properties & Finance,,512367,P,ZSHERAPR.BO,,,0,,ZSHERAPR.BO: Yahoo returned no data | 512367.BO: Only 1 rows; minimum is 30
+BSE,STOCK,ZSPEEDCO,Speedage Commercials,,512291,P,ZSPEEDCO.BO,,,0,,ZSPEEDCO.BO: Yahoo returned no data | 512291.BO: Only 1 rows; minimum is 30
+BSE,STOCK,ZTECH,Z-Tech India,,211634,NS,ZTECH.BO,,,0,,ZTECH.BO: Yahoo returned no data | 211634.BO: Yahoo returned no data

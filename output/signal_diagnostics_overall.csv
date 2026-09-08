@@ -1,0 +1,2 @@
+trades,wins,losses,win_rate_pct,avg_net_pct,median_net_pct,avg_gross_pct,avg_winner_pct,avg_loser_pct,profit_factor,expectancy_pct,compounded_return_pct,max_drawdown_pct,avg_holding_days,median_holding_days,target_exits,stop_exits,time_exits
+417,146,271,35.011990407673856,-0.08423676386892133,-2.6987499999999955,0.06576323613107864,4.770904242922312,-2.699921586715859,0.9519915939429152,-0.08423676386892133,-45.845655251764626,-80.32559439016421,4.280575539568345,3.0,144,271,2

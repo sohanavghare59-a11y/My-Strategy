@@ -1,0 +1,2 @@
+stocks_tested,total_trades,winning_trades,losing_trades,win_rate_pct,average_gross_return_pct,average_net_return_pct,gross_compounded_pct,net_compounded_pct,profit_factor,max_drawdown_pct,average_holding_sessions,performance_drag_pct,entry_slippage_pct,exit_slippage_pct,transaction_cost_pct,stop_loss_pct,target_pct,confirmation_window,max_holding_sessions
+100,417,146,271,35.011990407673856,0.06576323613107872,-0.0842367638689214,1.309019916345977,-45.845655251764626,0.9519915939429152,-80.32559439016421,4.280575539568345,47.1546751681106,0.05,0.05,0.15,2.5,5.0,5,30

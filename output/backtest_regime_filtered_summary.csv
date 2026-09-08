@@ -1,0 +1,2 @@
+stocks_tested,stocks_with_trades,stocks_without_trades,total_trades,winning_trades,losing_trades,win_rate_pct,average_net_return_pct,gross_average_return_pct,profit_factor,compounded_return_pct,max_drawdown_pct,average_holding_sessions,stop_loss_pct,target_pct,entry_slippage_pct,exit_slippage_pct,transaction_cost_pct,confirmation_window,regime_filter
+100,67,33,102,33,69,32.35294117647059,-0.2735171568627376,-0.12351715686273756,0.8502331823519581,-28.924574448237372,-33.20197907974245,4.637254901960785,2.5,5.0,0.05,0.05,0.15,5,NIFTY_BULL_LONG_BEAR_SHORT

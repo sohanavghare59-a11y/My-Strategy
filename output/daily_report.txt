@@ -1,0 +1,170 @@
+======================================================================
+NSE/BSE DAILY SWING TRADING REPORT
+======================================================================
+
+Report Date: 05-Sep-2026
+Strategy: EMA 5/13/26 + MACD + RSI
+Timeframe: Daily
+
+----------------------------------------------------------------------
+SIGNAL SUMMARY
+----------------------------------------------------------------------
+Total Signals : 13
+LONG Signals  : 7
+SHORT Signals : 6
+STRONG        : 4
+GOOD          : 9
+MODERATE      : 0
+
+======================================================================
+TOP LONG OPPORTUNITIES
+======================================================================
+
+1. PAISALO (NSE)
+   Direction : LONG
+   Quality   : STRONG (85.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹74.10
+   Stop Loss : ₹72.25
+   Target    : ₹77.80
+   Risk/Reward: 2.00:1
+   RSI       : 67.75
+   Volume    : 3.27x average
+
+2. WOCKPHARMA (NSE)
+   Direction : LONG
+   Quality   : STRONG (85.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹2,088.70
+   Stop Loss : ₹2,036.48
+   Target    : ₹2,193.13
+   Risk/Reward: 2.00:1
+   RSI       : 64.20
+   Volume    : 4.18x average
+
+3. CASTROLIND (NSE)
+   Direction : LONG
+   Quality   : GOOD (82.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹190.27
+   Stop Loss : ₹185.51
+   Target    : ₹199.78
+   Risk/Reward: 2.00:1
+   RSI       : 61.72
+   Volume    : 1.97x average
+
+4. KAVDEFENCE (NSE)
+   Direction : LONG
+   Quality   : GOOD (80.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹67.14
+   Stop Loss : ₹65.46
+   Target    : ₹70.50
+   Risk/Reward: 2.00:1
+   RSI       : 72.96
+   Volume    : 7.84x average
+
+5. SKIPPER (NSE)
+   Direction : LONG
+   Quality   : GOOD (80.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹591.10
+   Stop Loss : ₹576.32
+   Target    : ₹620.65
+   Risk/Reward: 2.00:1
+   RSI       : 64.68
+   Volume    : 7.43x average
+
+======================================================================
+TOP SHORT OPPORTUNITIES
+======================================================================
+
+1. GRAVITA (NSE)
+   Direction : SHORT
+   Quality   : STRONG (85.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹1,661.60
+   Stop Loss : ₹1,703.14
+   Target    : ₹1,578.52
+   Risk/Reward: 2.00:1
+   RSI       : 34.32
+   Volume    : 2.30x average
+
+2. POLYCAB (NSE)
+   Direction : SHORT
+   Quality   : STRONG (85.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹8,300.00
+   Stop Loss : ₹8,507.50
+   Target    : ₹7,885.00
+   Risk/Reward: 2.00:1
+   RSI       : 30.80
+   Volume    : 4.30x average
+
+3. GOPAL (NSE)
+   Direction : SHORT
+   Quality   : GOOD (72.00/100)
+   Date      : 2026-09-03 00:00:00
+   Entry     : ₹265.40
+   Stop Loss : ₹272.03
+   Target    : ₹252.13
+   Risk/Reward: 2.00:1
+   RSI       : 39.58
+   Volume    : 0.25x average
+
+4. HDFCAMC (NSE)
+   Direction : SHORT
+   Quality   : GOOD (72.00/100)
+   Date      : 2026-09-04 00:00:00
+   Entry     : ₹2,458.30
+   Stop Loss : ₹2,519.76
+   Target    : ₹2,335.39
+   Risk/Reward: 2.00:1
+   RSI       : 38.58
+   Volume    : 0.94x average
+
+5. HAPPSTMNDS (BSE)
+   Direction : SHORT
+   Quality   : GOOD (72.00/100)
+   Date      : 2026-09-03 00:00:00
+   Entry     : ₹353.95
+   Stop Loss : ₹362.80
+   Target    : ₹336.25
+   Risk/Reward: 2.00:1
+   RSI       : 34.13
+   Volume    : 0.86x average
+
+======================================================================
+ALL VALID SIGNALS
+======================================================================
+
+01. GRAVITA         SHORT  STRONG    85.00/100
+02. PAISALO         LONG   STRONG    85.00/100
+03. POLYCAB         SHORT  STRONG    85.00/100
+04. WOCKPHARMA      LONG   STRONG    85.00/100
+05. CASTROLIND      LONG   GOOD      82.00/100
+06. KAVDEFENCE      LONG   GOOD      80.00/100
+07. SKIPPER         LONG   GOOD      80.00/100
+08. SPLPETRO        LONG   GOOD      80.00/100
+09. GOPAL           SHORT  GOOD      72.00/100
+10. HDFCAMC         SHORT  GOOD      72.00/100
+11. HAPPSTMNDS      SHORT  GOOD      72.00/100
+12. HDFCLIFE        SHORT  GOOD      72.00/100
+13. TNPL            LONG   GOOD      70.00/100
+
+======================================================================
+RISK MANAGEMENT
+======================================================================
+
+Stop Loss      : 2.5%
+Target         : 5.0%
+Minimum R:R    : 2.0:1
+
+IMPORTANT: Position size should be determined from account risk, not from conviction or signal score.
+
+======================================================================
+SYSTEM NOTE
+======================================================================
+
+This report is generated from the deterministic trading strategy and ranking engine.
+It is a research/decision-support output and is not a guarantee of future returns.
