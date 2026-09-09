@@ -1,6 +1,7 @@
 """
 Signal-based screener — checks for exact BUY/SELL conditions.
 No scoring. Just clear signals.
+Now includes ADX trend filter for BUY signals.
 """
 
 from config import TOP_N_STOCKS
@@ -60,6 +61,7 @@ def screen_stock(data, news_items):
             "ema": data["ema"],
             "macd": data["macd"],
             "rsi": data["rsi"],
+            "adx": data.get("adx", {"value": 0, "zone": "unknown", "trending": False, "rising": False}),
             "volume": data["volume"],
             "support_resistance": data["support_resistance"],
             "candle": data["candle"],
