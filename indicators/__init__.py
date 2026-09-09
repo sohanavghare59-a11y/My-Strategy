@@ -16,6 +16,8 @@ from .legacy import (
     volume_state,
     support_resistance,
     candle_signal,
+    adx,
+    adx_state,
 )
 
 __all__ = [
@@ -31,4 +33,6 @@ __all__ = [
     "volume_state",
     "support_resistance",
     "candle_signal",
+    "adx",
+    "adx_state",
 ]

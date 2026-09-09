@@ -10,12 +10,14 @@ LONG:
     EMA 5 crosses above EMA 26
     MACD crosses above Signal
     RSI crosses above 60
+    ADX >= 25 (trending market)
 
 SHORT:
     EMA 5 crosses below EMA 13
     EMA 5 crosses below EMA 26
     MACD crosses below Signal
     RSI crosses below 40
+    (No ADX filter on shorts)
 
 The crossover events can occur on different daily candles,
 but they must occur within SIGNAL_CONFIRMATION_WINDOW candles.
@@ -60,6 +62,17 @@ RSI_PERIOD = 14
 
 RSI_BULL_THRESHOLD = 60
 RSI_BEAR_THRESHOLD = 40
+
+
+# ============================================================
+# ADX TREND FILTER
+# ============================================================
+
+# Only allows BUY (long) signals when ADX >= this value.
+# ADX < 20 = choppy/sideways market, crossovers will fail
+# ADX >= 25 = trending market, crossovers have higher success rate
+ADX_PERIOD = 14
+ADX_TREND_THRESHOLD = 25
 
 
 # ============================================================
@@ -181,7 +194,8 @@ LLM_MODEL = "gpt-4o-mini"
 
 USE_LLM_SUMMARY = bool(
     OPENAI_API_KEY
-)# ============================================================
+)
+# ============================================================
 # DASHBOARD OUTPUT
 # ============================================================
 

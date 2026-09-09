@@ -22,12 +22,6 @@ def ema_ribbon(close: pd.Series, fast=5, mid=13, slow=26):
 def ribbon_state(ribbon: dict, close: pd.Series, lookback=3):
     """
     Check EMA ribbon state and detect crossovers within last N bars.
-    Returns:
-      - state: current stack (bullish/bearish/transition)
-      - fast_crossed_above_mid: EMA5 crossed above EMA13 within lookback bars
-      - fast_crossed_above_slow: EMA5 crossed above EMA26 within lookback bars
-      - fast_crossed_below_mid: EMA5 crossed below EMA13 within lookback bars
-      - fast_crossed_below_slow: EMA5 crossed below EMA26 within lookback bars
     """
     ef = ribbon["ema_fast"]
     em = ribbon["ema_mid"]
@@ -50,12 +44,10 @@ def ribbon_state(ribbon: dict, close: pd.Series, lookback=3):
 
     if len(ef) >= lookback + 1:
         for i in range(-lookback, 0):
-            # Above crossovers
             if ef.iloc[i - 1] <= em.iloc[i - 1] and ef.iloc[i] > em.iloc[i]:
                 fast_crossed_above_mid = True
             if ef.iloc[i - 1] <= es.iloc[i - 1] and ef.iloc[i] > es.iloc[i]:
                 fast_crossed_above_slow = True
-            # Below crossovers
             if ef.iloc[i - 1] >= em.iloc[i - 1] and ef.iloc[i] < em.iloc[i]:
                 fast_crossed_below_mid = True
             if ef.iloc[i - 1] >= es.iloc[i - 1] and ef.iloc[i] < es.iloc[i]:
@@ -97,11 +89,6 @@ def macd(close: pd.Series, fast=12, slow=26, signal=9):
 def macd_state(macd_data: dict, lookback=3):
     """
     Detect MACD crossovers within last N bars.
-    Returns:
-      - signal: bullish/bearish/neutral
-      - bullish_crossover: MACD crossed above signal within lookback bars
-      - bearish_crossover: MACD crossed below signal within lookback bars
-      - histogram_rising: momentum increasing
     """
     ml = macd_data["macd_line"]
     sl = macd_data["signal_line"]
@@ -152,11 +139,6 @@ def rsi_state(rsi_series: pd.Series, bull_threshold=60, bear_threshold=40,
               lookback=3):
     """
     Detect RSI crossing above 60 or below 40 within last N bars.
-    Returns:
-      - value: current RSI
-      - zone: current zone
-      - crossed_above_60: RSI crossed above 60 within lookback bars
-      - crossed_below_40: RSI crossed below 40 within lookback bars
     """
     rsi_v = float(rsi_series.iloc[-1])
     if rsi_v != rsi_v:
@@ -236,9 +218,7 @@ def adx_state(adx_series: pd.Series, period=14):
     if adx_v != adx_v:
         adx_v = 0.0
 
-    if adx_v >= 30:
-        zone = "trending"
-    elif adx_v >= 25:
+    if adx_v >= 25:
         zone = "trending"
     elif adx_v >= 20:
         zone = "strengthening"
