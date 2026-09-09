@@ -1,6 +1,7 @@
 """
 Data fetcher v3 — parallel fetching for NIFTY + indices.
 Single thread pool for stocks and indices together.
+Now includes ADX trend strength indicator.
 """
 
 import yfinance as yf
@@ -18,11 +19,13 @@ from config import (
     MACD_FAST, MACD_SLOW, MACD_SIGNAL,
     RSI_PERIOD, RSI_BULL_THRESHOLD, RSI_BEAR_THRESHOLD,
     VOLUME_AVG_PERIOD, VOLUME_SPIKE_MULT,
+    ADX_PERIOD,
 )
 from indicators import (
     ema_ribbon, ribbon_state, macd, macd_state,
     rsi as calc_rsi, rsi_state, volume_state,
     support_resistance, candle_signal,
+    adx as calc_adx, adx_state,
 )
 
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "data", "cache")
@@ -84,6 +87,10 @@ def fetch_symbol_data(symbol, is_index=False):
         rsi_series = calc_rsi(close, RSI_PERIOD)
         rs_state = rsi_state(rsi_series, RSI_BULL_THRESHOLD, RSI_BEAR_THRESHOLD, lookback=3)
 
+        # ADX trend strength
+        adx_series = calc_adx(hist, period=ADX_PERIOD)
+        ad_state = adx_state(adx_series, period=ADX_PERIOD)
+
         vol_state = volume_state(volume, VOLUME_AVG_PERIOD, VOLUME_SPIKE_MULT)
         sr = support_resistance(hist, lookback=20)
         candle = candle_signal(hist)
@@ -116,6 +123,7 @@ def fetch_symbol_data(symbol, is_index=False):
                 "histogram_rising": mc_state["histogram_rising"],
             },
             "rsi": rs_state,
+            "adx": ad_state,
             "volume": vol_state,
             "support_resistance": sr,
             "candle": candle,

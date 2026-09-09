@@ -1,5 +1,5 @@
 """
-Indicators module — EMA ribbon, MACD, RSI, volume, support/resistance.
+Indicators module — EMA ribbon, MACD, RSI, volume, support/resistance, ADX.
 Includes crossover detection for signal-based trading.
 """
 
@@ -184,6 +184,75 @@ def rsi_state(rsi_series: pd.Series, bull_threshold=60, bear_threshold=40,
         "zone": zone,
         "crossed_above_60": crossed_above_60,
         "crossed_below_40": crossed_below_40,
+    }
+
+
+def adx(hist: pd.DataFrame, period: int = 14):
+    """
+    Calculate ADX (Average Directional Index) — measures trend strength.
+    ADX > 25 = trending market (good for crossover strategies)
+    ADX < 20 = sideways/choppy market (crossovers will fail)
+
+    Returns a pd.Series of ADX values.
+    """
+    high = hist["High"]
+    low = hist["Low"]
+    close = hist["Close"]
+
+    # True Range
+    tr1 = high - low
+    tr2 = (high - close.shift(1)).abs()
+    tr3 = (low - close.shift(1)).abs()
+    tr = pd.concat([tr1, tr2, tr3], axis=1).max(axis=1)
+
+    # Directional Movement
+    up_move = high - high.shift(1)
+    down_move = low.shift(1) - low
+
+    plus_dm = up_move.where((up_move > down_move) & (up_move > 0), 0.0)
+    minus_dm = down_move.where((down_move > up_move) & (down_move > 0), 0.0)
+
+    # Smoothed averages (Wilder's method)
+    atr = tr.ewm(alpha=1 / period, min_periods=period, adjust=False).mean()
+    plus_di = 100 * (plus_dm.ewm(alpha=1 / period, min_periods=period, adjust=False).mean() / atr)
+    minus_di = 100 * (minus_dm.ewm(alpha=1 / period, min_periods=period, adjust=False).mean() / atr)
+
+    dx = 100 * (plus_di - minus_di).abs() / (plus_di + minus_di).replace(0, 1)
+    adx_series = dx.ewm(alpha=1 / period, min_periods=period, adjust=False).mean()
+
+    return adx_series
+
+
+def adx_state(adx_series: pd.Series, period=14):
+    """
+    Evaluate ADX trend strength.
+    Returns:
+      - value: current ADX
+      - zone: trending / strengthening / weak
+      - trending: True if ADX >= 25 (strong enough for crossover signals)
+      - rising: True if ADX is increasing (trend getting stronger)
+    """
+    adx_v = float(adx_series.iloc[-1])
+    if adx_v != adx_v:
+        adx_v = 0.0
+
+    if adx_v >= 30:
+        zone = "trending"
+    elif adx_v >= 25:
+        zone = "trending"
+    elif adx_v >= 20:
+        zone = "strengthening"
+    else:
+        zone = "weak"
+
+    rising = len(adx_series) >= 2 and adx_series.iloc[-1] > adx_series.iloc[-2]
+    trending = adx_v >= 25
+
+    return {
+        "value": round(adx_v, 1),
+        "zone": zone,
+        "trending": trending,
+        "rising": bool(rising),
     }
 
 

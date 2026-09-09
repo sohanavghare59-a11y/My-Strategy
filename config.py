@@ -53,6 +53,13 @@ RSI_BEAR_THRESHOLD = 40
 RSI_PULLBACK_LOW = 40
 RSI_PULLBACK_HIGH = 55
 
+# ─── ADX Trend Filter ────────────────────────────────────────────
+# Only allows BUY (long) signals when ADX >= this value.
+# ADX < 20 = choppy/sideways market, crossovers will fail
+# ADX >= 25 = trending market, crossovers have higher success rate
+ADX_PERIOD = 14
+ADX_TREND_THRESHOLD = 25
+
 # ─── Volume Confirmation ─────────────────────────────────────────
 VOLUME_AVG_PERIOD = 20
 VOLUME_SPIKE_MULT = 1.3
