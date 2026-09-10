@@ -13,6 +13,7 @@ Gives SELL signal when ALL conditions are met:
   3. RSI crosses below 40
   (No ADX filter on shorts — breakdowns work even in weak trend markets)
 
+Stop loss uses a FIXED percentage (2.5%) for consistent 1:2 R:R.
 No scoring — just clear BUY / SELL / NO SIGNAL.
 """
 
@@ -118,18 +119,22 @@ def check_sell_signal(data):
 
 
 def calculate_trade_setup(data, direction):
-    """Calculate entry, stop-loss, and targets for a BUY or SELL signal."""
+    """
+    Calculate entry, stop-loss, and targets for a BUY or SELL signal.
+    
+    Uses FIXED percentage stop loss for consistent R:R ratio:
+      Stop Loss = 2.5% from entry
+      Target 1 = 5.0% from entry  →  R:R = 1:2
+      Target 2 = 10.0% from entry →  R:R = 1:4
+    """
     entry = data["latest_close"]
-    ema_slow = data["ema"]["ema_slow"]
-    support = data["support_resistance"]["support"]
-    resistance = data["support_resistance"]["resistance"]
 
     if direction == "BUY":
-        stop_loss = min(entry * (1 - STOP_LOSS_PCT), ema_slow * 0.99, support * 0.995)
+        stop_loss = entry * (1 - STOP_LOSS_PCT)
         target1 = entry * (1 + TARGET_1_PCT)
         target2 = entry * (1 + TARGET_2_PCT)
     else:  # SELL
-        stop_loss = max(entry * (1 + STOP_LOSS_PCT), ema_slow * 1.01, resistance * 1.005)
+        stop_loss = entry * (1 + STOP_LOSS_PCT)
         target1 = entry * (1 - TARGET_1_PCT)
         target2 = entry * (1 - TARGET_2_PCT)
 
