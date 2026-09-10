@@ -206,7 +206,7 @@ TOP_N_INDICES = 10
 # STOCK UNIVERSE
 # ============================================================
 
-NIFTY_LIST = "ind_nifty1000list.csv"
+NIFTY_LIST = "ind_nifty500list.csv"
 
 FALLBACK_WATCHLIST = [
     "RELIANCE", "TCS", "HDFCBANK", "INFY", "ICICIBANK",
