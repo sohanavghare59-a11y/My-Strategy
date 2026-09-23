@@ -1,7 +1,7 @@
 """
 Data fetcher v3 — parallel fetching for NIFTY + indices.
 Single thread pool for stocks and indices together.
-Now includes ADX trend strength indicator.
+Includes ADX trend strength, ATR volatility, and EMA-200 long-term trend.
 """
 
 import yfinance as yf
@@ -19,7 +19,7 @@ from config import (
     MACD_FAST, MACD_SLOW, MACD_SIGNAL,
     RSI_PERIOD, RSI_BULL_THRESHOLD, RSI_BEAR_THRESHOLD,
     VOLUME_AVG_PERIOD, VOLUME_SPIKE_MULT,
-    ADX_PERIOD,
+    ADX_PERIOD, ATR_PERIOD, REGIME_EMA_PERIOD,
 )
 from indicators import (
     ema_ribbon, ribbon_state, macd, macd_state,
@@ -52,6 +52,31 @@ def _save_cache(key, data):
     path = os.path.join(CACHE_DIR, f"{key}.json")
     with open(path, "w") as f:
         json.dump(data, f, default=str)
+
+
+def _calc_atr(hist, period=14):
+    """Average True Range — daily volatility measure."""
+    high = hist["High"]
+    low = hist["Low"]
+    close = hist["Close"]
+
+    tr = pd.concat([
+        high - low,
+        (high - close.shift(1)).abs(),
+        (low - close.shift(1)).abs(),
+    ], axis=1).max(axis=1)
+
+    atr_series = tr.ewm(alpha=1 / period, min_periods=period, adjust=False).mean()
+    return atr_series
+
+
+def _calc_above_ema200(close, period=REGIME_EMA_PERIOD):
+    """True if latest close is above its long-term EMA, False if below, None if not enough data."""
+    ema_val = float(close.ewm(span=period, adjust=False, min_periods=100).mean().iloc[-1])
+    latest = float(close.iloc[-1])
+    if ema_val != ema_val or latest != latest:
+        return None
+    return bool(latest > ema_val)
 
 
 def fetch_symbol_data(symbol, is_index=False):
@@ -91,6 +116,15 @@ def fetch_symbol_data(symbol, is_index=False):
         adx_series = calc_adx(hist, period=ADX_PERIOD)
         ad_state = adx_state(adx_series, period=ADX_PERIOD)
 
+        # ATR volatility (for adaptive stop loss)
+        atr_series = _calc_atr(hist, period=ATR_PERIOD)
+        atr_v = float(atr_series.iloc[-1])
+        if atr_v != atr_v:  # NaN fallback
+            atr_v = latest_close * 0.02
+
+        # Long-term trend: above/below EMA 200
+        above_ema200 = _calc_above_ema200(close)
+
         vol_state = volume_state(volume, VOLUME_AVG_PERIOD, VOLUME_SPIKE_MULT)
         sr = support_resistance(hist, lookback=20)
         candle = candle_signal(hist)
@@ -124,6 +158,8 @@ def fetch_symbol_data(symbol, is_index=False):
             },
             "rsi": rs_state,
             "adx": ad_state,
+            "atr": round(atr_v, 2),
+            "above_ema200": above_ema200,
             "volume": vol_state,
             "support_resistance": sr,
             "candle": candle,
@@ -273,3 +309,19 @@ def fetch_stocks_and_indices(stock_tickers, index_tickers,
         print(f"\n  ⚠ {len(failed)} symbol(s) failed: {', '.join(failed[:10])}{'...' if len(failed) > 10 else ''}\n")
 
     return stock_data, stock_news, index_data
+
+
+def get_market_regime(index_data):
+    """
+    Derive the market regime from NIFTY 50 data.
+    Returns "bullish" if NIFTY is above its 200 EMA,
+    "bearish" if below, None if NIFTY data is unavailable.
+    """
+    nifty = index_data.get("^NSEI") if index_data else None
+    if not nifty:
+        return None
+    if nifty.get("above_ema200") is True:
+        return "bullish"
+    if nifty.get("above_ema200") is False:
+        return "bearish"
+    return None

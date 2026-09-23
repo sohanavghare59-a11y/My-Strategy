@@ -10,7 +10,7 @@ from datetime import datetime
 
 from config import TOP_N_STOCKS, TOP_N_INDICES
 from stock_universe import fetch_nifty500_tickers, fetch_index_tickers, get_index_name
-from data_fetcher import fetch_stocks_and_indices, fetch_news
+from data_fetcher import fetch_stocks_and_indices, fetch_news, get_market_regime
 from screener import screen_all, screen_indices
 from agent import enrich_with_summary, market_overview
 
@@ -25,11 +25,12 @@ _state = {
     "progress": "",
     "total_stocks": 0,
     "total_indices": 0,
+    "market_regime": None,
 }
 
 
 def run_research():
-    """Background research: fetch NIFTY + indices → screen → score → enrich."""
+    """Background research: fetch NIFTY + indices → screen → enrich."""
     _state["status"] = "running"
     _state["progress"] = "Loading stock universe..."
 
@@ -57,10 +58,16 @@ def run_research():
 
         print(f"\n  ✓ Fetched {len(stock_data)} stocks + {len(index_data)} indices")
 
-        # 3. Screen stocks
+        # 2.5 Determine NIFTY market regime (200 EMA)
+        market_regime = get_market_regime(index_data)
+        _state["market_regime"] = market_regime
+        if market_regime:
+            print(f"  ✓ Market regime: NIFTY 50 is {'ABOVE' if market_regime == 'bullish' else 'BELOW'} its 200 EMA ({market_regime})")
+
+        # 3. Screen stocks (with regime filter applied)
         _state["progress"] = "Screening stocks..."
         print("  Screening stocks...")
-        results = screen_all(stock_data, stock_news)
+        results = screen_all(stock_data, stock_news, index_data)
 
         # 3.5 Fetch news ONLY for top N stocks
         _state["progress"] = f"Fetching news for top {TOP_N_STOCKS} stocks..."
@@ -69,14 +76,9 @@ def run_research():
             try:
                 news = fetch_news(r["ticker"], company_name=r["name"], days=3)
                 r["news"] = news[:5]
-                from screener_logic import score_news
-                ns, ns_signals = score_news(news)
-                r["news_score"] = round(ns, 1)
-                r["signals"]["news"] = ns_signals
                 time.sleep(0.2)
             except Exception:
                 r["news"] = []
-                r["news_score"] = 50.0
 
         # 4. Screen indices
         _state["progress"] = "Screening indices..."
@@ -133,6 +135,7 @@ def dashboard():
             top_n=TOP_N_STOCKS,
             total_stocks=_state["total_stocks"],
             total_indices=_state["total_indices"],
+            market_regime=_state["market_regime"],
         )
     except Exception as e:
         import traceback
@@ -156,6 +159,7 @@ def api_results():
         "last_updated": _state["last_updated"],
         "status": _state["status"],
         "progress": _state["progress"],
+        "market_regime": _state["market_regime"],
     })
 
 
@@ -169,8 +173,8 @@ def refresh():
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("  Swing Trading Research Agent v3")
-    print("  NIFTY + All NSE/BSE Indices | Daily | Parallel")
+    print("  Swing Trading Research Agent v3 (Improved)")
+    print("  NIFTY 500 | Daily | Regime + ADX + Volume filters")
     print("=" * 60)
     print("\n  Starting dashboard NOW — data will load in background...\n")
 

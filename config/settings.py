@@ -1,26 +1,34 @@
 """
-Configuration for the Daily NSE/BSE Swing Trading Agent.
+Configuration for the Daily NSE/BSE Swing Trading Agent — improved.
 
 Strategy
 --------
 Daily timeframe.
 
-LONG:
+BUY (ALL conditions required):
     EMA 5 crosses above EMA 13
     EMA 5 crosses above EMA 26
     MACD crosses above Signal
     RSI crosses above 60
     ADX >= 25 (trending market)
+    NIFTY 50 above its 200 EMA (market regime)
+    Stock above its own 200 EMA (long-term trend)
+    Volume ratio >= 1.2 (participation)
 
-SHORT:
+SELL (ALL conditions required):
     EMA 5 crosses below EMA 13
     EMA 5 crosses below EMA 26
     MACD crosses below Signal
     RSI crosses below 40
-    (No ADX filter on shorts)
+    NIFTY 50 below its 200 EMA
+    Stock below its own 200 EMA
+    Volume ratio >= 1.2
 
-The crossover events can occur on different daily candles,
-but they must occur within SIGNAL_CONFIRMATION_WINDOW candles.
+Risk management:
+    ATR-based stop: 1.5 x ATR(14), clamped between 1% and 3%
+    Target 1 = 2x risk  (1:2 R:R)
+    Target 2 = 4x risk  (1:4 R:R)
+    Position size risks 1% of account per trade
 """
 
 import os
@@ -65,41 +73,70 @@ RSI_BEAR_THRESHOLD = 40
 
 
 # ============================================================
-# ADX TREND FILTER
+# ADX TREND FILTER (BUY only)
 # ============================================================
 
-# Only allows BUY (long) signals when ADX >= this value.
-# ADX < 20 = choppy/sideways market, crossovers will fail
-# ADX >= 25 = trending market, crossovers have higher success rate
 ADX_PERIOD = 14
 ADX_TREND_THRESHOLD = 25
+
+
+# ============================================================
+# MARKET REGIME FILTER
+# ============================================================
+# BUY signals only fire when NIFTY 50 is above its own
+# 200-day EMA (bullish regime).
+# SELL signals only fire when NIFTY 50 is below it.
+# This blocks counter-trend trades — the main source of
+# losing longs in the backtests.
+
+REGIME_EMA_PERIOD = 200
+
+
+# ============================================================
+# VOLUME CONFIRMATION (required for entry)
+# ============================================================
+# Latest day's volume must be at least this multiple of the
+# 20-day average volume. Low-volume crossovers fail often.
+
+VOLUME_CONFIRM_MIN = 1.2
+
+
+# ============================================================
+# ATR VOLATILITY STOP
+# ============================================================
+# Stop loss distance = ATR_STOP_MULT x ATR(14), clamped
+# between STOP_MIN_PCT and STOP_MAX_PCT of the entry price.
+# Targets are set as multiples of the actual risk, so the
+# R:R stays fixed at 1:2 (T1) and 1:4 (T2) on every trade.
+
+ATR_PERIOD = 14
+ATR_STOP_MULT = 1.5
+STOP_MIN_PCT = 0.01     # never tighter than 1%
+STOP_MAX_PCT = 0.03     # never wider  than 3%
+TARGET_1_RR = 2.0       # Target 1 = 2 x risk
+TARGET_2_RR = 4.0       # Target 2 = 4 x risk
+
+
+# ============================================================
+# POSITION SIZING
+# ============================================================
+# Suggested quantity risks 1% of the account on one trade.
+
+ACCOUNT_SIZE = 100000   # rupees — change to your capital
+RISK_PER_TRADE = 0.01   # 1% of account risked per trade
 
 
 # ============================================================
 # SIGNAL SETTINGS
 # ============================================================
 
-# The four crossover events do not have to happen
-# on exactly the same candle.
-#
-# Example:
-#
-# Day 1 -> EMA crossover
-# Day 2 -> MACD crossover
-# Day 3 -> RSI crossover
-#
-# This is still considered one setup if all events
-# happen inside this window.
-
 SIGNAL_CONFIRMATION_WINDOW = 5
 
-# After all crossover conditions occur, the current
-# indicator state must still be aligned.
 REQUIRE_CURRENT_TREND_ALIGNMENT = True
 
 
 # ============================================================
-# RISK MANAGEMENT
+# LEGACY FIXED PERCENTAGE RISK (kept for compatibility)
 # ============================================================
 
 STOP_LOSS_PCT = 0.025
@@ -112,7 +149,7 @@ MIN_RISK_REWARD = 2.0
 
 
 # ============================================================
-# VOLUME
+# VOLUME AVERAGE (display / ratio)
 # ============================================================
 
 VOLUME_AVG_PERIOD = 20
@@ -134,8 +171,6 @@ SUPPORTED_INSTRUMENT_TYPES = [
     "INDEX",
 ]
 
-# Eventually the scanner will use the complete
-# available NSE + BSE universe.
 SCAN_ALL_LISTED = True
 
 
@@ -147,15 +182,8 @@ MAX_WORKERS = 8
 
 FETCH_DELAY = 0.1
 
-# IMPORTANT:
-# Keep this True while we test the system.
-#
-# Once everything works correctly, we will change
-# this to False and scan the full universe.
-
 TEST_MODE = True
 
-# Number of instruments during testing.
 TEST_SYMBOL_LIMIT = 5
 
 
@@ -195,6 +223,7 @@ LLM_MODEL = "gpt-4o-mini"
 USE_LLM_SUMMARY = bool(
     OPENAI_API_KEY
 )
+
 # ============================================================
 # DASHBOARD OUTPUT
 # ============================================================
@@ -221,7 +250,7 @@ FALLBACK_WATCHLIST = [
 ]
 
 # ============================================================
-# SCORING WEIGHTS (must sum to 1.0)
+# SCORING WEIGHTS (legacy, unused by signal screener)
 # ============================================================
 
 WEIGHTS = {
@@ -233,7 +262,7 @@ WEIGHTS = {
 }
 
 # ============================================================
-# RSI PULLBACK ZONE
+# RSI PULLBACK ZONE (legacy)
 # ============================================================
 
 RSI_PULLBACK_LOW = 40
