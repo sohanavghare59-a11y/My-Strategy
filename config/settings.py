@@ -10,8 +10,6 @@ BUY (ALL conditions required):
     EMA 5 crosses above EMA 26
     MACD crosses above Signal
     RSI crosses above 60
-    ADX >= 25 (trending market)
-    NIFTY 50 above its 200 EMA (market regime)
     Stock above its own 200 EMA (long-term trend)
     Volume ratio >= 1.2 (participation)
 
@@ -20,13 +18,12 @@ SELL (ALL conditions required):
     EMA 5 crosses below EMA 26
     MACD crosses below Signal
     RSI crosses below 40
-    NIFTY 50 below its 200 EMA
     Stock below its own 200 EMA
     Volume ratio >= 1.2
 
 Risk management:
     ATR-based stop: 1.5 x ATR(14), clamped between 1% and 3%
-    Target 1 = 2x risk  (1:2 R:R)
+    Target 1 = 3x risk  (1:3 R:R)
     Target 2 = 4x risk  (1:4 R:R)
     Position size risks 1% of account per trade
 """
@@ -73,7 +70,8 @@ RSI_BEAR_THRESHOLD = 40
 
 
 # ============================================================
-# ADX TREND FILTER (BUY only)
+# ADX (kept for dashboard display only — NOT used as a filter;
+# it was removed after 5-year testing showed it hurt performance)
 # ============================================================
 
 ADX_PERIOD = 14
@@ -81,13 +79,10 @@ ADX_TREND_THRESHOLD = 25
 
 
 # ============================================================
-# MARKET REGIME FILTER
+# MARKET REGIME (dashboard display only — NOT used as a filter;
+# the NIFTY regime filter was removed after 5-year testing
+# showed it blocked profitable trades in both directions)
 # ============================================================
-# BUY signals only fire when NIFTY 50 is above its own
-# 200-day EMA (bullish regime).
-# SELL signals only fire when NIFTY 50 is below it.
-# This blocks counter-trend trades — the main source of
-# losing longs in the backtests.
 
 REGIME_EMA_PERIOD = 200
 
@@ -113,7 +108,7 @@ ATR_PERIOD = 14
 ATR_STOP_MULT = 1.5
 STOP_MIN_PCT = 0.01     # never tighter than 1%
 STOP_MAX_PCT = 0.03     # never wider  than 3%
-TARGET_1_RR = 2.0       # Target 1 = 2 x risk
+TARGET_1_RR = 3.0       # Target 1 = 3 x risk (5y backtest optimum)
 TARGET_2_RR = 4.0       # Target 2 = 4 x risk
 
 
